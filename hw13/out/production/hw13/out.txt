@@ -1,0 +1,269 @@
+[2023-01-04] 28811113 queried C-1982 from self-service machine
+[2023-01-04] 28811113 borrowed C-1982 from self-service machine
+[2023-01-04] 27882411 queried B-1807 from self-service machine
+[2023-01-04] 27882411 borrowed B-1807 from borrowing and returning librarian
+[2023-01-07] 35978448 queried B-2744 from self-service machine
+[2023-01-07] 35978448 borrowed B-2744 from borrowing and returning librarian
+[2023-01-09] 64417916 queried C-5550 from self-service machine
+[2023-01-09] 64417916 borrowed C-5550 from self-service machine
+[2023-01-10] 03767901 queried C-7141 from self-service machine
+[2023-01-10] 03767901 borrowed C-7141 from self-service machine
+[2023-01-12] 32503147 queried C-4189 from self-service machine
+[2023-01-12] 32503147 borrowed C-4189 from self-service machine
+[2023-01-13] 61922783 queried B-4969 from self-service machine
+[2023-01-13] 61922783 borrowed B-4969 from borrowing and returning librarian
+[2023-01-15] 55316994 queried C-5345 from self-service machine
+[2023-01-15] 55316994 borrowed C-5345 from self-service machine
+[2023-01-17] 28811113 returned C-1982 to self-service machine
+[2023-01-18] 91413889 queried B-7827 from self-service machine
+[2023-01-18] 91413889 borrowed B-7827 from borrowing and returning librarian
+[2023-01-20] 32503147 returned C-4189 to self-service machine
+[2023-01-23] 90667110 queried B-0251 from self-service machine
+[2023-01-23] 90667110 borrowed B-0251 from borrowing and returning librarian
+[2023-01-26] 02486355 queried C-4189 from self-service machine
+[2023-01-26] 02486355 borrowed C-4189 from self-service machine
+[2023-01-28] 60876046 queried C-4152 from self-service machine
+[2023-01-28] 60876046 borrowed C-4152 from self-service machine
+[2023-01-29] 91961679 queried C-5345 from self-service machine
+[2023-01-29] 91961679 borrowed C-5345 from self-service machine
+[2023-01-29] 55316994 returned C-5345 to self-service machine
+[2023-01-31] 32503147 queried C-6480 from self-service machine
+[2023-01-31] 32503147 borrowed C-6480 from self-service machine
+[2023-02-02] 90667110 got punished by borrowing and returning librarian
+[2023-02-03] 52824261 queried B-8189 from self-service machine
+[2023-02-03] 52824261 borrowed B-8189 from borrowing and returning librarian
+[2023-02-04] 91961679 got punished by borrowing and returning librarian
+[2023-02-05] 61922783 got punished by borrowing and returning librarian
+[2023-02-08] 02486355 returned C-4189 to self-service machine
+[2023-02-10] 54908032 queried C-1982 from self-service machine
+[2023-02-10] 54908032 borrowed C-1982 from self-service machine
+[2023-02-13] 55316994 queried B-4263 from self-service machine
+[2023-02-13] 55316994 borrowed B-4263 from borrowing and returning librarian
+[2023-02-14] 91413889 got punished by borrowing and returning librarian
+[2023-02-14] 01487337 queried B-7065 from self-service machine
+[2023-02-14] 01487337 borrowed B-7065 from borrowing and returning librarian
+[2023-02-16] 03767901 got punished by borrowing and returning librarian
+[2023-02-16] 03767901 returned C-7141 to self-service machine
+[2023-02-16] C-7141 got repaired by logistics division
+[2023-02-17] 94309203 queried B-5759 from self-service machine
+[2023-02-17] 94309203 borrowed B-5759 from borrowing and returning librarian
+[2023-02-19] 90667110 queried C-1361 from self-service machine
+[2023-02-19] 90667110 borrowed C-1361 from self-service machine
+[2023-02-25] 40431942 queried B-7235 from self-service machine
+[2023-02-25] 40431942 borrowed B-7235 from borrowing and returning librarian
+[2023-02-26] 76053150 queried B-7827 from self-service machine
+[2023-02-26] 76053150 borrowed B-7827 from borrowing and returning librarian
+[2023-03-01] 91961679 queried B-7525 from self-service machine
+[2023-03-01] 91961679 borrowed B-7525 from borrowing and returning librarian
+[2023-03-01] 62498683 queried B-0251 from self-service machine
+[2023-03-01] 62498683 borrowed B-0251 from borrowing and returning librarian
+[2023-03-02] 55316994 got punished by borrowing and returning librarian
+[2023-03-02] 55316994 returned B-4263 to borrowing and returning librarian
+[2023-03-02] B-4263 got repaired by logistics division
+[2023-03-03] 54908032 returned C-1982 to self-service machine
+[2023-03-09] 76053150 got punished by borrowing and returning librarian
+[2023-03-09] 19516092 queried C-7580 from self-service machine
+[2023-03-09] 19516092 borrowed C-7580 from self-service machine
+[2023-03-10] 91413889 queried B-2996 from self-service machine
+[2023-03-10] 91413889 borrowed B-2996 from borrowing and returning librarian
+[2023-03-12] 60876046 got punished by borrowing and returning librarian
+[2023-03-12] 60876046 returned C-4152 to self-service machine
+[2023-03-12] C-4152 got repaired by logistics division
+[2023-03-15] 28754467 queried B-7827 from self-service machine
+[2023-03-15] 28754467 borrowed B-7827 from borrowing and returning librarian
+[2023-03-15] 67723265 queried B-2263 from self-service machine
+[2023-03-15] 67723265 borrowed B-2263 from borrowing and returning librarian
+[2023-03-17] 24076512 queried C-8847 from self-service machine
+[2023-03-17] 24076512 borrowed C-8847 from self-service machine
+[2023-03-17] 09550248 queried C-7141 from self-service machine
+[2023-03-17] 09550248 borrowed C-7141 from self-service machine
+[2023-03-17] 32503147 got punished by borrowing and returning librarian
+[2023-03-17] 32503147 returned C-6480 to self-service machine
+[2023-03-17] C-6480 got repaired by logistics division
+[2023-03-17] 61922783 queried C-9607 from self-service machine
+[2023-03-17] 61922783 borrowed C-9607 from self-service machine
+[2023-03-19] 54908032 queried C-8773 from self-service machine
+[2023-03-19] 54908032 borrowed C-8773 from self-service machine
+[2023-03-19] 28754467 got punished by borrowing and returning librarian
+[2023-03-22] 61922783 returned C-9607 to self-service machine
+[2023-03-23] 28811113 queried B-4361 from self-service machine
+[2023-03-23] 28811113 borrowed B-4361 from borrowing and returning librarian
+[2023-03-26] 64417916 got punished by borrowing and returning librarian
+[2023-03-28] 32503147 queried B-2996 from self-service machine
+[2023-03-28] 32503147 borrowed B-2996 from borrowing and returning librarian
+[2023-03-30] 60876046 queried C-7991 from self-service machine
+[2023-03-30] 60876046 borrowed C-7991 from self-service machine
+[2023-03-31] 02486355 queried B-7827 from self-service machine
+[2023-03-31] 02486355 ordered B-7827 from ordering librarian
+[2023-04-01] 67723265 got punished by borrowing and returning librarian
+[2023-04-01] 19516092 got punished by borrowing and returning librarian
+[2023-04-01] 19516092 returned C-7580 to self-service machine
+[2023-04-01] C-7580 got repaired by logistics division
+[2023-04-03] 67723265 queried C-3692 from self-service machine
+[2023-04-03] 67723265 borrowed C-3692 from self-service machine
+[2023-04-04] 02486355 queried B-0540 from self-service machine
+[2023-04-04] 02486355 borrowed B-0540 from borrowing and returning librarian
+[2023-04-04] 28811113 got punished by borrowing and returning librarian
+[2023-04-06] 28811113 queried B-9276 from self-service machine
+[2023-04-06] 28811113 borrowed B-9276 from borrowing and returning librarian
+[2023-04-09] 64417916 queried B-8981 from self-service machine
+[2023-04-09] 64417916 borrowed B-8981 from borrowing and returning librarian
+[2023-04-12] 19516092 queried C-8517 from self-service machine
+[2023-04-12] 19516092 borrowed C-8517 from self-service machine
+[2023-04-12] 09550248 got punished by borrowing and returning librarian
+[2023-04-14] 90667110 returned C-1361 to self-service machine
+[2023-04-19] 32503147 got punished by borrowing and returning librarian
+[2023-04-21] 02486355 got punished by borrowing and returning librarian
+[2023-04-21] 64417916 got punished by borrowing and returning librarian
+[2023-04-24] 19516092 got punished by borrowing and returning librarian
+[2023-04-26] 91413889 got punished by borrowing and returning librarian
+[2023-04-26] 91413889 returned B-2996 to borrowing and returning librarian
+[2023-04-26] B-2996 got repaired by logistics division
+[2023-04-27] 61922783 queried B-8891 from self-service machine
+[2023-04-27] 61922783 borrowed B-8891 from borrowing and returning librarian
+[2023-04-30] 94309203 returned B-5759 to borrowing and returning librarian
+[2023-04-30] 54908032 got punished by borrowing and returning librarian
+[2023-04-30] 52824261 got punished by borrowing and returning librarian
+[2023-04-30] 52824261 returned B-8189 to borrowing and returning librarian
+[2023-04-30] B-8189 got repaired by logistics division
+[2023-04-30] 52824261 queried B-1315 from self-service machine
+[2023-04-30] 52824261 borrowed B-1315 from borrowing and returning librarian
+[2023-04-30] 62498683 returned B-0251 to borrowing and returning librarian
+[2023-04-30] 19516092 queried B-4796 from self-service machine
+[2023-04-30] 19516092 borrowed B-4796 from borrowing and returning librarian
+[2023-04-30] 91413889 queried B-7235 from self-service machine
+[2023-04-30] 91413889 borrowed B-7235 from borrowing and returning librarian
+[2023-05-01] 03767901 queried B-8189 from self-service machine
+[2023-05-01] 03767901 borrowed B-8189 from borrowing and returning librarian
+[2023-05-04] 60876046 returned C-7991 to self-service machine
+[2023-05-07] 28754467 queried C-5406 from self-service machine
+[2023-05-07] 28754467 borrowed C-5406 from self-service machine
+[2023-05-08] 64417916 queried C-8517 from self-service machine
+[2023-05-08] 64417916 borrowed C-8517 from self-service machine
+[2023-05-09] 09550248 queried B-2263 from self-service machine
+[2023-05-09] 09550248 borrowed B-2263 from borrowing and returning librarian
+[2023-05-09] 90667110 queried B-7065 from self-service machine
+[2023-05-09] 90667110 ordered B-7065 from ordering librarian
+[2023-05-09] 35978448 got punished by borrowing and returning librarian
+[2023-05-11] 91413889 got punished by borrowing and returning librarian
+[2023-05-12] 52824261 returned B-1315 to borrowing and returning librarian
+[2023-05-15] 24076512 got punished by borrowing and returning librarian
+[2023-05-16] 35978448 queried C-8550 from self-service machine
+[2023-05-16] 35978448 borrowed C-8550 from self-service machine
+[2023-05-17] 40431942 got punished by borrowing and returning librarian
+[2023-05-17] 52824261 queried B-0576 from self-service machine
+[2023-05-17] 52824261 borrowed B-0576 from borrowing and returning librarian
+[2023-05-20] 90667110 queried C-1584 from self-service machine
+[2023-05-20] 90667110 borrowed C-1584 from self-service machine
+[2023-05-20] 02486355 queried C-5345 from self-service machine
+[2023-05-20] 02486355 borrowed C-5345 from self-service machine
+[2023-05-21] 61922783 got punished by borrowing and returning librarian
+[2023-05-21] 24076512 queried C-4189 from self-service machine
+[2023-05-21] 24076512 borrowed C-4189 from self-service machine
+[2023-05-24] 62498683 queried C-8847 from self-service machine
+[2023-05-24] 62498683 borrowed C-8847 from self-service machine
+[2023-05-24] 91961679 got punished by borrowing and returning librarian
+[2023-05-24] 91961679 returned B-7525 to borrowing and returning librarian
+[2023-05-24] B-7525 got repaired by logistics division
+[2023-05-26] 55316994 queried C-9769 from self-service machine
+[2023-05-26] 55316994 borrowed C-9769 from self-service machine
+[2023-05-26] 94309203 queried C-0011 from self-service machine
+[2023-05-26] 94309203 borrowed C-0011 from self-service machine
+[2023-05-27] 32503147 queried B-0302 from self-service machine
+[2023-05-27] 32503147 borrowed B-0302 from borrowing and returning librarian
+[2023-05-27] 28754467 returned C-5406 to self-service machine
+[2023-05-30] 90667110 got punished by borrowing and returning librarian
+[2023-05-31] 52824261 got punished by borrowing and returning librarian
+[2023-06-05] 32503147 got punished by borrowing and returning librarian
+[2023-06-07] 90667110 queried C-0011 from self-service machine
+[2023-06-07] 90667110 borrowed C-0011 from self-service machine
+[2023-06-09] 61922783 queried C-4510 from self-service machine
+[2023-06-09] 61922783 borrowed C-4510 from self-service machine
+[2023-06-12] 61922783 returned C-4510 to self-service machine
+[2023-06-15] 52824261 queried C-0011 from self-service machine
+[2023-06-15] 52824261 borrowed C-0011 from self-service machine
+[2023-06-15] 55316994 got punished by borrowing and returning librarian
+[2023-06-17] 54908032 queried B-7235 from self-service machine
+[2023-06-17] 54908032 borrowed B-7235 from borrowing and returning librarian
+[2023-06-19] 32503147 queried C-6480 from self-service machine
+[2023-06-19] 32503147 borrowed C-6480 from self-service machine
+[2023-06-22] 91413889 queried C-9769 from self-service machine
+[2023-06-22] 91413889 borrowed C-9769 from self-service machine
+[2023-06-22] 09550248 got punished by borrowing and returning librarian
+[2023-06-23] 91961679 queried C-1361 from self-service machine
+[2023-06-23] 91961679 borrowed C-1361 from self-service machine
+[2023-06-24] 32503147 got punished by borrowing and returning librarian
+[2023-06-26] 60876046 queried B-6000 from self-service machine
+[2023-06-26] 60876046 borrowed B-6000 from borrowing and returning librarian
+[2023-06-27] 40431942 queried B-7233 from self-service machine
+[2023-06-27] 40431942 borrowed B-7233 from borrowing and returning librarian
+[2023-07-02] 94309203 got punished by borrowing and returning librarian
+[2023-07-04] 28754467 queried B-3050 from self-service machine
+[2023-07-04] 28754467 borrowed B-3050 from borrowing and returning librarian
+[2023-07-08] 27882411 returned B-1807 to borrowing and returning librarian
+[2023-07-08] 28754467 got punished by borrowing and returning librarian
+[2023-07-08] 35978448 returned C-8550 to self-service machine
+[2023-07-10] 02486355 got punished by borrowing and returning librarian
+[2023-07-10] 02486355 returned C-5345 to self-service machine
+[2023-07-10] C-5345 got repaired by logistics division
+[2023-07-12] 28754467 queried C-4189 from self-service machine
+[2023-07-12] 28754467 borrowed C-4189 from self-service machine
+[2023-07-13] 62498683 returned C-8847 to self-service machine
+[2023-07-13] 32503147 queried B-9276 from self-service machine
+[2023-07-13] 32503147 borrowed B-9276 from borrowing and returning librarian
+[2023-07-13] 02486355 queried B-5399 from self-service machine
+[2023-07-13] 02486355 borrowed B-5399 from borrowing and returning librarian
+[2023-07-15] 90667110 got punished by borrowing and returning librarian
+[2023-07-15] 90667110 queried C-3692 from self-service machine
+[2023-07-15] 90667110 borrowed C-3692 from self-service machine
+[2023-07-15] 55316994 queried B-4263 from self-service machine
+[2023-07-15] 55316994 borrowed B-4263 from borrowing and returning librarian
+[2023-07-17] 61922783 queried C-5550 from self-service machine
+[2023-07-17] 61922783 borrowed C-5550 from self-service machine
+[2023-07-19] 02486355 got punished by borrowing and returning librarian
+[2023-07-19] 32503147 got punished by borrowing and returning librarian
+[2023-07-20] 27882411 queried B-9864 from self-service machine
+[2023-07-20] 27882411 borrowed B-9864 from borrowing and returning librarian
+[2023-07-23] 24076512 got punished by borrowing and returning librarian
+[2023-07-23] 28811113 got punished by borrowing and returning librarian
+[2023-07-23] 28811113 returned B-9276 to borrowing and returning librarian
+[2023-07-23] B-9276 got repaired by logistics division
+[2023-07-24] 54908032 got punished by borrowing and returning librarian
+[2023-07-27] 24076512 queried C-7141 from self-service machine
+[2023-07-27] 24076512 borrowed C-7141 from self-service machine
+[2023-07-30] 35978448 queried C-4510 from self-service machine
+[2023-07-30] 35978448 borrowed C-4510 from self-service machine
+[2023-08-02] 09550248 queried C-8550 from self-service machine
+[2023-08-02] 09550248 borrowed C-8550 from self-service machine
+[2023-08-07] 27882411 returned B-9864 to borrowing and returning librarian
+[2023-08-12] 76053150 queried C-1982 from self-service machine
+[2023-08-12] 76053150 borrowed C-1982 from self-service machine
+[2023-08-12] 32503147 queried C-8550 from self-service machine
+[2023-08-12] 32503147 borrowed C-8550 from self-service machine
+[2023-08-14] 76053150 returned C-1982 to self-service machine
+[2023-08-16] 28754467 returned C-4189 to self-service machine
+[2023-08-18] 28754467 queried C-4510 from self-service machine
+[2023-08-18] 28754467 ordered C-4510 from ordering librarian
+[2023-08-19] 28754467 queried B-7525 from self-service machine
+[2023-08-19] 28754467 borrowed B-7525 from borrowing and returning librarian
+[2023-08-22] 03767901 got punished by borrowing and returning librarian
+[2023-08-23] 91413889 got punished by borrowing and returning librarian
+[2023-08-24] 28811113 queried B-7827 from self-service machine
+[2023-08-24] 28811113 ordered B-7827 from ordering librarian
+[2023-08-24] 94309203 queried B-0302 from self-service machine
+[2023-08-24] 94309203 borrowed B-0302 from borrowing and returning librarian
+[2023-08-26] 54908032 queried C-6480 from self-service machine
+[2023-08-26] 54908032 ordered C-6480 from ordering librarian
+[2023-08-28] 02486355 queried C-5345 from self-service machine
+[2023-08-28] 02486355 borrowed C-5345 from self-service machine
+[2023-08-30] 35978448 got punished by borrowing and returning librarian
+[2023-08-30] 35978448 returned C-4510 to self-service machine
+[2023-08-30] C-4510 got repaired by logistics division
+[2023-08-30] 60876046 got punished by borrowing and returning librarian
+[2023-08-30] 60876046 returned B-6000 to borrowing and returning librarian
+[2023-08-30] B-6000 got repaired by logistics division
+[2023-08-31] 27882411 queried B-6000 from self-service machine
+[2023-08-31] 27882411 ordered B-6000 from ordering librarian
+[2023-09-01] 28754467 borrowed C-4510 from ordering librarian
+[2023-09-01] 27882411 borrowed B-6000 from ordering librarian
+[2023-09-04] 28754467 returned C-4510 to self-service machine

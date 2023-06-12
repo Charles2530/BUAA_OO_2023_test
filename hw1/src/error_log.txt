@@ -1,0 +1,6 @@
+Caster:error
+expr_in:(0)**+0*(0+0** +0)
+simpy_in:1
+expr_out:0
+simpy_out:0
+---------------------------

@@ -1,0 +1,12 @@
+[2023-02-28] gTZFzlsc queried A-0127 from self-service machine
+[2023-06-16] 8HfiO3PW queried B-1205 from self-service machine
+[2023-06-16] 8HfiO3PW borrowed B-1205 from borrowing and returning librarian
+[2023-06-16] 8HfiO3PW queried B-1205 from self-service machine
+[2023-06-16] 8HfiO3PW returned B-1205 to borrowing and returning librarian
+[2023-12-11] 8HfiO3PW queried B-7141 from self-service machine
+[2023-12-11] 8HfiO3PW borrowed B-7141 from borrowing and returning librarian
+[2023-12-29] 8HfiO3PW queried A-2427 from self-service machine
+[2023-12-29] 8HfiO3PW got punished by borrowing and returning librarian
+[2023-12-31] 8HfiO3PW queried C-1325 from self-service machine
+[2023-12-31] 8HfiO3PW borrowed C-1325 from self-service machine
+[2023-12-31] 8HfiO3PW queried C-1325 from self-service machine

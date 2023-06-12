@@ -1,0 +1,148 @@
+[2023-01-28] kam:e#>l queried A-7900 from self-service machine
+[2023-02-20] ?P*t|fSV queried B-1205 from self-service machine
+[2023-02-20] ?P*t|fSV borrowed B-1205 from borrowing and returning librarian
+[2023-02-23] ?P*t|fSV got punished by borrowing and returning librarian
+[2023-02-23] ?P*t|fSV returned B-1205 to borrowing and returning librarian
+[2023-02-23] B-1205 got repaired by logistics division
+[2023-02-28] z:aL!/%* queried B-2833 from self-service machine
+[2023-02-28] z:aL!/%* borrowed B-2833 from borrowing and returning librarian
+[2023-02-28] ;%%pd$W" queried A-2025 from self-service machine
+[2023-02-28] gTZFzlsc queried A-0127 from self-service machine
+[2023-02-28] z:aL!/%* queried B-2833 from self-service machine
+[2023-03-02] z:aL!/%* returned B-2833 to borrowing and returning librarian
+[2023-03-05] Q*RD/cG# queried A-9653 from self-service machine
+[2023-03-06] ImVJ3!AQ queried B-9803 from self-service machine
+[2023-03-06] ImVJ3!AQ borrowed B-9803 from borrowing and returning librarian
+[2023-03-06] ImVJ3!AQ got punished by borrowing and returning librarian
+[2023-03-15] Q*RD/cG# queried B-0886 from self-service machine
+[2023-03-15] Q*RD/cG# borrowed B-0886 from borrowing and returning librarian
+[2023-03-18] Q*RD/cG# got punished by borrowing and returning librarian
+[2023-03-18] Q*RD/cG# returned B-0886 to borrowing and returning librarian
+[2023-03-18] B-0886 got repaired by logistics division
+[2023-04-17] 9gvU%rvH queried C-1626 from self-service machine
+[2023-04-17] 9gvU%rvH borrowed C-1626 from self-service machine
+[2023-04-17] 9gvU%rvH queried C-1626 from self-service machine
+[2023-04-17] 9gvU%rvH got punished by borrowing and returning librarian
+[2023-04-17] 9gvU%rvH returned C-1626 to self-service machine
+[2023-04-17] C-1626 got repaired by logistics division
+[2023-04-30] !K;Nz0:z queried C-7045 from self-service machine
+[2023-04-30] !K;Nz0:z borrowed C-7045 from self-service machine
+[2023-05-04] !K;Nz0:z returned C-7045 to self-service machine
+[2023-05-04] kam:e#>l queried C-7307 from self-service machine
+[2023-05-04] kam:e#>l borrowed C-7307 from self-service machine
+[2023-05-07] kam:e#>l got punished by borrowing and returning librarian
+[2023-05-07] kam:e#>l returned C-7307 to self-service machine
+[2023-05-07] C-7307 got repaired by logistics division
+[2023-05-29] z:aL!/%* queried A-4259 from self-service machine
+[2023-06-06] !K;Nz0:z queried B-7141 from self-service machine
+[2023-06-06] !K;Nz0:z borrowed B-7141 from borrowing and returning librarian
+[2023-06-08] !K;Nz0:z got punished by borrowing and returning librarian
+[2023-06-08] !K;Nz0:z returned B-7141 to borrowing and returning librarian
+[2023-06-08] B-7141 got repaired by logistics division
+[2023-06-12] }K$bT:[@ queried C-4505 from self-service machine
+[2023-06-12] }K$bT:[@ borrowed C-4505 from self-service machine
+[2023-06-13] }K$bT:[@ got punished by borrowing and returning librarian
+[2023-06-13] }K$bT:[@ returned C-4505 to self-service machine
+[2023-06-13] C-4505 got repaired by logistics division
+[2023-06-16] 8HfiO3PW queried B-1205 from self-service machine
+[2023-06-16] 8HfiO3PW borrowed B-1205 from borrowing and returning librarian
+[2023-06-16] 8HfiO3PW queried B-1205 from self-service machine
+[2023-06-16] 8HfiO3PW returned B-1205 to borrowing and returning librarian
+[2023-06-25] y8]E5#jV queried B-7936 from self-service machine
+[2023-06-25] y8]E5#jV borrowed B-7936 from borrowing and returning librarian
+[2023-06-25] rh{?M@4d queried C-4381 from self-service machine
+[2023-06-25] rh{?M@4d borrowed C-4381 from self-service machine
+[2023-06-28] rh{?M@4d got punished by borrowing and returning librarian
+[2023-06-28] rh{?M@4d returned C-4381 to self-service machine
+[2023-06-28] C-4381 got repaired by logistics division
+[2023-07-03] y8]E5#jV returned B-7936 to borrowing and returning librarian
+[2023-07-06] PiA+o%l? queried B-0194 from self-service machine
+[2023-07-06] PiA+o%l? borrowed B-0194 from borrowing and returning librarian
+[2023-07-15] PiA+o%l? got punished by borrowing and returning librarian
+[2023-07-17] ImVJ3!AQ queried A-9592 from self-service machine
+[2023-07-17] ~rg1jiYI queried C-7917 from self-service machine
+[2023-07-17] ~rg1jiYI borrowed C-7917 from self-service machine
+[2023-07-22] }K$bT:[@ queried B-9803 from self-service machine
+[2023-07-22] }K$bT:[@ borrowed B-9803 from borrowing and returning librarian
+[2023-07-22] }K$bT:[@ got punished by borrowing and returning librarian
+[2023-07-22] ~rg1jiYI got punished by borrowing and returning librarian
+[2023-07-24] !K;Nz0:z queried C-5566 from self-service machine
+[2023-07-24] !K;Nz0:z borrowed C-5566 from self-service machine
+[2023-07-30] !K;Nz0:z returned C-5566 to self-service machine
+[2023-07-30] R'+d'%A\ queried B-1205 from self-service machine
+[2023-07-30] R'+d'%A\ borrowed B-1205 from borrowing and returning librarian
+[2023-07-30] ?P*t|fSV queried A-9053 from self-service machine
+[2023-07-30] s4\"5e.F queried C-1325 from self-service machine
+[2023-07-30] s4\"5e.F borrowed C-1325 from self-service machine
+[2023-07-30] R'+d'%A\ got punished by borrowing and returning librarian
+[2023-07-30] R'+d'%A\ returned B-1205 to borrowing and returning librarian
+[2023-07-30] B-1205 got repaired by logistics division
+[2023-08-03] s4\"5e.F got punished by borrowing and returning librarian
+[2023-08-03] s4\"5e.F returned C-1325 to self-service machine
+[2023-08-03] C-1325 got repaired by logistics division
+[2023-08-10] uu]"Z{cu queried B-1196 from self-service machine
+[2023-08-10] uu]"Z{cu borrowed B-1196 from borrowing and returning librarian
+[2023-08-10] dap/}24i queried B-9699 from self-service machine
+[2023-08-10] dap/}24i borrowed B-9699 from borrowing and returning librarian
+[2023-08-11] uu]"Z{cu returned B-1196 to borrowing and returning librarian
+[2023-08-11] dap/}24i returned B-9699 to borrowing and returning librarian
+[2023-08-11] &z>B`s(/ queried C-2832 from self-service machine
+[2023-08-11] &z>B`s(/ borrowed C-2832 from self-service machine
+[2023-08-11] &z>B`s(/ got punished by borrowing and returning librarian
+[2023-08-13] }K$bT:[@ queried C-6940 from self-service machine
+[2023-08-13] }K$bT:[@ borrowed C-6940 from self-service machine
+[2023-08-13] }K$bT:[@ queried C-6940 from self-service machine
+[2023-08-13] }K$bT:[@ returned C-6940 to self-service machine
+[2023-08-13] '2TefK-B queried B-3416 from self-service machine
+[2023-08-13] '2TefK-B borrowed B-3416 from borrowing and returning librarian
+[2023-08-13] '2TefK-B queried B-3416 from self-service machine
+[2023-08-17] f0H!T?tO queried C-2832 from self-service machine
+[2023-08-17] f0H!T?tO borrowed C-2832 from self-service machine
+[2023-08-17] f0H!T?tO got punished by borrowing and returning librarian
+[2023-08-23] y8]E5#jV queried A-7900 from self-service machine
+[2023-08-23] '2TefK-B got punished by borrowing and returning librarian
+[2023-08-23] '2TefK-B returned B-3416 to borrowing and returning librarian
+[2023-08-23] B-3416 got repaired by logistics division
+[2023-08-29] %!n#(D(] queried B-4054 from self-service machine
+[2023-08-29] %!n#(D(] borrowed B-4054 from borrowing and returning librarian
+[2023-08-31] %!n#(D(] got punished by borrowing and returning librarian
+[2023-10-30] 4@1hmwqZ queried B-9699 from self-service machine
+[2023-10-30] 4@1hmwqZ borrowed B-9699 from borrowing and returning librarian
+[2023-10-31] y8]E5#jV queried C-8077 from self-service machine
+[2023-10-31] y8]E5#jV borrowed C-8077 from self-service machine
+[2023-10-31] 4@1hmwqZ got punished by borrowing and returning librarian
+[2023-11-04] y8]E5#jV returned C-8077 to self-service machine
+[2023-11-08] &z>B`s(/ queried B-0194 from self-service machine
+[2023-11-08] &z>B`s(/ ordered B-0194 from ordering librarian
+[2023-11-10] jo:ZfEq] queried B-2410 from self-service machine
+[2023-11-10] jo:ZfEq] borrowed B-2410 from borrowing and returning librarian
+[2023-11-10] jo:ZfEq] returned B-2410 to borrowing and returning librarian
+[2023-11-23] y8]E5#jV queried C-0989 from self-service machine
+[2023-11-23] y8]E5#jV borrowed C-0989 from self-service machine
+[2023-11-23] B|A^x8b0 queried A-9221 from self-service machine
+[2023-11-23] y8]E5#jV got punished by borrowing and returning librarian
+[2023-11-23] y8]E5#jV returned C-0989 to self-service machine
+[2023-11-23] C-0989 got repaired by logistics division
+[2023-12-11] 8HfiO3PW queried B-7141 from self-service machine
+[2023-12-11] 8HfiO3PW borrowed B-7141 from borrowing and returning librarian
+[2023-12-11] R'+d'%A\ queried A-7274 from self-service machine
+[2023-12-19] @^2v)3C! queried B-8357 from self-service machine
+[2023-12-19] @^2v)3C! borrowed B-8357 from borrowing and returning librarian
+[2023-12-21] B|A^x8b0 queried B-7936 from self-service machine
+[2023-12-21] B|A^x8b0 borrowed B-7936 from borrowing and returning librarian
+[2023-12-26] @^2v)3C! got punished by borrowing and returning librarian
+[2023-12-26] @^2v)3C! returned B-8357 to borrowing and returning librarian
+[2023-12-26] B-8357 got repaired by logistics division
+[2023-12-29] B|A^x8b0 returned B-7936 to borrowing and returning librarian
+[2023-12-29] 8HfiO3PW queried A-2427 from self-service machine
+[2023-12-29] 8HfiO3PW got punished by borrowing and returning librarian
+[2023-12-29] 4@1hmwqZ queried B-0118 from self-service machine
+[2023-12-29] 4@1hmwqZ borrowed B-0118 from borrowing and returning librarian
+[2023-12-31] 4@1hmwqZ got punished by borrowing and returning librarian
+[2023-12-31] 8HfiO3PW queried C-1325 from self-service machine
+[2023-12-31] 8HfiO3PW borrowed C-1325 from self-service machine
+[2023-12-31] 8HfiO3PW queried C-1325 from self-service machine
+[2023-12-31] zacCg+Y_ queried B-3931 from self-service machine
+[2023-12-31] zacCg+Y_ borrowed B-3931 from borrowing and returning librarian
+[2023-12-31] zacCg+Y_ queried B-3931 from self-service machine
+[2023-12-31] zacCg+Y_ got punished by borrowing and returning librarian

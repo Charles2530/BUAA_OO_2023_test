@@ -1,0 +1,8260 @@
+ap 2 Dorothy 131
+qbs
+ar 2 2 28
+qbs
+ap 7 Caroline 139
+qts
+ap -4 Brandy 73
+qbs
+qci 2 2
+qbs
+qbs
+qci 7 2
+qbs
+qv 2 -4
+qci -4 4
+qv 2 -2
+ap 2 Felisha 145
+qci 7 -4
+qbs
+qbs
+ar 2 2 86
+ar -4 -4 74
+ap 4 Chester 144
+qbs
+ar 4 4 4
+qv 2 2
+qts
+ar 7 4 68
+qv 7 4
+qci 4 4
+qbs
+qv -4 5
+qci 4 3
+ap 4 Mildred 173
+qbs
+ap -3 Jason 74
+ar 4 1424873433 59
+qci 3 -874245912
+qbs
+qv -4 -4
+ap -7 Audrey 68
+ar 2 -8 95
+ap -1 Emilio 19
+qts
+qv 4 4
+ap 7 Tyler 142
+qbs
+qv -7 -1
+qv 2 -341179997
+ap -7 William 82
+ap -6 Kathie 152
+ap 4 Judy 164
+qts
+qbs
+qbs
+qbs
+qci 7 -840893138
+qts
+qv 4 7
+ap 7 Scott 118
+qv -7 6
+ar 4 7 79
+qts
+ap 8 Marilyn 197
+qci -6 -4
+ar -3 4 45
+qts
+qbs
+qts
+ap -7 Patricia 74
+qv 5 -23842715
+qv -1 -1
+ap -5 Michael 99
+ap -1 Richard 7
+qts
+ar -1 -1 49
+ar -4 -4 49
+qbs
+qts
+ap -3 Sylvester 21
+qv -6 -6
+ap 2 Clifton 136
+ap -9 Shirley 193
+ar -9 -948676697 62
+qts
+qv -1 2
+ap 2 Verda 41
+qbs
+qv -3 1602321933
+ar 4 -5 75
+qv 2 2
+qci 4 -1
+qv -6 -8
+qci -3 1525285282
+qbs
+qv -5 -1985446903
+ap -6 Angie 181
+qbs
+qbs
+qv -1 1015242764
+ap -4 Jacquelyn 164
+qv -5 -2142561393
+qci -9 -1
+qbs
+ar -3 8 98
+ar -9 2 86
+qts
+qts
+qci 8 4
+qbs
+qbs
+qbs
+qbs
+ar -1 -1 74
+qci 7 2
+qci 1 -1660173996
+qbs
+qts
+qci -6 2
+qci 7 7
+qts
+ar -3 6 58
+ap -8 Carolyn 69
+qv -9 2
+qv -5 -5
+qbs
+qv -1 2027738313
+qci -5 -1178695654
+ap -6 Lupe 154
+ar 2 -6 24
+ar 3 824948380 49
+qts
+ar -5 -8 45
+qci 8 8
+ar 7 -9 6
+ap -4 Glenda 117
+qts
+qci -9 -4
+qci -8 -1
+qci -4 -9
+qts
+ar 4 -8 94
+qci -3 -5
+qts
+qts
+ap 4 Mary 18
+ar 8 -1846666104 81
+ap -5 Otis 193
+ar -6 2 9
+qci 8 1
+ar -2 78379467 1
+qv -1 2
+qv -6 2
+ar -5 -8 97
+ap -8 Jean 124
+qv 2 -9
+ap 4 Rebecca 56
+ar -1 -4 85
+ar -1 -1 69
+qts
+qbs
+qv -7 -3
+ar -3 7 85
+qci -8 581778121
+qts
+ar 8 -3 16
+qv 4 2
+qts
+qts
+qts
+qci -6 -4
+qts
+qci -8 -7
+qv -5 -5
+ap -7 Megan 184
+qbs
+qv -5 -8
+ar -4 7 13
+ar 2 4 40
+qci 7 -1
+qts
+ap -1 Tammie 122
+ar -4 -258329277 10
+qci -7 2
+qv -6 2
+qv 8 4
+qci -8 -9
+ar 4 -8 77
+ar -4 -1900209585 58
+ap -8 Amelia 5
+qbs
+qv 2 -7
+qts
+qbs
+qts
+qts
+ap 7 Dustin 52
+ap 2 Sheri 67
+ap 4 Robert 197
+qbs
+qv 7 -6
+qci -6 8
+ap -1 Josette 176
+qbs
+ap -8 Darren 168
+qci -8 -5
+qci -2 -153240329
+ar 8 -2 16
+qts
+ar -5 5 2
+qts
+qbs
+ap -3 Abdul 72
+qts
+qbs
+qbs
+qbs
+qv 4 6
+qbs
+qv -4 -96471138
+ap 3 Dianne 163
+ap 4 Kathleen 25
+ap 3 Karlene 20
+qts
+ar 2 410310351 74
+ap 4 Laura 22
+qbs
+qci -7 -7
+ap 8 Felix 129
+qv 4 4
+ap 4 Beverly 59
+qv 4 4
+qci 5 -1910383725
+ap 1 Jeffrey 118
+qbs
+qci -9 6
+qbs
+ap -8 Francis 87
+qbs
+ap -5 David 171
+ar -3 7 67
+qbs
+qv -6 -6
+qbs
+qts
+ap -3 Terry 177
+ar 7 1 94
+qts
+qci 1 8
+qci -5 -7
+qci -7 -9
+qci -9 -1728550670
+qci 3 1
+qv -6 1
+ap 1 Kristen 84
+qci 1 1946004524
+qci 3 -3
+qbs
+ap 8 Theodore 79
+ar 3 -563203891 10
+qci 0 923760552
+qci 4 7
+qci 4 581319742
+ar 7 4 84
+ar 4 1 90
+ar -9 7 35
+ap -1 Eric 143
+qci -3 8
+qts
+qv -3 -1308150786
+qv 7 -1334347180
+qbs
+qv 2 4
+qbs
+ap -7 John 98
+ap 8 Alton 25
+qci 3 -1370859301
+ap 3 Brian 185
+qts
+qv 7 3
+qv 1 1
+qci 3 1405311057
+ap 6 Nancy 22
+ar 6 -616744053 97
+qts
+ar 1 30382294 17
+qv -7 7
+qts
+ar 2 -8 100
+qci 2 -8
+qci 4 -7
+ar 0 -1491220451 87
+qv 4 541940130
+ap 3 Leta 194
+qci 6 -4
+ar 7 6 2
+qbs
+qv 7 1
+ar 2 -3 95
+qts
+qbs
+qv 1 6
+qts
+qbs
+qv -1 -714604609
+qts
+qci 5 768791650
+qv 8 2
+qts
+ar 7 -4 55
+qts
+qts
+qci 5 -509383281
+ar 4 -1696204314 99
+qbs
+qv 3 3
+qts
+qbs
+qci -1 -299750674
+qv -1 -5
+ap -3 Robert 124
+qv 1 230403348
+ap -9 Kathryn 155
+qts
+qv -3 4
+qbs
+qv 6 7
+ar -9 7 47
+qbs
+qbs
+qts
+qci -8 -7
+qbs
+qbs
+qci -1 -6
+qci -5 1
+qts
+qci 3 7
+ar -5 7 99
+ap 5 Mary 130
+ap 1 Eva 190
+qbs
+ap -8 Patricia 99
+qv 7 2
+qts
+qci -3 4
+ar -5 2 66
+ar 5 -4 73
+qbs
+ap -4 Jeremy 171
+ar -5 -1 28
+ar 4 -1 6
+qv 7 1204286369
+ar 6 7 73
+qbs
+qv 8 8
+ap -1 Ana 16
+qv -9 -7
+qv -6 2
+qbs
+qci -5 7
+qbs
+qbs
+qv -3 7
+qts
+ap 0 Richard 103
+qbs
+qv 5 8
+qts
+qbs
+qci 7 7
+qv -9 -381350183
+qci -5 1158252440
+qv -8 -8
+qv 0 0
+ap 4 Peter 171
+qts
+qv 2 -4
+qbs
+qv -4 -4
+qbs
+ar -6 2 52
+qv 6 -1
+qci 2 -5
+qci 0 0
+qv -7 -7
+qci 5 -5
+qbs
+ap 7 Heather 191
+ar -4 6 48
+ar 5 2 35
+qv 8 4
+qci -9 -166952920
+ar 1 -7 15
+qv -9 0
+ar 5 4 54
+qv -4 1
+qts
+qv 0 -569957817
+ap -6 Monica 180
+ar -5 -6 100
+qts
+qv -9 -1932957723
+ar -4 -9 87
+qv 2 4
+ap -3 Peter 166
+ar 7 6 79
+qci -5 4
+qts
+qbs
+qv 2 -6
+qbs
+qbs
+qci 1 7
+qci -4 -8
+ar -1 5 48
+qv 1 1415971331
+qts
+qci -3 8
+ap -8 Debra 39
+ar 6 6 89
+ap 1 Thelma 60
+ar -3 -762270981 78
+qts
+qci 3 -9
+qci 8 1
+qbs
+ap 8 Molly 151
+qbs
+ar -5 -1 60
+ar 8 1 101
+qbs
+ap 0 Esther 114
+qv 7 8
+qbs
+qts
+ar 6 0 41
+ap -8 Richard 182
+qci 0 1948080152
+ap -3 Jerry 159
+qci -5 2
+ap -6 Barbara 60
+ar 4 -745315312 38
+ap 6 Margaret 46
+qv 1 8
+ar -3 0 66
+ar -9 4 78
+qts
+qts
+qts
+qci -5 -9
+ap 0 Juanita 35
+ar 0 -6 39
+qci -4 -8
+ar 3 5 89
+qts
+qv -1 4
+qbs
+qci 0 -7
+qbs
+qbs
+ap 0 Scott 64
+qts
+ar 1 1 74
+qbs
+qci 2 8
+qbs
+qbs
+ar 0 8 53
+qbs
+qv -6 -1021268121
+qts
+qci 0 5
+ap 5 Maria 69
+qbs
+qts
+ap 0 Katie 175
+ap 5 Allen 128
+qci -7 6
+qci 3 -4
+qts
+qci -7 7
+ar -8 -4 82
+qv -7 1
+ar 2 -7 86
+qbs
+qci -7 7
+qv 2 33932040
+qci 1 -3
+ar 2 -8 64
+qts
+qci -7 -5
+qbs
+ar -9 7 90
+ar -9 -4 20
+qv 2 -145273390
+qbs
+qbs
+qbs
+qbs
+ap 8 Helen 20
+qv -3 -98844238
+qts
+ar 8 0 85
+qv -3 -8
+qci -7 5
+qci 1 -8
+ar -9 -3 45
+qci 3 7
+qts
+qv -6 0
+qv 2 5
+qbs
+qbs
+qbs
+qts
+qci -9 -5
+qbs
+qbs
+qts
+qci -5 3
+qci -8 2
+qci 4 1
+qbs
+ar -7 1 55
+ap -9 Emma 20
+qts
+qci -7 -6
+qts
+qbs
+qci 8 -1987286324
+qts
+qci 6 6
+ar -6 0 18
+ap 0 William 174
+ap 7 Manuel 66
+qci 6 193477875
+qts
+qv -9 -3
+ap -7 John 140
+ar 4 -572218576 15
+qci -3 -1
+qts
+ar -1 -8 100
+qci -8 -6
+qts
+ap -9 Kenneth 74
+qbs
+qv 7 -9
+qts
+qts
+ar 5 -8 99
+ap 5 Laura 107
+qts
+qv 4 4
+ar -6 7 47
+qci -8 6
+ap 2 Richard 46
+qts
+ap -5 Darren 27
+qbs
+qci 5 -9
+qv 1 -5
+qv 0 -9
+qts
+qv -5 -4
+qbs
+ar 4 -8 9
+ar -3 3 27
+qts
+qci 7 -6
+qts
+qbs
+qv 7 4
+qbs
+ar -9 -4 1
+ap 7 Christy 61
+ap 8 Shelley 75
+ap -9 Violet 62
+qbs
+qv -9 -1782260177
+qci 3 -6
+ar -1 0 18
+ap -1 Paul 201
+qbs
+ap 8 Mark 137
+qv 6 7310995
+ar 0 -8 92
+qts
+ar -9 0 30
+ar 3 6 47
+ap -7 John 24
+qbs
+ap -5 Caroline 196
+qts
+qci 1 -8
+qv 6 -4
+qbs
+ap -3 Erin 124
+qbs
+ar -6 0 21
+qci -1 23820006
+qts
+ap 4 Kevin 89
+qbs
+ar -3 2 75
+qci -9 -4
+qci -4 0
+ar -7 -7 64
+qbs
+ap 2 Francisco 195
+qts
+qci 4 6
+ar 5 3 38
+qts
+qv -8 443440386
+qv -8 0
+qv -7 -7
+qbs
+qts
+qts
+ap -7 Beverly 185
+ar 3 1 6
+qts
+qts
+qv 6 1701611587
+ap 4 Edith 165
+ap 8 Rita 193
+qci 3 -5
+qv -6 -1
+qbs
+qbs
+qv -1 -6
+ap 6 Osvaldo 176
+ap -1 Kendra 2
+qci 3 -8
+qts
+qbs
+qci -5 8
+ar 8 8 34
+qbs
+qts
+qv 0 336553563
+qbs
+ar -9 7 3
+ap 8 Damon 136
+qv 6 -4
+qci 2 -4
+ap -1 Freeda 193
+ar 6 -1531885859 92
+qci 8 2
+qts
+qts
+qbs
+qbs
+qci 2 -9
+qci -1 2
+qbs
+qci 4 -2
+qts
+qbs
+qci 0 6
+qci 8 -1483610965
+ar 2 -7 60
+qbs
+qci 0 -9
+qci 3 -3
+ar -4 -9 67
+ar 7 2 36
+qbs
+ar -3 -3 8
+qbs
+qv 6 -3
+ar 0 7 42
+qv 0 6
+qbs
+qci -8 -5
+qv 8 3
+ap 4 David 164
+ap 3 Thomas 33
+ap 6 Kevin 198
+ar 3 -6 25
+qci -6 1
+qts
+qv 3 1934405888
+qbs
+ap 2 Matthew 89
+qv 6 -3
+qv 4 3
+qv -9 8
+qts
+qts
+qbs
+ap -6 Henry 29
+qbs
+ar 1 -1 78
+ar 7 -1 3
+qbs
+ar 4 -7 75
+qv -7 6
+qv 4 4
+ap 4 James 124
+qts
+qts
+qv -7 -8
+ap -1 Jason 19
+ap -2 Terri 155
+qts
+ar -8 6 42
+ap -1 Wilma 121
+ar -8 4 82
+ar -5 -1723981665 51
+qts
+ar 1 -1842685103 55
+qci 2 1609243755
+qci -1 -3
+qci -9 -3
+qci -7 -2
+ar 7 -6 71
+qv -9 7
+ar -3 0 77
+ap -1 Brant 69
+ar 7 2 49
+qci -8 -487706290
+qci 7 3
+ar -6 3 46
+ap -9 Nathan 73
+qci -4 -2
+ar -2 -4 10
+ar 5 6 9
+qci -1 591344574
+qv -5 -713731312
+ap 1 John 122
+qbs
+qbs
+ap 5 Daniel 19
+qv -7 -1
+qts
+ap -5 Michelle 182
+qbs
+ar -4 -6 82
+ap 4 Jessica 32
+qts
+ar -3 0 85
+qbs
+qts
+ar -6 -3 32
+qv -6 -3
+qts
+ar -4 -8 54
+ar -3 -274414084 32
+qbs
+qci 0 8
+ar 8 4 19
+qbs
+qts
+qci -7 3
+ap -7 Calvin 45
+ap 1 Paul 31
+qci -7 1
+qci 2 0
+ar -7 -7 26
+qbs
+qbs
+qbs
+qci -3 -1588128778
+qci 2 -7
+ap -9 Cody 191
+qv 2 2
+ap 0 James 50
+qbs
+ap -8 Eleanor 35
+qbs
+qbs
+qci 0 3
+qts
+qv 7 0
+qv -1 -1
+qv 5 -6
+qbs
+qci -3 600250501
+ar -9 -9 88
+qbs
+qv -9 110188353
+qci -7 5
+qci -5 -9
+ar 3 -4 20
+ar -3 1799030243 7
+qci 2 2
+ap 5 Eric 112
+qv 1 1
+qci 3 -9
+qv -4 1
+ap -2 Virginia 66
+qci -9 -1
+qbs
+ar -2 1059839405 62
+ar -9 4 94
+qci 5 0
+qv -5 -5
+ar 0 4 13
+qbs
+qts
+qbs
+ap 6 Rudolph 41
+ap 5 Ernest 99
+qci -6 3
+qv -7 -3
+qci 0 -8
+ar -7 719047952 45
+qts
+qv 3 7
+qbs
+qci 8 -517877116
+ap -6 Gilbert 181
+ap -2 Jacqueline 140
+qci 7 -1
+ap 0 Juan 162
+qts
+qts
+qv 0 0
+ar 7 -7 42
+qbs
+qts
+qci 7 -3
+qbs
+qts
+qbs
+ap -4 Arthur 171
+qbs
+qci -2 -3
+ar -1 8 92
+ap 2 Frank 182
+qv 6 -8
+qts
+qbs
+qv 2 2
+ap 1 Robert 113
+qv -7 -3
+ar -2 6 45
+qts
+ap 2 Micheal 186
+qbs
+qci 5 8
+ar -3 1897169017 77
+qci -3 2
+qci -9 1733149154
+qts
+qci 6 0
+ap 5 Deanna 86
+qci -3 -972519318
+qts
+ar -2 -7 59
+ar -8 -4 90
+qts
+ar 6 1 9
+ap 1 David 177
+qci 0 -6
+qts
+ar -7 7 88
+ap 3 Bart 111
+qts
+qv -8 -4
+qbs
+qv -6 -6
+qci -2 -3
+qbs
+qci -2 -1
+qci -7 4
+qci 2 -1994312970
+qci -5 -1
+qci 0 -2
+qv -4 -8
+ar 1 6 86
+qci -2 -1504377030
+ap 5 Rose 153
+qbs
+qts
+ar 4 8 66
+ap -7 Deborah 55
+qbs
+ar -9 4 93
+qts
+qci -5 -1223247405
+ap 0 Annie 143
+qts
+qv 0 0
+ap -3 Mark 11
+ap 7 Kevin 124
+qts
+ar -2 8 95
+ar -4 -6 43
+qbs
+qv 2 2
+qci -3 1979196594
+qv -9 4
+qbs
+qv 1 -6
+ap -3 Susanna 18
+qbs
+qts
+ap -1 John 127
+ap -4 Preston 4
+qv 0 0
+qci 5 -9
+ar 3 225476534 78
+qv -9 4
+qv -1 8
+ap 3 Nancy 197
+ap -2 William 164
+qts
+qts
+qbs
+qbs
+ap 7 Carolyn 57
+qts
+ap 0 Darrell 90
+qv -7 7
+qbs
+qv 1 6
+qts
+qv 5 -7
+qv 2 -2
+qv -3 -3
+qbs
+qts
+qts
+ar -2 -2 92
+qbs
+qv 4 -9
+qts
+ap 0 Florence 26
+qbs
+ar 2 2 23
+qbs
+ar -8 -8 60
+qts
+qv 2 8
+ar 4 -4 28
+qbs
+qci 6 -1
+ap 5 Levi 53
+qbs
+ap -7 Monica 45
+ap 2 Mary 178
+qts
+qv 3 5
+qts
+qbs
+ar -7 5 26
+qts
+ap 7 Rebecca 17
+ar -6 5 51
+qci -3 1325894231
+ar -3 -3 60
+qci 7 -1925545428
+qci 7 -5
+qts
+qv -4 -5
+qv 2 1
+ar 5 6 3
+ap -7 Manuel 138
+qbs
+qts
+ar -2 -3 100
+qv -3 -2
+qbs
+qbs
+ar -6 5 64
+qts
+ar -1 8 1
+ar 6 -1 48
+qci -2 1524052959
+ar 8 -2 29
+qts
+qv 1 -2
+ap 4 Andre 128
+ar -5 2 47
+ar -8 1 15
+qts
+qts
+qbs
+qbs
+qbs
+qbs
+ar -9 4 96
+qv 6 5
+qbs
+ar -4 8 39
+qv 2 -5
+ar 0 -7 44
+ap -9 Alejandro 187
+qbs
+qci 2 6
+qci 0 3
+qv -9 5
+qv -6 465604342
+qbs
+qts
+qts
+qci -1 -8
+ar 7 -9 4
+ap 0 Eric 16
+qci 0 -8
+ap 1 Patricia 133
+qv 4 4
+qv -8 1
+qbs
+ar 3 2 52
+ap 1 Michael 14
+ap 4 Robert 0
+ap 6 Rhonda 135
+ap 5 Lila 24
+qbs
+qts
+ar 1 1 70
+qv 3 -5
+qci 2 -5
+ar 7 -1 27
+qci 1 -2
+qbs
+qci -9 -3
+ar 1 3 88
+qbs
+qci 8 7
+qv 1 8
+qci 8 930859528
+qts
+qts
+qts
+qbs
+qci -7 127097992
+qci -6 2
+qv -6 1
+ap 1 Carmen 166
+qbs
+qci 5 -6
+ar 6 -1411022361 27
+qts
+qv 3 1573413040
+qbs
+ap -7 Jonathan 11
+ap 2 Tracy 45
+qts
+qts
+qv -4 8
+qbs
+qts
+ap 2 Theresa 149
+qbs
+qci -2 -3
+ap 6 Teresa 75
+ap -5 Newton 16
+qci 1 -2
+qci -6 -3
+qv -9 -9
+qci 5 5
+ar -5 7 83
+ar -4 -4 60
+ar 5 -3 85
+qbs
+qv -3 5
+ar -5 5 60
+qv -7 297644462
+ap -8 Rosalee 36
+qci -8 292281361
+qts
+ap -5 Jennifer 157
+qci 0 87581455
+qbs
+qts
+qbs
+qbs
+qbs
+ap -2 John 21
+qbs
+qbs
+qv 3 5
+qv -3 5
+qbs
+qv -9 -9
+ar -4 1 97
+qci -4 -4
+qbs
+qbs
+ar -5 -9 6
+ap 2 Kylie 191
+ap 3 Rita 127
+qci 2 -7
+qts
+qv 3 3
+qts
+ar 7 1078902683 16
+qv -1 8
+qts
+ap -1 Donald 76
+qts
+qv -5 5
+ar -5 -1 44
+qts
+ap -7 Jennifer 191
+qts
+ar 0 2 58
+qci 6 -6
+qci 7 1
+ap 7 Charlie 17
+ar 8 1595203371 39
+qv 1 1
+qbs
+ap 1 Sharon 76
+qv -1 -5
+qv -8 -8
+ap 0 Jerry 185
+qv 3 430831521
+ar 6 7 24
+qts
+qts
+ap -7 Elizabeth 140
+ap -9 Wanda 162
+qts
+ap 1 Joseph 9
+qci -6 1
+ap -7 Charles 154
+qts
+qbs
+qts
+qci -1 -6
+qv 5 -3
+qbs
+qts
+qbs
+ar -5 -8 92
+qv 8 -6
+qv -6 -4
+qci -7 -1004954807
+qbs
+qbs
+qbs
+qts
+qv 3 -4
+qci -3 -8
+qv -8 1
+qci -4 5
+qv -8 324857807
+qci -2 -6
+ar 8 4 82
+qv -6 5
+qbs
+qv 0 -1098581220
+ar 2 2 73
+qci -5 6
+ap -9 Matthew 117
+qci -9 0
+qts
+qbs
+qts
+qci -9 -1
+qv 7 7
+qv -5 7
+qci -5 5
+qv -4 -8
+ap -3 Michael 199
+ap 5 James 129
+qts
+qci -7 -4
+qv -5 -6
+qbs
+ar 3 3 60
+qbs
+ap -5 Candy 86
+ar 5 -3 68
+ar 0 -8 34
+ar -6 -2 27
+ap 4 Douglas 76
+qci 3 -4
+ar 2 -1975856546 91
+qts
+qts
+qci -9 -5
+qbs
+qts
+qv -2 -3
+qts
+qv 5 -8
+ap 7 Alan 197
+ar -6 886260977 65
+ar 6 -2 58
+qts
+qbs
+qci 5 0
+qts
+ar -7 -5 54
+ap 1 John 73
+qv -1 -5
+qbs
+qci 4 6
+qv -9 -1
+ar -3 3 33
+qts
+ap -1 Iva 63
+qci -3 -6
+ar -8 2 60
+qbs
+qv -3 4
+ar -6 -8 85
+qv 7 0
+qts
+qv -5 -2129967735
+ar 3 2 46
+qbs
+qts
+qv 2 3
+ap -9 Edward 52
+qbs
+qts
+qv 5 -3
+ar -5 6 40
+qts
+qbs
+ap 0 Leda 14
+qv -4 7
+qv 5 550124858
+ar 3 -9 69
+qbs
+ap 2 Denise 162
+ar 7 -2 12
+qv 4 4
+qv 7 9135403
+ar -4 -8 51
+qbs
+ap 4 Terry 43
+ap -7 Thomas 62
+qts
+ap 8 Shawn 148
+qci 1 -2
+qv -3 5
+qbs
+ap -6 James 40
+qci 7 -307129379
+qv -8 -8
+ar 4 -3 7
+qbs
+qci 6 7
+qci -9 -1849545427
+qbs
+qbs
+qbs
+qci 6 1714207749
+ap 0 Johnny 112
+ar -4 -3 41
+qbs
+ar 0 -214851915 31
+qts
+qbs
+qci 6 1868562344
+qci -3 -2
+qts
+qbs
+ap -5 Ronald 173
+ar 2 -3 47
+qci 6 5
+ap -5 Marvin 59
+qts
+qts
+qbs
+ap 4 Joseph 133
+qv 6 0
+qts
+ap -9 Freda 155
+qci 3 1
+qts
+ar 0 6 62
+ap 4 Elizabeth 5
+ap -7 Sara 85
+ar 7 1335955395 47
+qv 3 -7
+qv 4 0
+qbs
+ap 6 Bethany 183
+qci -8 -2
+qbs
+qbs
+ar -4 -8 41
+qbs
+ar -7 -9 28
+qbs
+qv -8 1
+ap 6 George 134
+qci 6 -4
+qci -5 229707913
+qci -1 4
+ar -9 7 93
+qci 2 -56602896
+qts
+ar 5 -296241719 38
+ap -3 Deborah 168
+ar 8 -5 45
+ar 8 2 35
+qts
+ap 1 Patricia 83
+qbs
+ar -2 -2 6
+qbs
+ap -4 Gwendolyn 98
+qci 7 -4
+ar -2 1 99
+qts
+qts
+qts
+qts
+ap -9 Mildred 199
+qci 7 -8
+qts
+qv -2 1965059392
+qci -4 -916515506
+qci -7 -1865713499
+qv -3 -1
+qbs
+qci 7 3
+qci -9 6
+qbs
+qv 3 -1
+qci -7 -3
+qv -8 0
+qbs
+qci -4 -2
+qv 7 -9
+qts
+ap -8 Melanie 141
+qv 3 -1465169643
+ap -9 Barbara 195
+ar -4 -817945684 1
+qts
+qts
+qbs
+qci -1 3
+qts
+qv 0 0
+qci -9 -1
+qbs
+ar -6 -6 89
+qts
+qbs
+qbs
+qci 1 8
+qci 8 -1381238135
+qci -1 2
+ar 3 -9 94
+ar 0 -2098427134 36
+qbs
+qts
+qv 1 -2
+qci -7 3
+ar -8 1354234736 27
+ap 3 Grace 94
+qv -3 -3
+ar 5 5 63
+qts
+qv -9 -9
+ap 2 Filomena 56
+ap -9 Jeanette 159
+ap -2 James 115
+ap 8 Weldon 15
+qbs
+ar 2 -4 96
+qbs
+qts
+qbs
+ar -9 7 86
+qbs
+qv 0 1528773620
+qci 4 -9
+qts
+ap 5 Maria 37
+ar 0 -828418604 22
+qv 3 3
+ar 0 1 37
+qbs
+qbs
+ar 8 6 80
+ap -2 Theresa 107
+qci 0 -4
+qci 4 8
+ap -9 Ray 91
+qci 0 1
+qv -8 1575398265
+qbs
+qv 1 -2
+ar -3 -3 32
+qv -2 5
+qv -8 3
+qbs
+qci 3 464537825
+ar -4 2 9
+ar -7 6 98
+qbs
+ap 8 Marsha 151
+qts
+ar -8 -8 48
+qci 1 -1
+ap 5 John 44
+qts
+qts
+qci -8 -2
+qts
+qv 7 -4
+ar -7 -2 16
+qci 6 -7
+qci -4 1684086008
+qv 8 -541157411
+qv 6 8
+qts
+qts
+qbs
+ap 0 George 139
+qts
+ap 8 Andy 81
+qci 3 7
+ap -6 Angela 197
+ap -3 Harold 159
+qts
+qts
+qts
+qci 0 -1740298172
+qv 8 61917062
+ap 5 Barry 185
+ap 6 Roberto 53
+qci -7 1909141764
+qci -6 -3
+qbs
+ar -6 8 44
+qts
+ap 4 Dolores 190
+qci -1 -1
+qci 4 1
+qci -4 7
+ap -1 Scott 94
+ar -7 -3 14
+ar -8 -7 17
+qbs
+ar 5 -8 56
+qci -3 -9
+qts
+ar 7 -4 6
+ap 8 Kathleen 72
+qbs
+ar 6 8 80
+qv -6 -8
+qts
+ar -8 202160334 90
+qci 3 7
+qci -7 5
+qv 6 0
+ar -8 1808469410 15
+qci -3 -7
+qbs
+ap 7 Randall 182
+qv 0 0
+qts
+ar 1 -2 5
+qci -6 -4
+ar 6 -1431756108 96
+qci -7 8
+qts
+ap -5 Kim 114
+qv 1 -2
+qv -4 -8
+qbs
+qv 4 4
+qv 4 8
+qbs
+ar 0 0 91
+qts
+qts
+qbs
+ap 1 Grace 201
+ap 0 James 154
+ar -8 -3 17
+qci 6 -1
+qbs
+ar -1 1681474626 31
+ap -6 Jeanna 133
+qbs
+qv 6 8
+qts
+qv 3 -1158717240
+qv -2 -2
+ar 7 7 31
+ar 4 4 69
+qv 0 -3
+qv -6 -6
+qci 0 0
+ar 1 -7 83
+qv -9 7
+ap 3 Sheila 40
+ar 2 -4 89
+ar 5 2 91
+ap 3 Judy 12
+qci 7 -5
+qbs
+ap -7 John 9
+qci -2 -2
+qts
+qv -6 -9
+ar -5 -4 68
+ar -5 8 78
+qts
+qbs
+qv -6 -1040380373
+ar -3 -7 71
+qbs
+qts
+ar 6 6 10
+ap -7 Glenn 104
+qts
+ap 2 Kenneth 52
+ar 4 -7 12
+ar 7 -9 62
+qv -2 -1
+qbs
+qbs
+qbs
+qts
+qbs
+qbs
+qci 1 -782755799
+ar 3 -1 20
+qci -4 1
+qts
+qbs
+ap 5 Anna 159
+ap -8 Marybeth 199
+qts
+ar -2 1316682280 50
+ap 7 Michael 105
+ar 2 3 64
+ar -4 -8 45
+qci 1 7
+qci 8 5
+qts
+qv -5 1866171656
+qts
+ar -2 -4 45
+ap -7 Lawrence 67
+ap 7 Kirsten 94
+ap 2 Candy 69
+ap 2 Cora 89
+ar -6 -4 16
+qci -3 -327530419
+qv -6 -4
+qts
+ar 3 5 85
+qci 8 8
+qv -3 -682402292
+qv -4 -3
+qbs
+ar -3 -1383157584 67
+qts
+qts
+ar -9 1 51
+qbs
+qts
+qts
+qts
+ap -3 Maryann 152
+qv -5 2034714793
+qv 0 1427149165
+ap -9 Andrew 183
+qv 5 -6
+qci 2 8
+ar -6 -3 39
+ar 8 8 33
+qv 0 -7
+qv -6 -3
+qts
+ap -5 Maria 67
+ap -7 Benjamin 165
+ap -7 Jeanne 103
+qv -6 1841411567
+qts
+qci -2 -2
+qts
+qv -3 6
+qv 4 -7
+qts
+ar 1 -1485685724 45
+qci -8 -767517342
+ar -9 3 52
+qbs
+ap 1 James 37
+qbs
+ap -2 Timothy 121
+qts
+qbs
+ar -6 -6 54
+qv -9 -2
+qci 1 -1
+ap -6 Dora 75
+qbs
+qv -3 -7
+qbs
+qts
+ap -4 Pamela 177
+ar 7 0 44
+ar 1 1580792246 58
+qv 1 -69480709
+qv -1 1
+qv 7 4
+ar 1 7 74
+qci -3 -903058262
+qci -4 3
+qts
+qts
+qbs
+qci 7 -5
+qci -5 8
+qv -7 -7
+qts
+qv 2 -5
+qbs
+ar -9 2 58
+qts
+qbs
+qv -6 -6
+qts
+ap -9 Raymond 169
+qv -2 -2
+qbs
+qv 3 2
+qv -8 -9
+qbs
+qv -9 -991975845
+ap 2 Tina 104
+qts
+qci 0 959575205
+qci 7 8
+qv 4 4
+qv -7 -4
+qci 6 6
+qbs
+ar 7 -3 92
+qbs
+ap -5 Concetta 178
+qbs
+qv 6 2049018423
+qts
+ar -8 -9 19
+qv -4 -2
+ar -1 8 25
+qv -7 5
+qbs
+qv 8 8
+qbs
+qbs
+qci -6 781640856
+qci -1 973810538
+ar -7 1 15
+ar -8 -6 66
+ap 2 Gary 102
+ap -2 Nicole 167
+ar -7 -4 72
+qbs
+qbs
+ar -5 1200371620 54
+qts
+qbs
+ar -8 1 16
+qci 8 0
+qts
+qv 2 -1
+qts
+ar -1 -3 80
+ar -5 -50665900 61
+qbs
+ap 0 Paul 108
+qbs
+ap -4 Peggy 111
+qv 0 7
+qci 8 7
+qbs
+qv 1 -1640980927
+qts
+qv -4 -6
+ap 2 Pearlene 182
+ap -7 Kristy 93
+ap 2 Carl 137
+ap 0 Gene 168
+ap -4 Nolan 87
+ar -9 -8 57
+ap 3 Anthony 69
+qv -5 1165375368
+ar -4 -1 80
+qv 3 8
+ar 3 3 36
+qv 3 638277580
+ar -4 -6 86
+ar -9 -9 89
+ar -4 42886011 93
+qbs
+qci 3 4
+qbs
+qv -1 3
+qci 5 802996054
+qv -3 -2
+ap -1 Daniel 101
+qts
+ap -5 Blanca 126
+qv 5 -8
+qci 0 0
+qci 3 7
+qv -1 -1344375963
+qbs
+ap 2 Cheryl 39
+qci -3 -8
+qts
+qci -5 -7
+ap 4 Jessica 200
+ar -8 1 97
+qv -1 2
+qv -7 5
+ar -6 4 35
+ar 1 5 28
+qbs
+qci -5 4
+qbs
+qbs
+qv -7 -7
+qbs
+ar 5 -1 29
+qts
+qts
+qv 6 565339436
+ap -6 Gary 192
+qbs
+qv -2 1776235859
+qbs
+qci -2 2
+qv 1 -1
+qbs
+qbs
+qts
+qci 1 -9
+ar 7 8 14
+qci 6 -8
+ar -4 1 89
+ap -5 Tracy 126
+qts
+qci 0 -3
+qbs
+ap -4 Kristal 124
+ap 1 Henry 193
+ar 8 5 46
+qci 2 -2
+ap 1 Walter 113
+ar -7 -4 9
+qv 8 928251988
+qts
+qbs
+qbs
+ap 8 Lou 126
+qts
+ar -8 -715572546 15
+qci -3 -4
+qv 4 -6
+ap 2 Judith 111
+qbs
+ar 0 7 66
+qv -9 1631336788
+qv 1 1
+qbs
+qbs
+qts
+qv 7 -6
+ap -7 Joseph 79
+ar -2 -2 38
+qci -5 2
+qv -9 -4
+ap 8 Kelly 121
+qts
+ap 2 John 192
+ar -5 1 38
+qci 4 3
+ar -9 -941183214 89
+qbs
+ar 6 8 40
+qts
+qci 3 -1
+ap 7 Amie 134
+ap -3 James 155
+ar 7 -1667187298 63
+qv 3 3
+ar -6 0 21
+qts
+ar 0 -7 42
+qbs
+ap 7 Lester 92
+qci -1 -7
+qv 0 8
+qts
+qbs
+ar 0 -1 7
+qv -1 5
+qv -7 0
+qbs
+qci 4 -3
+qbs
+qts
+qts
+qbs
+qci -9 -6
+ap -2 Laura 98
+qts
+ar 2 0 12
+qts
+qci 4 -4
+qv -1 -147495239
+ar -4 -1 69
+qv -8 -2
+ar -9 -4 49
+qv -7 0
+qv 8 8
+qv 8 -3
+ar 7 -5 66
+qts
+qbs
+ap -2 Renee 86
+ap -1 Heather 93
+ap 0 Maria 23
+ar -9 -7 24
+qci -7 -641144963
+ap 5 Cindy 139
+qbs
+qci 5 -1
+ar 3 0 57
+ap -5 Danny 39
+ap -5 Betsy 120
+qci -5 4
+qbs
+qv 3 0
+ar 3 3 97
+qts
+qci -4 4
+ar 4 -2 92
+qv -5 -5
+ar 4 -3 50
+ar 8 8 53
+qbs
+qbs
+ap -1 John 4
+ap 6 Raymond 184
+qv -1 1934650384
+ar -2 -2 12
+qv 4 -260816361
+qv -4 -7
+ap -6 Carmen 47
+qbs
+qbs
+qts
+qv -9 5
+ap -4 Christine 29
+qts
+ap -2 Ronnie 118
+qbs
+qbs
+ar -5 -739795916 64
+qts
+qci -1 1
+qbs
+qts
+ap -8 Mark 12
+ap 5 David 123
+qci -5 1710633162
+ap 4 Benjamin 124
+ar -8 1 10
+qbs
+qts
+ap -6 Marcia 56
+ar 6 -2 2
+qts
+qts
+qbs
+ar -2 0 2
+ap -7 Sherry 77
+qv 8 8
+qv 1 -5
+qci -1 -1
+ap 0 Frances 44
+qci -7 2
+qv -4 708409781
+qts
+qv 0 9806530
+qts
+qv 7 -327884081
+ap 1 Dan 157
+qbs
+ar -4 -5 39
+qts
+qci -5 -6
+qv 5 -828717663
+ap 4 Paul 14
+qci -8 -2
+ar 8 -5 52
+ap 0 John 17
+qv 3 -2
+qci 5 8
+qci -3 -8
+qts
+qts
+qv 4 -3
+qv 0 -8
+ar 7 7 91
+ar 6 -8 79
+ar -3 -3 98
+qbs
+qci 5 -636038597
+ap -8 Timothy 105
+qci 1 1
+qts
+ar 6 -2086189285 48
+qv 4 4
+qbs
+ar -5 -4 42
+ap 6 Lauren 66
+ar 3 -3 19
+qts
+qv 3 -2
+ar -9 -9 57
+qv 1 1
+qv 2 344458109
+qbs
+qts
+ap -1 Doris 76
+qv 8 8
+qts
+qci 4 3
+ar 0 2 83
+qci 5 5
+ap -2 Michael 181
+qv -9 -7707277
+qv -9 -1639676042
+qv 4 578094811
+qbs
+qv -5 -5
+qci 3 -1500694892
+qci -7 -6
+qbs
+qv -3 3
+qci 8 -1
+ar 5 353509352 46
+qv 1 1
+ap 1 Helen 13
+qts
+ap 6 Lupe 56
+ap -6 Wilma 114
+ap -2 Andy 139
+qbs
+qbs
+qv -4 -5
+ar 1 -502107564 52
+ar -3 -7 28
+qbs
+ar -5 2 30
+ap -9 Jerry 44
+qv 4 -1
+qbs
+qts
+qbs
+qv -6 777463278
+qbs
+qbs
+qts
+qts
+qts
+qv 0 2
+qbs
+ar -9 -1819719834 63
+qv 7 -4
+qts
+ar -6 -6 30
+ap 7 Mary 45
+qbs
+ar -5 -3 52
+qv 2 -466198540
+qts
+qv -9 1
+qts
+qbs
+qci -4 1669577875
+ar 6 1545792269 25
+qts
+ap 8 Francis 64
+qts
+qbs
+qbs
+qbs
+qts
+qci -6 8
+qci 8 -1
+ap 7 Beverly 136
+qci 2 7
+qci 8 7
+qci -8 3
+ap -6 Timothy 45
+qbs
+qci 8 1912425406
+ap 7 Vernon 103
+qts
+qbs
+qv 2 -2
+ap 8 Jillian 54
+ar -4 -860565671 68
+qts
+ar -9 -2 27
+qts
+ap -4 Charles 77
+qbs
+qts
+qv -9 -9
+qts
+ar -8 -6 99
+qv 0 8
+ar 0 8 97
+qci -8 -9
+qbs
+qv 7 -582525820
+ap -9 Patricia 130
+qci -7 -2
+ap 7 Joanne 88
+qci -6 -7
+ar -5 835855880 68
+qci 6 3
+ar 8 0 78
+ap 5 Malissa 153
+ap -3 Dorothy 44
+ap -7 Rebecca 129
+qbs
+ar 8 -8 62
+qts
+qts
+qci 2 1254421789
+ar -9 -9 82
+qts
+qts
+qci 4 2088603368
+qv -5 -4
+qbs
+qv 6 8
+qbs
+qci 0 3
+qci 6 -8
+qci 0 3
+ar 1 -1 25
+ap 3 John 156
+qv -2 7
+qts
+qci 6 3
+qbs
+qbs
+qv -1 1
+qbs
+ap -6 Stephanie 31
+ap -5 Minnie 88
+ap -6 Paris 38
+qci 8 8
+ap -1 Barbara 110
+qci -2 -3
+ar -4 -6 65
+qv -3 3
+qts
+qts
+qv 7 -208816076
+ap 1 Wanda 68
+qv 5 7
+qci -6 4
+qci -6 5
+qv -1 -1
+qbs
+ap -5 Edith 129
+qv -4 -619273243
+qci -2 0
+ar -6 0 13
+ar 3 -2 35
+qbs
+qv -1 -5
+ap -7 Verna 70
+ar -5 1259753987 5
+ar -9 -4 47
+qbs
+qts
+ar 5 5 48
+ar -1 -7 84
+qts
+qv -3 -1
+qts
+qci -4 -7
+qbs
+qbs
+qbs
+qbs
+qts
+qci -6 4
+qts
+qts
+qv -4 -9
+qbs
+qci -3 0
+qbs
+ap -6 Jerry 124
+ar 8 1322278930 81
+qbs
+qbs
+ap -8 Ernestine 48
+qts
+qci -2 0
+ap 7 Virginia 107
+qci 5 7
+ap 8 Jasmine 96
+ar -6 -9 25
+qts
+ar -3 -5 59
+ar 4 4 62
+ar -7 3 21
+ap -6 John 186
+qbs
+qts
+qts
+qci -9 8
+qci 5 549826110
+ar 7 -1 71
+qbs
+ap -9 Shawn 96
+qci 1 3
+ap -6 Ramona 64
+qbs
+ar -5 -1 84
+ar 0 5 2
+qv -3 -1782444377
+qv -2 3
+ap 7 Ruby 47
+ar 6 -5 82
+qts
+qci -3 2
+qts
+ap 3 Jeff 8
+ap -1 Daniel 108
+qv 2 0
+qv -1 -1
+qv -7 4
+qv 2 230523912
+qv -1 -1
+qbs
+qbs
+qts
+qci -2 1
+ar -7 4 100
+qci 4 3
+qv 1 0
+ar -4 -415128985 49
+qbs
+qci 6 -6
+qbs
+qv -1 -1163030978
+qbs
+ar -4 -2 66
+qv -1 4
+ap -1 John 116
+qv 3 3
+qv -8 -8
+qts
+ar -9 1 66
+qbs
+qbs
+qci -7 744322557
+ar 2 -4 84
+qv 4 8
+qts
+qci -6 618326789
+qv -8 7
+qv 4 0
+ap -1 Janis 67
+qts
+qts
+ar 3 7 101
+qv -5 -1
+qts
+qv -5 -1899543414
+ar -4 1804643755 14
+ap 8 Lorrie 34
+qv 6 6
+ar -4 2 20
+ar -2 -4 43
+qv 2 -4
+qbs
+qbs
+qbs
+qci -6 1
+qv -3 -7
+ap -9 Johnnie 13
+ap 2 Ethel 51
+qci 0 629330332
+ap -8 Laura 2
+ar -1 -1 65
+qv 3 3
+qts
+qbs
+ap 4 Charlene 9
+qbs
+ap 7 Todd 76
+qv 7 -908551128
+qv -5 -1
+qv 7 3
+qbs
+qci 6 -8
+qv 7 -9
+qv -2 7
+qts
+qv -1 389092292
+qts
+qbs
+qv 5 -8
+qci -9 6
+qbs
+qci 7 -5
+ar -3 3 53
+qts
+ar 6 0 22
+ap -8 Eden 150
+qts
+ap -7 Loretta 129
+ar -7 -7 81
+qv 7 7
+ar 8 1413122961 64
+qts
+qbs
+qbs
+qci 0 -6
+ar 0 1109542244 11
+ar -5 -4 63
+ap 6 Anthony 125
+ap 4 Peter 140
+qts
+ar 1 -9 53
+ap 2 Jennifer 162
+qci -1 1
+ar 1 -1 82
+ar 2 1566502016 5
+qv 4 538362905
+qts
+qci -7 -2
+qts
+qts
+ap 2 Jesusa 87
+qts
+qbs
+qts
+qv 8 245393900
+qv 8 2
+ap 8 Jerome 1
+qts
+qbs
+qv -6 -9
+ap 6 Brandy 180
+qv 5 0
+qv 2 2
+qbs
+qci -5 -507486970
+qv -7 -279159991
+ar 6 -1 30
+qts
+qts
+ap -1 Lanora 9
+ar -1 -9 33
+ar 1 -1887155982 80
+qbs
+ar 2 -1 31
+qci 1 -1962546610
+ar 3 3 91
+qbs
+ap 0 Dora 63
+qv -8 295223593
+qv 4 -7
+qci 7 -5
+qci -3 7
+ar -2 8 2
+qci -1 4
+ar -5 2 47
+ar -8 4 78
+qci -3 -5
+qci 7 -1
+qci -1 605051435
+qci 2 0
+ar -1 67589031 31
+qv -4 -6
+qts
+ap 0 Charles 88
+qts
+qbs
+qbs
+qv 0 -1103945903
+qts
+qts
+qv -8 -3
+ap -3 Samuel 179
+qci -7 3
+qv 4 -7
+qts
+ap -8 Lorna 24
+qci -8 0
+ap -2 Rosie 133
+qts
+qbs
+qv -6 -9
+qv 8 1503191396
+qv 4 0
+qts
+qbs
+qv 6 6
+qci -1 843191543
+ar 5 -6 9
+qts
+qv 4 -7
+ap -3 Rosa 115
+qbs
+ap -2 Candy 147
+qbs
+qbs
+qbs
+qbs
+qv 7 7
+qbs
+qci -3 -4
+qts
+qbs
+qbs
+ap -7 Sean 150
+ap -7 Allen 69
+ar -5 -5 73
+ar 4 -7 62
+qbs
+qv 0 6
+qbs
+ap -6 Robert 178
+qci -6 -1
+qv -1 2
+qbs
+ap 7 Lawrence 19
+ar 4 -7 29
+qbs
+qbs
+qv -5 2
+qts
+qci 7 -3
+qbs
+qci 1 5
+qv -5 1
+qv 1 -80566050
+qts
+qv -6 0
+ap -9 Patsy 182
+qbs
+qci -2 0
+qci -5 -840511778
+ar 0 -5 51
+ap -9 Susan 63
+qv 5 -6
+qv -8 -8
+qci -9 8
+qci -1 -3
+qts
+ar -8 -8 33
+qci -9 -9
+ar -3 -1845685309 43
+qv 2 -2
+qts
+ap 1 Ashley 168
+qts
+qv -7 -4
+qv 2 -9
+ar -2 8 100
+qv -8 -8
+qts
+ap -4 Joe 121
+qci 6 8
+qv -2 84865073
+ar -6 1062964620 79
+qbs
+qv -7 -7
+qbs
+qts
+qv -3 2
+qbs
+qbs
+qbs
+qts
+qbs
+qbs
+qci 2 7
+qci -3 74331898
+qts
+ar 5 -6 18
+qbs
+ar -5 -9 67
+qci 6 -430975944
+qbs
+qv -7 8
+qv 6 -2
+ar 7 7 29
+ap -5 Stacy 2
+ar -8 -6 91
+qts
+ar 6 6 79
+qts
+ar -9 -1193535866 23
+qci 4 1
+qci 1 -1085149656
+ap -6 Joseph 41
+qbs
+qbs
+qbs
+ar -5 5 61
+ap 7 Wanda 94
+qts
+qv 4 -1
+ar -3 -9 87
+ar 5 6 49
+qts
+ar 5 -7 7
+qv -6 5
+ap -7 Carey 68
+qv -9 -120509369
+ar -3 -914978154 35
+qci -9 1
+qts
+qci 2 5
+qv 4 -5
+ap -9 Thomas 117
+qbs
+ar -5 -3 54
+ar -7 -1 86
+ar -3 0 91
+qbs
+ar 3 0 27
+qbs
+ap 1 William 170
+ap -9 Paige 178
+qbs
+qci 2 202938983
+qts
+qbs
+qci 8 -55985317
+qv -1 4
+ar 2 0 21
+qv -2 -3
+qci 6 -7
+ar -1 2 45
+qv -7 8
+ap -2 Susan 160
+qv -5 5
+qv 8 -2
+qbs
+ar -1 2 25
+qts
+ar -9 -3 40
+ap -8 Brandon 120
+qci -6 4
+qts
+qv -3 -7
+qbs
+ap -6 Gary 73
+qbs
+qts
+ar 6 0 72
+qts
+qbs
+qv 2 4
+qbs
+qts
+qbs
+qbs
+qbs
+ar -5 8 48
+ap -4 Ismael 154
+ap -1 Fredrick 177
+qbs
+qts
+qbs
+ar -7 -780406346 55
+ar 3 -3 19
+qci 8 -3
+qts
+qv 3 -3
+qci 2 -9
+qci 8 -2089582452
+ap -2 Elizabeth 101
+qv 8 2
+qci 6 0
+qv 3 -3
+qci 0 -5
+qv 3 -392999649
+ar -5 6 68
+qv 1 1
+qv -9 4
+qv -5 6
+qv 5 8
+ap 7 Ronald 201
+qci 4 -2
+ar 2 2 29
+qts
+qbs
+qbs
+qci -4 -1413271537
+ar -9 -5 84
+ar -4 -4 14
+qci -9 1590999699
+ar 1 8 38
+qbs
+qci -3 6
+qci -8 -4
+ap 7 Gary 135
+qbs
+qts
+qts
+ar 7 -2 75
+qci 2 -1
+qts
+ap -6 Edward 92
+qbs
+qci -4 -3
+qbs
+ar 5 -2 7
+qts
+qci -2 -2
+qv 3 -1
+qbs
+ar -4 -4 74
+qbs
+ar -8 1971270214 100
+qci 6 -4
+qci 3 3
+ap -4 George 52
+qv -4 3
+ap -7 Donald 185
+ar 0 3 74
+qbs
+qci -8 -3
+ar 5 8 11
+qbs
+qbs
+qv 1 8
+ap 3 Ingrid 99
+ar 6 6 89
+qbs
+qbs
+qbs
+qts
+qci 8 -6
+ar -4 -834993703 9
+qci -8 -1
+qts
+qts
+qci 4 6
+ar 2 -5 38
+qv 2 -4
+ap -7 Dewayne 165
+qci -2 -783925122
+qci -5 -8
+qbs
+ap -2 Norman 9
+qv 8 7
+qbs
+ar -3 -9 57
+qci -8 4
+ap -1 Candice 152
+qci 3 -2
+qv 5 -5
+qts
+ar -1 -1 11
+qv -6 -6
+ap 4 Agnes 11
+ar -2 -1569661397 44
+ar -8 -6 36
+ap -8 James 90
+qts
+qts
+ar 0 1913013290 16
+qci -2 -6
+qbs
+ap 5 William 6
+qv 0 3
+qbs
+qci 1 -260839618
+ar 3 5 93
+qbs
+qv -9 1
+ar -3 -2 27
+qv -3 3
+qci -9 7
+ar -2 -3 97
+qv 4 4
+ar -4 3 75
+qts
+qci 0 6
+qbs
+qv -2 1419978186
+ar 7 4 22
+ap 1 Bobbie 102
+ar -9 -3 74
+qci 7 2
+qv -1 2
+ap 1 Roy 200
+qv -4 -5
+qbs
+ar -1 118087986 47
+qci -8 1031139911
+qbs
+qbs
+ap 7 Steve 47
+qbs
+ap -9 Gerri 75
+qv 7 7
+ap 0 Tyrone 186
+qci -7 -8
+ap 6 Judy 9
+ar -5 692368156 73
+qbs
+qts
+qbs
+ap -1 Patricia 178
+ar -5 5 59
+ap 4 Cherrie 166
+ar -7 -9 86
+qci 6 -5
+qv -3 -9
+qts
+qci -7 -5
+qci -3 -8
+qci -6 8
+qts
+qci 2 -1965089700
+qbs
+qbs
+qv 6 6
+ap 2 Heather 21
+qbs
+ap -7 Jeff 188
+qts
+qci -8 4
+qts
+qv 3 -6
+qv -5 8
+qci 5 6
+qts
+qci -3 -459311121
+ar 1 -3 7
+qts
+ap -7 Nicole 41
+qv 1 812098642
+ap -3 Elwood 141
+qbs
+qts
+qci 1 -3
+ar -9 -7 88
+qts
+ar -4 -4 31
+qts
+ar 7 554504091 54
+qts
+ap 0 Clayton 67
+ap 6 Lillian 110
+qts
+ar -2 -1 96
+qci 3 -809620215
+qts
+ar -5 81756002 70
+qts
+ar 3 0 18
+ar -1 -5 8
+qv 2 -1
+qci 7 -8
+qv -5 1524832625
+qv 4 -3
+qbs
+ar 3 8 11
+qv -1 -4
+qv -7 1422805764
+qbs
+qci -6 4
+qts
+ar 4 4 42
+qbs
+qv -8 -9
+ar -5 0 86
+qbs
+qci -2 -4
+qv 2 -5
+ar -7 -5 9
+qts
+qv 6 6
+qts
+qts
+ar -5 -4 89
+qci -6 -8
+qci 0 -7
+qbs
+qts
+qbs
+qci 1 -1715296375
+qts
+qci 2 5
+ar -6 6 20
+ap 5 Aaron 132
+ar 4 7 83
+qts
+ap -3 Clarence 183
+ap 4 Marcia 149
+ap 3 Connie 111
+qts
+ar 6 -5 17
+ar -8 -2 84
+ar -1 3 53
+qbs
+qbs
+ar 4 7 68
+ar 5 7 52
+ap 6 Jessica 42
+qbs
+ar -4 -4 18
+ar 4 -3 55
+ap -9 Efrain 5
+ar -1 -6 78
+qbs
+ap -6 Peter 172
+qv 1 8
+ap -4 Jeffrey 90
+ap 2 David 74
+qts
+ap -6 Timothy 50
+ar 5 -6 21
+qbs
+ap -2 Gerardo 121
+qci -7 -1323627907
+qv 8 -995713031
+ap -4 Lavern 92
+qci -6 -7
+qbs
+qci 1 8
+ap -2 Brad 119
+qbs
+qci 0 -3
+qbs
+qts
+qv -2 -2
+qts
+ap 8 Jeff 44
+qts
+qv -1 3
+qci -2 -1206968810
+ar -6 7 98
+ar 8 685380290 61
+qci 3 -7
+qts
+qci -7 -9
+ap 7 Morgan 116
+qv 0 -1518512124
+qts
+qbs
+ar 0 1810892383 15
+ap 6 Maria 141
+ap 2 Catherine 42
+qci 1 1688960852
+qci 4 2
+qbs
+qbs
+qts
+ap -9 Mohammad 45
+qci -1 -9
+qbs
+ap 1 Jennifer 17
+ar 7 -8 43
+qci 5 -6
+ap 0 Alfonso 33
+ar -8 7 77
+ar -2 80657328 52
+qbs
+ap 3 Valerie 75
+qci 6 4
+ar 1 1 65
+ap -4 Richard 126
+ap -7 Kelly 75
+qbs
+ar -7 1934904735 97
+qbs
+qbs
+qci 5 -884089902
+qci 7 4
+ar -5 0 73
+ar 4 1 41
+qbs
+qci -6 -6
+qv 6 -5
+qbs
+qci -7 -4
+ar 3 8 22
+qbs
+qts
+qbs
+ar -9 -217809231 10
+qts
+ar 5 7 47
+ap 2 Laquita 196
+qci -2 -3
+qci -3 -9
+ar 1 -9 11
+qv 4 7
+ar 3 -6 5
+qci -8 781776225
+qci -8 0
+ap -4 Joan 143
+ar 0 -5 97
+qv -5 0
+qci -7 436450352
+ap 4 Joseph 170
+qci 5 -9
+qbs
+qv 5 -3
+qci 1 -4
+qv 2 -6
+ap 4 James 134
+qci 5 -7
+qts
+qv 3 -6
+ar 2 8 84
+qbs
+ap -9 Martha 137
+qts
+qts
+qbs
+ar -3 -3 62
+qts
+qv 0 5
+qts
+ap -6 Ruth 193
+qts
+qv 8 3
+ar 0 -73919919 34
+ar 1 -7 54
+qci 0 -8
+qts
+qbs
+qv 8 3
+qbs
+ar -1 1 74
+qts
+ar 1 6 28
+qts
+qv 8 3
+ar 2 -242414914 7
+qbs
+qci 1 -3
+qv -8 7
+ar 8 503962382 77
+qci 6 85348632
+qci -9 3
+qci -3 -59331577
+qts
+ap -2 Thomas 44
+qts
+qv 3 -1
+ar -2 35964354 90
+ap 8 Elizabeth 7
+ar -5 -2 55
+ap -6 Gary 61
+qts
+qbs
+ar 5 7 101
+ap -7 Eric 134
+qbs
+qts
+qts
+ar -7 -4 73
+qci -3 -8
+ap -1 Kathern 29
+qts
+qci 8 -5
+qv -9 -9
+qv -3 1922508260
+qci -3 -6
+qts
+ar 8 -1112772266 80
+qbs
+qv 5 -2024759211
+qci -1 5
+ap -4 Arlene 157
+qts
+qci 1 -1063304884
+qci -2 -1
+ar 1 -3 38
+qbs
+ap 3 Philip 147
+qv 5 2
+ar 2 1 25
+qts
+qts
+qbs
+qci 0 -4
+ar 6 -2 93
+qci -5 84059212
+qci -4 1784481348
+ap -7 James 145
+qv -3 -3
+ap 6 Paul 44
+qci -7 -9
+qbs
+qv 0 2
+ap 2 Christine 5
+qci 1 -7
+qbs
+qbs
+qbs
+qts
+qbs
+qv 2 2
+qts
+qbs
+ap 6 Gonzalo 142
+qts
+ap -5 Reginald 121
+ap 1 Lawrence 69
+qts
+qts
+ap 7 Martin 166
+ar 7 -6 63
+qts
+qts
+qbs
+qbs
+ar -9 -9 1
+qts
+qts
+ap 8 Gary 187
+qts
+qts
+ar -8 2 12
+ap -6 Bibi 85
+qci 0 -7
+qts
+qts
+qbs
+qv -6 -6
+qbs
+ar -4 2041724593 25
+qv 1 1
+qbs
+qts
+qci -9 -8
+ar 3 3 25
+qts
+ar -7 -703718603 74
+qbs
+qts
+qv -4 2
+ap 3 Joseph 119
+qbs
+qv -2 1
+qci -1 1711702590
+qv 3 3
+qci -1 7
+qbs
+qbs
+qci -9 -2
+qci -5 -2
+qts
+qci -7 5
+ar -4 6 56
+qts
+qts
+qv 0 0
+qbs
+qv 7 4
+ap 2 Thomas 77
+qv -5 -5
+qci 7 4
+ap 3 Gilbert 68
+ap 5 Katherine 77
+qv 7 -1
+qv -8 -8
+qv -6 -6
+qv -5 -5
+qv 8 735377245
+qv -4 6
+qv 2 2
+ar -3 7 13
+qci 7 -1137923780
+ar 7 5 77
+qv 3 2
+qci 8 -6
+ap 6 Ryan 114
+ar 5 -7 4
+ap -3 Paul 46
+qci 7 7
+qci 1 5
+qci -2 -4
+qci -3 -2
+ar 1 7 22
+ap -4 Robt 196
+qv -5 -1613764070
+qci 3 -4
+qv 4 7
+qts
+qv -2 -5
+ar -7 4 45
+ar -1 -1 45
+ar 4 -4 81
+qci -5 -5
+qbs
+qci 6 -5
+qts
+qbs
+qci -7 -813881178
+qv -2 -1802983428
+qci 6 6
+qci 8 4
+ar 2 -9 35
+qci 3 7
+qv -4 -1971532256
+qts
+ar -3 6 55
+ap 4 Christine 70
+ap -6 Elmer 147
+qts
+qv 7 -8
+ap 5 Michael 84
+qv 7 4
+ap -3 Rufus 149
+qts
+qbs
+qbs
+ap -7 Louise 194
+qbs
+qts
+qts
+qbs
+ar -4 1478462838 99
+qts
+ar -6 -6 93
+qv -6 -6
+qbs
+qbs
+qv -3 -3
+ar 5 -6 60
+ap 4 Chas 5
+ar 1 5 85
+qts
+ap 3 Rhonda 78
+qbs
+ar -9 -7 80
+qbs
+qbs
+ap -7 Chad 74
+qts
+ap -4 Albert 29
+qbs
+ar -8 0 9
+qv 6 -8
+qbs
+qv -8 5
+ar -7 -2 1
+qci -3 3
+qv -4 -4
+qv -9 -4
+qv -3 -3
+qv -9 -7
+ap 1 Roger 160
+qbs
+ap -9 William 194
+qbs
+qv -9 1761018517
+qci -8 2
+ap 0 Kay 95
+qts
+ar 6 -2115795794 39
+qts
+ar 1 1 18
+ap 7 Mary 133
+qbs
+qci -6 6
+ap -3 Daniel 4
+qci 3 -3
+qts
+qbs
+ap 4 Kim 131
+qv 6 6
+ar 5 -6 48
+qci 2 -6
+qci -6 5
+qci 5 1
+qbs
+qci 7 1870537384
+qbs
+qci -6 -995617230
+ar -3 -3 1
+qts
+qci 4 1155476878
+qci 3 7
+qbs
+qbs
+qv -6 5
+qv 0 0
+ar -4 7 23
+qts
+qbs
+qci -2 -1
+qci -8 -7
+qci 5 -5
+qci 2 -9
+ar -1 -1 55
+ap 0 Johnny 116
+qbs
+ap -1 Jonathan 97
+qbs
+qbs
+qts
+qv -4 709811302
+ar -6 843554434 67
+qci 3 3
+qts
+qci -9 -8
+qci -5 -5
+qv 5 -1
+qbs
+qv -4 -4
+qbs
+qbs
+ar 2 0 32
+qci -4 -1
+qts
+qci -7 7
+qts
+qbs
+qbs
+qbs
+ar -8 1 92
+ar 1 -5 8
+qts
+ap -6 Ida 131
+ap 4 Mary 4
+qbs
+qci -3 -1387684693
+qci -7 -8
+qbs
+qts
+ar -4 -926408821 63
+qbs
+qts
+qv -6 5
+qbs
+ap 8 Sean 30
+ar 6 1530136991 53
+qv 0 -1
+ap -3 Brittany 180
+ap 8 Mary 2
+qts
+qts
+qv 2 0
+qv 3 71906233
+ap 6 Pam 86
+qv -4 1263088594
+qbs
+qbs
+qci 7 5
+qts
+ap -3 Erika 126
+qci 8 2
+ar 3 2 60
+qbs
+qts
+qbs
+qci -9 5
+ap 0 Julian 46
+ap -8 Dan 106
+qts
+qbs
+qv -9 -7
+ap 4 Heather 173
+qbs
+ap -6 Jeffrey 9
+ap -5 Ronald 81
+ap 8 Michelle 163
+qv -6 -6
+ap -7 Leah 27
+ar 5 5 4
+qbs
+qci -9 -8
+qci -2 1
+qv -6 -6
+qci 8 -4
+ap 7 Eric 119
+qts
+qts
+qts
+ap -7 Paul 24
+qbs
+qbs
+qts
+qts
+ap -8 John 129
+qbs
+ap 3 Huong 75
+ar -1 -1 44
+qv -5 1
+qv -2 -5
+qts
+qv -9 6
+qci 3 208314429
+ap 8 Rhonda 107
+qbs
+ar 2 1383216164 92
+qbs
+qts
+ap -1 Gertrude 1
+ar -5 -1 16
+qv -4 -4
+ar -4 -9 64
+qbs
+ar 3 3 65
+qbs
+qci -9 -4
+ap 4 Benjamin 15
+qci 8 -6
+qbs
+ar -6 -4 46
+qbs
+qv 8 -8
+qts
+qbs
+qts
+qci -7 0
+qts
+qci -6 1111730810
+qbs
+qbs
+qts
+qbs
+qbs
+qbs
+qv 7 -1938891705
+qbs
+qci 5 -1805171276
+qts
+ar 4 0 49
+qbs
+qbs
+qci 2 2
+ar -2 -1 69
+qts
+qci -3 1265496921
+ar 0 2 45
+qbs
+qv 7 804510147
+qv 0 2
+ar -8 0 21
+qbs
+ar -3 -7 35
+ap -1 Justin 130
+qts
+qbs
+qv -1 -5
+qbs
+qci 3 8
+ap -5 Starr 132
+ap 5 Winfred 185
+ar -4 7 24
+qts
+qv -1 -92947426
+ar 6 -7 29
+qts
+qci 8 -1
+qbs
+ar -3 -7 68
+qbs
+qv 2 1693105028
+ap 4 Theodore 48
+qts
+qv -6 1940386549
+qci 8 7
+ap 5 Candelaria 85
+qbs
+qci 1 2115490687
+qv 6 -6
+qts
+qts
+qbs
+qv -2 -4
+qv -5 -1496429824
+qts
+qts
+ap -6 Mary 93
+qci 7 -1764106947
+ap -5 Mandy 25
+qv 0 -8
+ap 7 Eric 120
+ap 4 Lucille 73
+ar 6 -5 34
+qci 5 1
+ap 1 Jill 56
+qci 5 918507646
+ap 1 Tara 42
+ap 7 Sandra 18
+qts
+qts
+qts
+qbs
+ar 1 1 17
+ar -2 2 15
+qbs
+qv -5 -1020145580
+ap -4 Julia 108
+ar 5 -2083755530 5
+qts
+qci 4 7
+ap -8 Alice 85
+ar -3 -7 67
+ar 5 -9 13
+qv 4 4
+ap -7 Lillian 189
+qci -3 -9
+qbs
+ap 6 Gilbert 20
+qts
+qbs
+qts
+qbs
+ap 5 Roberta 140
+ar -6 -6 70
+qts
+ar -2 3 57
+ap 0 Betty 185
+qv -4 -4
+qbs
+qts
+qv -3 2
+qbs
+qv -3 1192727549
+ar -1 5 86
+qci -2 -1420715446
+ar -5 -3 43
+ar 2 -7 74
+qci -5 -1894625506
+qts
+qci 0 566080466
+qv 8 3
+qts
+qbs
+qts
+qts
+qts
+qv 7 7
+qbs
+qci 0 1
+ar -6 4 25
+qci 4 -352186655
+qv -5 4
+ar 8 -5 87
+qts
+qbs
+qv -3 864680129
+qbs
+qv -2 6
+ap 2 Junior 3
+ap -4 Scott 116
+qbs
+ar 0 929581639 50
+ar -6 5 69
+qci -1 -6
+qts
+qts
+qci -6 -8
+ar -9 4 1
+ar -4 -7 89
+ar -7 -1 19
+qci -5 6
+ap 3 Elisa 136
+qci -8 -8
+qts
+ap -9 Colleen 131
+qv 8 -5
+ap -4 Julio 64
+qts
+qts
+qts
+ar -9 -7 46
+ar 0 -1 98
+ar -4 6 54
+qbs
+ap -8 Amanda 61
+qv -2 7
+ap 5 Alfonso 34
+qts
+ap 5 Mary 83
+ar -6 5 20
+qts
+qci -3 -5
+qci -8 -8
+qci 7 7
+ar -6 5 13
+ap -3 Lawrence 71
+qts
+ap -1 Annabelle 82
+ar -1 4 36
+qbs
+qbs
+ar 2 0 74
+ar 5 -7 57
+qv 8 7
+ap 2 Delores 133
+ap -4 Stacy 84
+qv -1 -1505146492
+ar -3 1648141945 58
+ap -7 Bobby 1
+qts
+ap -5 Kenneth 111
+qbs
+qbs
+ar -9 -7 4
+ap 7 Bernice 68
+ap 8 Howard 33
+qbs
+qbs
+qts
+qci -4 -1476568225
+qci -9 6
+ap -2 Richard 201
+qts
+ap 2 Zina 44
+qts
+qts
+qbs
+qbs
+ap -2 Christi 158
+ap -9 Mary 176
+qci 5 7
+ap -8 Jack 26
+ar -1 -9 68
+qbs
+qv -7 -176226908
+qbs
+qts
+qv 2 4
+ap -4 Crystal 65
+qts
+ap 6 Ronnie 94
+ar 4 -3 85
+qbs
+qv 1 -3
+ap 7 Patrick 33
+ar 8 -1 5
+ar -6 4 12
+ar -6 -7 27
+ar -6 2 95
+ar -8 1915380468 79
+qci -2 -9
+ap 3 Bryon 29
+ar 6 6 99
+qts
+ap -5 Alice 82
+qci -3 -3
+qts
+qci -5 8
+qv -2 -2
+ar -9 8 34
+ap -7 Cherri 118
+ar 6 7 68
+ar -2 2124993078 97
+ap 4 Sandra 96
+qci 6 0
+ap 3 Minnie 106
+qci 2 -4
+qv -4 -1
+ap -8 Thomas 64
+qv -1 270966525
+ar 5 7 93
+qts
+ar 0 -2 21
+qv -2 6
+qv 5 7
+qv -4 3
+ap 7 Sandy 23
+qts
+ap -3 John 130
+qbs
+ap -8 Anne 56
+qbs
+qts
+ap 4 Danny 52
+ap -2 Gina 164
+ar 0 1 82
+qv 8 -9
+qv 3 7
+qv 2 -6
+qts
+qci 2 -5
+qbs
+qbs
+qci -5 5
+qci -7 1471157505
+qci -4 6
+qv 5 1
+qci 1 -5
+qci -8 0
+qv 7 1193234562
+qbs
+qts
+qci 6 -2
+qv -3 -5
+qci 8 4
+ap 3 Sean 9
+ar -6 5 31
+ar 0 -1382871695 100
+qv 4 -1061248897
+qv -8 -8
+ap -8 Rosanne 33
+qv -2 -2
+qts
+ap -5 Salvatore 172
+qci 6 3
+qbs
+qv -3 -3
+ar -8 -8 85
+ar 4 4 86
+ap -6 Terry 185
+ar -2 -3 37
+qbs
+ap -9 Stuart 163
+qci 5 -6
+qbs
+qci -4 -5
+qci -2 1356881315
+qv -9 -9
+qbs
+qci 6 7
+qci -5 -1
+qv -6 -9
+ap 8 Barbara 184
+qci -6 1972954104
+qv -2 -3
+qbs
+qci -6 1093217401
+qv -4 -4
+qbs
+qci -4 -9
+ar 0 4 88
+ap -9 Betty 87
+ar -9 832792514 84
+qbs
+qci -7 -2014142584
+qts
+ar 4 3 42
+qts
+qts
+ap -9 Ruby 201
+ar -2 -1776367350 2
+qts
+qbs
+ar -5 -5 85
+qv -2 -3
+ap 2 Andrew 160
+qbs
+qbs
+qts
+qbs
+ap 4 Joy 109
+qts
+qci -6 1576230658
+ap -7 Ida 162
+qts
+ap -5 Gloria 29
+qci 0 -5
+qbs
+qts
+ap -8 Patrick 32
+qbs
+qv 4 3
+qv 8 1585041429
+qci -6 8
+ap -9 Stanley 193
+ar -5 -5 21
+qbs
+qts
+qbs
+ar -8 -1 16
+qbs
+ar -4 -8 15
+qci 5 -1
+ar 1 0 30
+qv -4 8
+qv -5 -5
+ap 7 Joseph 33
+qv -7 -1832129671
+qv -1 -8
+qci 1 392845338
+qts
+qci 8 2
+qv -4 -1004041130
+qbs
+qbs
+qts
+ap 3 Carol 45
+qv 7 -4
+ar -7 7 72
+qv -3 -2
+qbs
+qv -8 -8
+qts
+ar 8 1078741930 21
+qts
+ar 0 1 71
+ar -4 -5 5
+qv -1 -8
+ap 5 Helen 90
+qci 2 -5
+ap 3 John 34
+qv 1 1772432949
+qci 4 2
+ap -6 Lexie 119
+ap 3 Wendy 190
+qv -5 -5
+ap -4 Shannon 89
+ap -7 Sandy 138
+ar -6 -3 53
+qv -3 -2
+qci -5 8
+ap 4 Sarah 134
+qbs
+qv 6 7
+qv -6 -3
+ar 4 -1109046252 60
+qts
+ap 5 Joshua 123
+qv -1 1
+qci 2 6
+qv 6 7
+qv 4 -4
+qv -3 3
+ap 7 Jean 186
+ap 2 Amy 127
+qts
+ap 8 Cynthia 180
+qci 3 0
+qts
+ar -6 5 28
+qbs
+ar 4 7 87
+ap -5 Nancy 58
+qci 2 7
+qv 7 7
+qci -5 7
+qci 5 -114977265
+qci -6 5
+qv 5 -6
+qbs
+ap -8 Jim 149
+ar -6 0 37
+qci 0 -7
+ap 5 Gregory 122
+ap 3 Ryan 42
+ar 5 -556306784 32
+qci -3 -6
+ap 7 Robert 106
+ar 8 8 60
+qci 6 -7
+qts
+qci -2 -7
+qv 7 7
+qci -3 -7
+qci -3 -4
+qci -6 -582571254
+ap -2 Jason 194
+qci -5 5
+qv 1 0
+ap -6 Albert 59
+qbs
+qv -2 7
+qci 5 878701780
+ar -3 381185112 28
+ap -7 Arnold 182
+ar 4 3 87
+ar 8 3 63
+qv -7 -7
+qts
+qts
+qv -2 1
+qts
+ap -3 Mark 145
+qci 4 -1
+ar 7 7 30
+qv -9 3
+qbs
+qbs
+ap -4 Laura 120
+qts
+qbs
+qts
+qci -2 -2
+ar -7 -7 100
+ap -9 Ryan 41
+qv -4 -8
+qts
+ap 7 Charles 57
+qci -3 -5
+ar 5 -1 15
+qv 3 1
+ar 5 5 79
+qv 4 7
+qbs
+qbs
+ar 6 7 28
+qts
+ap -4 Jenna 73
+ap 8 Michael 192
+qci -8 -9
+qci 8 -1
+qbs
+qts
+ap -7 Roberta 10
+qts
+qts
+qbs
+qv -3 -3
+ar 0 -83648987 74
+qci 3 806459174
+qbs
+qv -8 0
+qci 1 -2
+qci -4 3
+qbs
+qts
+qts
+qts
+qci 3 3
+ap -1 Glenn 123
+qbs
+qv 7 -30031196
+qbs
+ap 2 Richard 26
+qbs
+qbs
+qts
+qts
+ar 8 -8 77
+ar -3 -8 37
+ar -9 -3 13
+ar 5 -785793704 99
+qci -3 8
+ap 1 Michael 94
+ap -8 Curtis 70
+ap 0 Mark 54
+qci -1 -7
+ar -4 -4 85
+qts
+ap 0 Rene 123
+qv -4 -4
+ar 6 5 15
+qv -2 -2
+qci -8 1
+qts
+qci 3 0
+qci -1 1
+ap -6 Crystal 102
+qts
+qv -8 -6
+qv -8 711527343
+qv -9 -3
+qts
+ap -9 Janet 12
+qci -1 2
+ap -6 Rita 127
+qbs
+ar -2 4 46
+qci 6 2005866791
+ar 7 7 21
+qci 7 -1351960322
+qv 6 -4
+qv -9 0
+qts
+qts
+qv -6 -6
+qts
+ap 0 Christy 99
+qv -2 4
+ap -4 Jackie 41
+qv 8 0
+qci -3 -5
+qbs
+qv -4 -991878516
+qv -3 -2
+ar 6 7 89
+ap 7 Linda 80
+qv -3 -9
+ar -3 2 18
+qv 7 -1
+ar 7 0 41
+qci 3 1
+ar -5 -2 89
+ar -6 -9 13
+qbs
+qbs
+ar -2 -1570657562 23
+qci 8 1066627394
+qbs
+ar -6 0 19
+ap 2 Walter 33
+ar -7 5 63
+qv -5 -2
+ap -6 Madelyn 20
+ap -5 Donna 108
+qci 5 -8
+qts
+qci -4 1
+qbs
+qv -1 -1865896224
+qci -5 -9
+qv -6 1
+ar -7 399635521 33
+qbs
+ar 3 8 92
+ap -5 Michael 124
+ap 2 Leonard 133
+qv -9 -6
+ar 0 7 28
+qci -2 -6
+ap -9 Connie 65
+ar -6 -4 7
+qts
+qci 1 1406159233
+qci 1 5
+qci 3 8
+qci 4 0
+qbs
+ar 4 0 11
+qci 2 -99163541
+qts
+ar 3 8 62
+ar -6 4 25
+qbs
+qts
+qv 4 -6
+ar 3 8 29
+qv 4 -1
+qbs
+qts
+qci -2 184593920
+ap -2 Lisa 32
+ar -3 -9 27
+ap 1 Jerry 123
+qts
+qv 7 0
+qv 1 -3
+qbs
+ap -6 Annetta 143
+qci -5 -3
+qv 3 -698685727
+qci 6 4
+qbs
+ar 8 -1387020048 41
+qts
+qbs
+qci -4 -2
+qv 5 -3
+ap -5 Patrick 74
+qts
+qts
+ar -5 -2 86
+qts
+qbs
+qts
+ar -9 -9 8
+qbs
+qbs
+ar -4 -2 1
+qbs
+qts
+ar 8 1188734141 37
+ap 4 Terri 1
+qts
+ar -3 2 87
+ap -7 Robert 73
+qci 4 -4
+qbs
+qci 4 5
+qci -7 0
+qbs
+ar -9 -9 99
+qts
+qbs
+qci 3 3
+qbs
+ar -2 2115272220 61
+ar 1 -1306983056 34
+qts
+qv -1 -1262320913
+ap 0 Eric 14
+qbs
+qts
+ar 3 3 65
+qts
+qci 8 6
+qv 0 4
+qci 1 6
+qv 4 4
+qci 1 0
+ar 5 1 9
+qv -9 -3
+ar 0 -1 81
+qts
+ap -8 Franklin 35
+qts
+qbs
+qv -4 -6
+ar 3 6 84
+qbs
+qts
+qbs
+qbs
+qci -8 1411813275
+qbs
+qci 0 0
+ar 1 2 19
+qbs
+ap -7 Bessie 153
+qv 5 -5
+qv 7 -2018686142
+qci 5 4
+qbs
+ap -8 Allen 13
+qts
+ap 1 James 176
+qts
+qv 2 -6
+ap 8 Grant 153
+ap 5 Mark 191
+ar -3 -1512033997 42
+qv -6 1
+qv 5 -8
+qv 5 1
+qv 0 -2
+ar -2 1 17
+ar -2 -7 94
+qbs
+qci 5 2
+qv -9 -1
+qv 4 -899402214
+ap -4 John 140
+ar -3 2 57
+qci -5 -9
+qv -4 -4
+qv 1 5
+qts
+ap -4 Gregory 27
+qts
+qbs
+qts
+qts
+qv 6 -3
+qv -1 -2
+qci -4 -1
+qbs
+ar 4 -1 40
+qts
+qbs
+ar -3 0 36
+qv 5 1
+ap 7 Bryan 0
+ar -1 -9 35
+qv 3 8
+ar -2 -8 94
+qts
+ap 0 Lorie 10
+qv 4 1040683325
+ap -2 Cecilia 57
+qci -5 -961191575
+ar -5 6 10
+qci -3 -856537255
+qv -9 1
+qts
+qci 1 -518095612
+qts
+qci -6 1847519414
+qci 0 -2
+qbs
+qci 4 -780598143
+qci 4 6
+qv -6 -1828248839
+ap -2 Virginia 103
+qts
+ap -8 Mia 44
+ap -1 Samuel 113
+qv 1 -1
+ap -8 Herminia 11
+ap 2 Margaret 76
+ap -9 Jack 153
+qbs
+qv -3 2
+qci 8 -3
+ar -4 1213802667 82
+qbs
+qts
+qci -9 -5
+qts
+ar -8 -932888858 80
+qts
+qts
+qci 3 186969610
+ap 5 Sharon 140
+qv -5 -2
+qv -9 -1
+qts
+ar -1 -9 81
+qbs
+qts
+ar -2 1822405937 15
+qbs
+qv -3 8
+qbs
+qbs
+qts
+ap -9 Hazel 25
+qci -2 7
+qci -1 -8
+qbs
+ap 8 Lauren 35
+qbs
+qts
+qci 2 -6
+qts
+qts
+qci 0 1
+qts
+ar -5 -2 55
+qci -2 7
+ap 6 William 173
+ap 7 Barbara 107
+ap -9 Nora 4
+qbs
+qci 6 -5
+qci 1 3
+qbs
+ap 1 Ruth 59
+qci -4 -6
+qci 0 4
+qts
+qts
+qbs
+qci -8 3
+qci -8 1
+qts
+ar 6 6 90
+qv -3 2
+ar -9 7 51
+qbs
+ar 1 1 53
+qv 5 776485482
+ap 0 Jose 52
+ap -3 Jody 188
+ap -5 Brenda 132
+qbs
+qbs
+qts
+qci -8 -4
+qv -4 -1
+qbs
+qv -4 423563976
+qbs
+qci 7 0
+qv -8 -9
+ar -1 837772767 49
+qbs
+ap 0 Jaime 106
+qts
+qv 7 -9
+qts
+qts
+ap 5 David 43
+qbs
+ap 3 Roger 94
+ap 1 Jan 115
+ar 1 1 91
+qci -3 -1
+qts
+qbs
+ar -1 -6 90
+qts
+qv -7 -2
+qci 1 0
+ap 0 Paul 146
+qci -7 1
+ap 2 Robert 33
+ar -8 1 81
+ap 5 Courtney 183
+qts
+qci -2 -9
+qv 3 8
+ar -7 -2 26
+qbs
+qci -7 2
+qci -1 -688644037
+qv 4 -1
+ar -8 1190145522 55
+ap -4 Jessie 80
+qbs
+qts
+qv 5 -193927013
+qbs
+qbs
+qbs
+qbs
+qv -8 1
+qbs
+ar 4 4 38
+qbs
+qbs
+qts
+qv -2 -2
+ar -2 5 27
+ap -3 Michael 148
+qbs
+ap 1 Kay 102
+qbs
+ar 7 6 82
+qbs
+qts
+qts
+ap 5 Alexander 30
+ap 0 Frank 192
+qci -5 7
+qci -4 4
+qv -9 7
+ap 7 Cynthia 78
+qts
+ap 1 Anne 143
+qts
+ap -3 Sharon 125
+qci -6 0
+ar 2 -4 49
+qci 6 0
+qts
+qci -6 8
+ar 0 0 17
+qv -6 -1
+qci 3 -7
+ar -9 1 38
+qbs
+qts
+qbs
+qci 4 3
+ap -8 Lavette 57
+qv 7 -6
+qv -8 4
+qbs
+ap -2 Mary 176
+qbs
+ap -7 Marie 154
+qts
+ap -4 Allison 52
+qv 7 -451950171
+ap 6 Joseph 10
+qts
+qci 7 1730786847
+qci 3 -1
+qts
+qv 0 7
+ap 0 John 183
+ar -7 0 54
+qbs
+qci 3 -8
+ar 1 -4 65
+qv 4 0
+qv 8 -2
+ar 7 6 56
+ap -9 Helen 170
+qci -5 1548196370
+ap -5 Patricia 21
+qv -1 -9
+qv -5 -5
+ar 4 -977255108 26
+qts
+ap 0 Eddie 16
+qv 1 0
+ar -9 1592418630 88
+qbs
+qts
+qci 8 325074489
+qts
+ar 5 -1 59
+qts
+qts
+qbs
+ar -5 -8 14
+ar -1 -1580345148 45
+qbs
+qci -4 -1223108244
+qci 5 -5
+qts
+qbs
+qbs
+ap 4 Carla 120
+qci 6 3
+ap 6 Carolyn 47
+qbs
+ar -4 2 61
+qci -9 -7
+qci 2 -7
+qbs
+qci -2 0
+qv -9 7
+ap -8 Arnold 107
+qv 5 -1
+ar 0 1 87
+ap -5 Barry 81
+qbs
+qv -6 4
+ap 0 Bernice 110
+qv -1 5
+qbs
+qci -1 4
+ar -3 0 78
+ap -8 Desiree 78
+qv 5 1575801827
+qts
+ap -5 Irene 0
+ap 0 Jesus 170
+qv -3 0
+qv -6 7
+ap -7 Robert 179
+ar 4 4 73
+qci -2 7
+ar 5 7 76
+ar -9 -2138593415 19
+ap 5 Stacey 81
+ar -3 1787722558 58
+qv 5 -8
+qv 1 -4
+ar 4 -745759511 60
+qts
+qv 5 5
+qbs
+qbs
+qv 3 6
+qbs
+qci -8 -5
+qbs
+qv -2 -2
+qts
+ap -9 Stacie 47
+qbs
+ap -5 Hector 26
+ap 1 Latasha 62
+ap 4 Jeffrey 53
+ap -8 Yong 171
+qci 2 5
+qts
+ar 2 -4 30
+qci 4 -5
+ar 2 -1805049968 38
+qci -4 2
+qv 2 -4
+ap 5 Joseph 157
+qv 3 8
+ar -2 -6 58
+qts
+ar 3 8 88
+qts
+qbs
+qbs
+ar 3 -6 75
+qv -2 -6
+qts
+qv -9 0
+ap 2 Barbara 192
+qts
+qv -8 -8
+ar -1 -967593298 26
+ap -7 Steven 187
+ap -3 Terrell 124
+qbs
+qts
+qv 1 2
+qv -7 -7
+qbs
+ap -4 Danny 16
+qci -1 -1
+qci 0 -8
+ap -4 Glenn 55
+qbs
+qbs
+qts
+ar -1 -3 92
+qci -1 1187412422
+ar 7 611441954 61
+ar -1 -2 78
+qv 0 -3
+qts
+ap -2 Erin 103
+ap -7 Howard 87
+ar -9 8 93
+ar -9 -4 70
+qv 8 -1
+ap -9 Frances 89
+ap 8 James 195
+ap -9 Lynn 186
+qci 8 1506895403
+ar -9 621873704 60
+qbs
+ap -3 Ericka 176
+qv 6 -1760469850
+ar 8 8 93
+qts
+qts
+ap -9 Maria 45
+qci -1 -3
+qbs
+ar 0 7 41
+qci 3 -2
+qv -7 -7
+ap 3 Eugene 93
+qv 4 4
+qci -4 -35420018
+qts
+qts
+ap -1 Michelle 26
+qts
+qv -8 8
+ar 2 -4 75
+ar 1 2005915714 86
+ap 7 Maribel 102
+ap 8 Lois 147
+ap -1 Jenny 181
+qci -4 -1
+qci -5 6
+qts
+qci -4 -5
+ap 0 Jessica 81
+qts
+qci -7 -1
+ap -3 Thomas 95
+qv -5 -5
+ap 4 Winter 82
+qbs
+ar 5 6 40
+qci 0 -4
+qts
+qci -9 8
+qts
+qbs
+ap -4 Lawrence 72
+qv -4 0
+qci -4 6
+qts
+qci -1 -7
+qv -7 -7
+qbs
+qv -7 6
+qv -4 1589821798
+qbs
+qv 8 1337951278
+ap 6 Neville 97
+qci 7 -2
+ap -2 Charles 121
+qbs
+qbs
+qts
+qbs
+qci 0 -2
+qts
+ar 0 7 86
+qbs
+ap 1 Deborah 151
+qv -5 -5
+qci 1 -7
+qbs
+qts
+qbs
+qbs
+qv -6 5
+ap -4 Debra 58
+qci -6 -7
+qts
+qbs
+qci -8 -4
+qci -2 6
+qbs
+qv -7 1566582506
+qts
+qbs
+qv 3 396563890
+qts
+qbs
+ar -3 -7 78
+ap -6 Calvin 156
+qbs
+ar -3 -4 49
+qci -3 4
+qv 1 4
+qbs
+ar -2 373007116 58
+ap -2 Mark 173
+qts
+qbs
+qci 5 -2
+ar 2 -7 12
+qbs
+ar 7 2 63
+qbs
+qts
+qv 1 1
+ar 7 7 70
+qbs
+qci 5 0
+qbs
+qci -1 -966412554
+qv 3 8
+qts
+ar -9 6 20
+ar 7 0 92
+qbs
+qv -8 -4
+ar 7 -1 39
+qv 5 2
+ar -6 0 9
+qci -2 -3
+ap -3 Bobbie 174
+ap 4 Sofia 53
+qts
+qts
+qci 8 -3
+qci -2 6
+qv 0 -1239227602
+ar -3 1 59
+qbs
+qbs
+qbs
+ap 7 Thelma 177
+qts
+qv -3 -1
+qci -3 -7
+ap 2 Darren 200
+qci 8 5
+qv -6 0
+ar -9 3 21
+ar 6 3 20
+qts
+qci -8 3
+ap 2 Micheal 157
+ap 5 Ngoc 67
+ar -6 0 42
+qbs
+qts
+ap 2 Francisco 85
+qts
+ap -4 Raymond 4
+qts
+qv -6 0
+qci 8 -3
+qts
+ar 8 -2072874068 66
+ar -1 7 88
+qts
+qci 7 5
+ap -6 Robin 128
+qv 0 7
+qbs
+qci 7 -1
+ap -2 Ashley 25
+qts
+qv -2 2
+qv -2 -2
+qbs
+qbs
+ap -5 Craig 177
+qv -3 -4
+ar 6 5 82
+qts
+ar -9 -7 72
+ap 7 Steven 164
+ar 1 -16136832 42
+ap -2 Margarita 75
+qci 3 8
+qts
+qbs
+qts
+qci 3 826322073
+qbs
+qv -3 6
+ar -5 -5 39
+ap -2 Emma 107
+qv 6 3
+qts
+ar 2 741029742 10
+qts
+ap 8 Jessie 36
+qci 7 -8
+qts
+ap 7 Garry 160
+qbs
+qci -5 1
+qci 5 337858348
+qbs
+qbs
+qbs
+qv 6 -8
+qbs
+qbs
+qbs
+qts
+qv -8 0
+ar -8 -8 87
+qts
+ar 5 -1 87
+qci -4 7
+qbs
+qci -9 8
+qv 5 -1
+qbs
+qv 1 -3
+qbs
+qbs
+qci -9 -6
+qv -5 -5
+qbs
+ar -1 8 41
+qts
+qv 6 3
+qv 5 6
+ar 8 8 38
+qci -3 1
+qts
+qv -5 -777072538
+qts
+qbs
+ap 3 Elsie 27
+qbs
+qts
+qbs
+qbs
+qv -9 729576621
+qbs
+qts
+qts
+qci -9 2
+qci 5 0
+ar 1 -8 38
+qts
+ar -3 8 53
+ar 1 -247166041 94
+ap -1 Prince 3
+qv 1 -1
+ar -8 -8 30
+ap 0 Johnson 16
+qts
+qv 5 1104850037
+ap 1 Todd 168
+qbs
+qts
+qv -3 0
+qci -2 -6
+qv 3 8
+qbs
+ar -8 -8 91
+ar 5 -8 36
+qbs
+ar -6 -4 59
+ap -1 Albert 107
+qts
+ap -7 Debra 60
+qci -9 -3
+qv -6 -4
+qbs
+ap -4 Fern 171
+qts
+qbs
+qts
+ar 2 -3 10
+qv -4 7
+qci 3 1918838361
+ar -5 8 81
+qci -8 -740960392
+qbs
+ap -9 Joe 72
+qts
+qci -6 -9
+qts
+qv -4 3
+qci 1 -653548705
+qbs
+qci 8 -3
+qci -2 -7
+qbs
+ap -7 Gladys 75
+qts
+qv -3 8
+ap 3 James 160
+qts
+ar 2 -1 41
+qv 8 3
+ap 1 Jennie 167
+qci -2 -5
+qts
+qbs
+ar -2 -2 15
+qts
+ap -4 Clifton 86
+qbs
+qts
+qts
+ap -5 Asa 187
+ap -2 Rebecca 0
+ar -5 4 24
+qts
+qbs
+ap -4 Richard 195
+qv -8 5
+ar 0 3 74
+qts
+ar -8 2026125496 81
+qci 6 -200581452
+qv -2 3
+ap 6 Doris 13
+qbs
+ap 1 Francisca 111
+ar -7 8 92
+qv -8 5
+ar 8 -9 72
+qbs
+qts
+qci 5 -1687968937
+qci 6 -8
+ar -3 -4 61
+qts
+qv 8 1534887603
+qv 8 -1217768775
+qci 4 -6
+ap 2 Alicia 201
+qv 6 6
+ar 0 -5 87
+qts
+qci 7 7
+qci -4 -4
+qbs
+qv -7 -7
+ap 4 Jessica 124
+qv 3 -1399602165
+qbs
+ar 3 -1505315738 98
+ap -5 Mary 63
+qv 2 5
+qci -7 -1916076648
+qci 6 -189482581
+qbs
+qts
+qci -1 4
+qv 8 1474228204
+qts
+qbs
+ap -3 Keith 120
+qci 6 4
+qts
+qci 6 -2062037477
+ar 2 1088720227 15
+qbs
+ap -3 Kathlyn 151
+qv -1 -8
+qv -7 -8
+qbs
+qts
+qts
+qci -7 -4
+qv -7 -1832653212
+qv 8 -3
+qts
+ap 2 Gerald 141
+qbs
+ap -1 Anna 201
+ap -7 William 21
+qts
+ap 3 Gladys 125
+qts
+ap 0 John 148
+qv -1 0
+qv -7 1172705458
+qci -2 -1
+qv 1 1
+qci -9 -4
+ap 4 Mary 118
+ar -3 1 23
+ar 3 -1109294981 5
+qv -4 -2
+qbs
+ap 8 Carol 69
+qts
+qts
+qbs
+qbs
+ar 6 6 90
+qv -1 251989196
+ar 2 -7 21
+ap 5 John 142
+qv 3 6
+qci 1 6
+qbs
+qts
+qci 3 4
+qci 4 3
+qci -7 -6
+ar 5 3 79
+ar -5 -5 79
+qci -8 2
+qts
+ap 8 Susan 84
+qbs
+qci -7 -625433308
+ar 2 448629908 1
+qbs
+qts
+ap 3 Gregg 179
+ap 4 Edward 153
+qts
+ap 3 William 104
+qts
+qbs
+ar -2 -1 58
+qci -2 6
+qci -6 -2
+qv -4 5
+ar -1 -1 68
+qbs
+qci -6 6
+ar -2 752360098 43
+qts
+ap 0 Elizabeth 23
+qbs
+ar -1 1118253645 96
+qts
+qbs
+ap 7 Frank 55
+qbs
+qts
+qbs
+qci -6 -2124257660
+ar -9 4 49
+qts
+qts
+qbs
+qts
+ar -5 -967859033 79
+ar -9 6 82
+qts
+qbs
+qci 0 -5
+qci 3 8
+qci 0 -6
+ap 3 Laura 86
+ap 3 Amanda 192
+qv 8 -1
+qci -9 -5
+qv 5 -68731995
+ap -4 Donald 77
+qv -1 4
+ar 8 -5 11
+qbs
+qv 2 -7
+ar 5 3 79
+qv 8 184754686
+ap 6 Rachel 191
+qci -1 -1957183078
+qci 1 7
+qts
+qci 8 -6
+qv -3 8
+qv -8 5
+qbs
+ap 6 Patricia 29
+qts
+qbs
+ar -1 5 44
+qv -2 0
+ar 4 8 23
+qts
+qbs
+qbs
+qv 2 0
+ar 7 7 46
+qbs
+qbs
+ar 5 1694156388 42
+ar 8 -4 100
+qbs
+qbs
+ar 5 7 12
+qv 2 2
+qbs
+ar 5 -7 31
+ar -5 -3 47
+qts
+qts
+qci 4 4
+qci -5 -1873592612
+qv -8 5
+ar 5 2 30
+qv 6 3
+qv 2 -2
+ar 0 2 85
+qts
+qbs
+qv -8 5
+qbs
+ap 4 Christine 141
+qbs
+ap 4 Alice 127
+qbs
+qv 0 0
+qbs
+qts
+qv -1 -1
+qci 6 -4
+qci 1 -6
+qts
+ap 8 John 158
+qts
+ap 3 Sandy 39
+qv -2 3
+qv -9 2
+qts
+qts
+qv 8 8
+qci 0 4
+qv 1 -8
+qci 7 3
+ap -1 Michael 17
+ar 2 -7 49
+qci 5 -145817034
+ap -2 Helen 184
+ap -4 Cameron 156
+qbs
+qts
+ar 8 306318630 39
+ap 3 Jacqueline 36
+qts
+qci 4 8
+qci 7 6
+qts
+ap 3 Charles 135
+qbs
+qbs
+qts
+qci 1 -2
+qv 6 6
+qts
+ar -2 -4 12
+ar 5 -8 65
+qv -5 1521178636
+qci 6 4
+ap 3 Joshua 14
+ap -5 Joe 143
+qci -5 -8
+ar 5 2 70
+qci 5 -9
+qts
+qv -7 7
+qts
+qv 1 1
+qv -9 -288346441
+qv 7 5
+qci -6 1683068333
+qts
+qv 3 3
+qv 5 -8
+qbs
+ar -8 1 101
+qci 2 -1239137740
+ar 0 0 9
+qci -7 -7
+qv 2 5
+qci 5 1
+ar 7 -3 16
+qbs
+ap 0 Raul 87
+ar -2 -2 8
+qci 7 -5
+qci 7 -8
+ap -2 Robert 91
+ar 7 -3 97
+qts
+ap -9 Edward 78
+ar -7 7 92
+qbs
+qbs
+qts
+ap -4 Marilyn 75
+qts
+qbs
+qv 4 4
+qts
+qts
+qci -5 2
+ap 3 Sofia 55
+qbs
+ap -2 Thomas 195
+qv 6 6
+ar -4 -5 77
+qci 2 -2
+qv 8 -1
+ar 7 2 25
+ap -2 Laura 95
+qv -3 -1079866420
+qts
+ap 5 Ernest 30
+qts
+qts
+ap -2 Stella 182
+ar 0 8 10
+qci 1 -375231148
+ap -8 Rita 196
+ar -2 -4 88
+qci 2 -1673800241
+qci -6 2
+qts
+qts
+qci -7 -1
+qv -5 8
+qci 8 -7
+ap -8 Denise 127
+qbs
+ap 8 Oscar 124
+qci 5 2
+ap -9 Sarah 70
+qbs
+qci -4 2
+qv -8 -296142851
+ar -9 8 51
+qbs
+qts
+ap -6 Nathaniel 38
+ar -9 -8 41
+qv -3 -6
+qts
+qbs
+ap -5 Lucille 134
+qci -8 5
+ap -3 Kathy 129
+qv 5 6
+qbs
+qbs
+qci 6 3
+qbs
+qci 1 -4
+qci -9 1629945421
+qts
+qv 6 6
+qts
+ap -4 David 119
+ap 1 Maryann 68
+qci 8 7
+qci 3 6
+ap -9 Raymond 164
+qbs
+qv 5 1681444694
+qci -6 -9
+qv 7 6
+ap 3 Margie 44
+ap -7 Cherie 134
+qv 0 -1
+qbs
+ap 1 Betty 8
+qbs
+qbs
+ap -5 Jacki 8
+qbs
+qts
+qts
+qts
+qbs
+qts
+ap 5 Bonnie 93
+qci 0 0
+qts
+ap 4 Carl 109
+qts
+qv 8 -8
+qv -3 2
+qci -5 8
+qci -7 2
+qbs
+ap -4 Carolyn 90
+ar -4 -7 99
+qv -2 389274427
+qci 1 1972278743
+ap 3 Nancy 138
+qv -7 -7
+ar 4 -3 47
+ap 8 Mary 37
+ar 7 -1630392428 21
+ap -4 Charles 3
+qci -6 -9
+qci -6 600886075
+ap -8 Susan 64
+qts
+qv -6 -8
+qci 1 -8
+qts
+qts
+qci 3 -218809376
+qbs
+ap 7 Savannah 9
+qts
+qci -7 -1
+ar -3 -1 8
+ar -2 3 54
+qv 2 1
+qci -7 -2
+ap -4 Pauline 177
+ar 5 941270174 57
+ap 8 Marguerite 17
+ar -3 -1 65
+ap 1 Lee 55
+qv -7 -7
+qci -8 5
+ap -9 Jessica 56
+ap -7 George 71
+qv 8 8
+qci 3 146299215
+qts
+qv -8 -1130092792
+qv 4 4
+ar -2 0 26
+qbs
+qci 7 1
+qbs
+qbs
+ap 4 Tyrone 71
+qv -5 0
+qci -6 -1228334609
+qci -9 -3
+ar -2 3 61
+qv 4 -456126087
+ap 5 Clyde 132
+ar -1 -172943460 71
+qts
+ar -6 -1733413892 64
+ar 1 -6 40
+qci -8 -1068419969
+ap -9 Donald 97
+qbs
+qv 7 -7
+ar 3 -1239608194 38
+qts
+ar 8 8 14
+qts
+qv -8 6
+qci -4 -4
+qv -2 -84263364
+qci 6 -6
+qbs
+qv 0 4
+qbs
+qbs
+qv -2 3
+qci 6 2
+qci -8 7
+qts
+qv -6 -4
+ar 1 7 30
+qbs
+qci -2 -563275134
+ar 8 8 26
+qv 3 -5
+qbs
+ar -1 -1 78
+qci 8 -6
+ap -9 Maurice 126
+qv -2 -8
+qci -5 4
+ar 1 -3 5
+qbs
+qci 0 -9
+ar 7 -1 54
+qci -8 -6
+ar 0 -8 29
+qci 2 7
+qts
+qv 7 578490864
+ar -7 8 12
+qci 7 5
+qci 1 2
+qbs
+qci 3 -5
+qts
+qts
+qts
+ap 5 Elizabeth 145
+qv 0 6
+ar -4 -4 72
+ar 5 -530971429 78
+qci -3 656887802
+qv -4 -7
+qci 5 -7
+ap -5 Sean 144
+qbs
+qts
+qci 4 -3
+qbs
+ar -5 -4 16
+qts
+qbs
+qv 0 -137869547
+qbs
+ap -9 Dawn 50
+qv 5 5
+ar -6 -3 61
+ar -5 -4 98
+ap 8 Leon 200
+qts
+ar -6 0 25
+qbs
+qts
+qci 5 -1
+ap -2 Fay 193
+qbs
+qci -9 -1848376487
+qbs
+qbs
+qbs
+ar -3 -6 74
+qts
+qci -8 7
+ar 8 4 5
+ar 4 5 12
+ar -2 -2 41
+ar -7 0 54
+qbs
+qci -2 -5
+qts
+qv -6 1
+ar -8 7 80
+qbs
+ar 5 -3 39
+qv -9 6
+qts
+ar 7 -2 6
+ar -3 5 40
+qci -4 4
+qts
+qbs
+qts
+qts
+ar -6 5 95
+qv -9 -7
+qts
+qv 2 -7
+qci -8 2
+ap 2 Martha 178
+qbs
+qci -1 -3
+ar 6 1742954814 29
+ar -2 7 35
+qts
+ap 0 Judy 72
+ap -9 Pamela 103
+ap -4 Michelle 20
+qts
+ap 6 Mark 93
+qci -9 1470842532
+qv 0 0
+ar -4 -865182339 100
+qci -7 -1528320978
+qci 1 1378177823
+qbs
+qv 0 0
+qbs
+qbs
+qci 2 1642980315
+qv 0 0
+qv -5 7
+qbs
+qv 6 -80610511
+qbs
+qts
+qts
+qbs
+ap 6 Donna 182
+ar 1 1 15
+ar 3 -2 52
+qv -9 -1341493259
+ar 0 0 4
+qbs
+ap -1 Nina 43
+ap 5 Beatrice 32
+qbs
+qv 0 0
+qv -4 -8
+qbs
+qci 4 -6
+ap 1 Desiree 120
+qts
+qci -4 -1378274178
+qci 4 5
+qbs
+qv 3 5
+ap -2 Steven 81
+qci -9 -5
+ap -7 Kathy 145
+qv 6 4
+qv -1 -2
+qbs
+ar 1 -8 75
+qts
+qci 0 0
+qts
+qbs
+qts
+ar 1 -7 99
+ap -7 Barbara 119
+qts
+ap 2 Deirdre 21
+qci -7 -3
+ap 1 Carol 0
+ap 5 Andre 110
+ar -2 2 76
+qv 7 -2
+qbs
+qv 1 1
+qbs
+ar -1 5 12
+ap -5 Evelyn 112
+qv 3 -6767046
+qv 5 5
+ar 6 -155661298 11
+qbs
+ar 2 7 22
+qbs
+qci 3 1
+qci -9 -2
+qts
+qci -5 1792328025
+qts
+qci -7 -1336363439
+ap -2 Pauline 31
+qv -4 1793400563
+qts
+qbs
+qts
+ar 0 -9 78
+ap 2 Lenora 187
+ap 3 Sergio 189
+qbs
+ap 5 Kacie 122
+qci 5 4
+qv -4 -4
+qci -3 2
+qv -7 7
+ap -7 Janie 69
+ar -2 -1 2
+ar -9 4 59
+ap -8 James 193
+qts
+ap -9 Jacob 167
+qbs
+qts
+ar -8 7 74
+qts
+ar -9 -9 64
+qci 7 2065730577
+qv -2 0
+qv 7 1
+qts
+qv 0 -9
+qbs
+ap -5 Nicole 23
+qbs
+qv 0 8
+ap 3 Evan 147
+qbs
+ar 3 6 19
+ap 5 John 100
+qts
+qv 6 6
+qv -3 6
+qbs
+qts
+ap -1 Tia 28
+qbs
+ar 7 7 53
+qts
+qci -9 8
+ar -7 8 61
+ap 4 John 128
+qbs
+qv -5 -5
+ap -3 James 59
+qci -6 -1471980138
+qts
+ar 5 2 19
+qts
+qci 0 0
+qts
+qts
+qts
+ar 1 -6 67
+qbs
+qbs
+qts
+qv -1 8
+qbs
+qv 6 6
+qbs
+qv -5 1246539280
+qts
+qbs
+qts
+qbs
+qbs
+ar 5 5 72
+ar -3 -1132305744 82
+ar 6 -4 83
+qbs
+qbs
+ar -7 -6 90
+qci 8 -3
+qv 2 -1220706583
+ar 2 -9 77
+ar 5 2 10
+qbs
+qci 3 -9
+ap -1 Justin 136
+ar 5 4 63
+qbs
+qbs
+qts
+ap -2 Dawn 101
+qci 6 3
+qv -7 1228402384
+qbs
+qts
+qbs
+qci -8 2
+ar 7 -7 54
+qbs
+ar -8 7 68
+qv 8 -7
+ar -8 -1767244382 44
+qci -8 -9
+qbs
+qbs
+ar -5 -8 39
+qts
+qci 4 -7
+qbs
+qv 5 7
+ap -4 Curtis 17
+ar 3 3 2
+qts
+ap 1 Paul 165
+ap -4 Faye 112
+qv -2 -8
+ap 7 Sheena 168
+qci 2 -3
+qci -1 1732769591
+qci 4 3
+ap 4 Troy 108
+qbs
+ap -2 Thao 182
+qci 7 -8
+qbs
+qv 5 2
+ap -2 Jenifer 159
+qci -7 -532697086
+ar -1 1130663115 24
+qbs
+qbs
+qbs
+ar 3 3 50
+qbs
+ap 8 Reginald 33
+qv 0 0
+qbs
+qci -9 2
+ap 8 Clelia 113
+qv 3 0
+ar 4 180025883 19
+qbs
+qbs
+ar -3 272592531 98
+qbs
+qts
+ar 1 -1461957344 96
+ar -6 7 9
+qts
+qci 5 2
+ap 5 Virginia 91
+ap 6 Marcos 13
+qv -1 -3
+qv -3 -2
+ap -7 Charles 73
+qv 3 -6
+ar -9 5 94
+ar 1 -1 54
+qts
+qts
+qv 1 -1
+ap -9 Robert 34
+ar -5 -8 16
+qts
+qv -1 1
+ap -3 William 139
+qci -9 -1171471702
+qv -5 -5
+ar -3 -3 70
+ar -1 1 22
+qv 2 -9
+ap 6 Guadalupe 21
+qv -1 1026212685
+ar 8 1874347219 60
+ar -2 -1123454878 34
+ap 7 Huey 97
+qv 1 1002914195
+qci -8 -5
+ar -2 -2 46
+qbs
+qts
+ap 7 Jeanette 57
+qbs
+qts
+qbs
+ap -7 David 119
+qv 6 6
+qci -2 1990567577
+ar 8 4 51
+qci 5 -2055632914
+qv -4 -1
+qv -4 -4
+ar 3 0 83
+qv -8 -8
+qts
+qci -1 7
+ar 5 -7 4
+ar -2 -9 27
+qv 3 -2
+qv 4 5
+ar 1 -1 87
+qv 1 -1147209678
+qci -3 -3
+qts
+qci -3 7
+qci 4 7
+qts
+qbs
+qci 4 7
+qv -5 -9
+qbs
+qci -6 -7
+qci -1 -5
+qv 3 5
+qts
+ap -6 Joseph 194
+qv 4 -2116801454
+qci -6 -6
+ap -3 Jason 76
+qv 3 1
+qci -1 -2
+ap -3 Nathan 47
+qts
+qci -8 1
+qbs
+qts
+ap 3 Todd 194
+qv 2 -9
+qbs
+qv 0 39032148
+ar -5 -7 95
+qv 8 4
+qv 1 -2052245120
+qts
+qts
+qts
+ap -1 Andre 133
+qv 3 0
+qci 5 8
+qts
+ar -3 -3 63
+ap -9 Dotty 198
+qv -8 7
+ap 4 Richard 102
+qts
+ar 7 1858110215 70
+ap -6 Georgina 173
+ar 2 2 14
+ap 7 Donald 67
+qts
+qts
+ar -4 3 88
+qts
+qbs
+qbs
+qci 2 7
+qci 7 -1
+qv -3 0
+qbs
+qv 7 -1
+qv 5 -519646947
+qbs
+ap 4 Emmy 1
+qv -9 8
+qv 7 -8
+qts
+ap 4 Lilly 170
+qts
+qv -1 -1
+ap 4 Kimberly 105
+qts
+qts
+qbs
+qts
+qbs
+qci -5 -7
+qts
+ar 6 -5 76
+qts
+ar 8 4 79
+qv 2 -9
+ap 5 Donna 95
+ap -5 Kenneth 100
+ar 1 -1 31
+qts
+ar 1 -1 99
+qts
+ap -8 Norman 168
+ap 6 Charles 15
+qv -5 6
+qts
+qv 1 -1
+qci -1 1785280878
+qv 1 4
+qbs
+qbs
+qts
+ar 5 7 55
+ar -2 1704752366 46
+qci -3 -2
+qci -7 5
+qv 4 4
+qbs
+ap 6 Jean 160
+qci -4 6
+qci 2 4
+qbs
+ap 8 Donald 96
+qci -3 1145880471
+ap -7 Rosa 72
+ar 3 0 46
+qts
+qts
+ar 7 7 80
+ar -4 8 80
+qbs
+qci 3 0
+ar 1 384594286 59
+qv -4 8
+qv -6 1865942850
+qbs
+qts
+qv -5 6
+qv -3 -2
+ap 7 Adrian 118
+ap 4 Heather 170
+qbs
+qci -6 -6
+qci 2 -1636994851
+qbs
+qbs
+qci -1 -3
+qci -5 -9
+qci -4 5
+qv 0 0
+qts
+ap 0 Amanda 138
+qci -8 7
+qv -9 1
+qci -3 7
+ap -1 Kim 84
+ap 0 George 194
+ap 6 Matthew 113
+ap 7 Tracy 40
+ap 2 Maurice 148
+ar 2 -2 86
+ar 0 -440722118 99
+qts
+qv -2 -5
+qci 8 838835072
+ap -5 Ray 46
+qts
+qci 7 -68274793
+qv 3 2076520497
+ar -7 -8 44
+qv -8 1
+qbs
+qbs
+ap 2 Lisa 67
+qv 1 -1
+ap -7 Howard 48
+qbs
+ar -1 3 41
+ar -6 -7 12
+ar 5 79021677 28
+qv -2 -8
+qv -1 8
+qci -8 -3
+qv -8 -2
+qbs
+qts
+ar 4 6 5
+ar 0 -7 100
+qbs
+qci 0 -3
+qv -2 -9
+qci 4 -1538630091
+qbs
+qci 1 -8
+qv -9 5
+qci -7 -1
+ar -2 2 49
+ar -1 8 43
+qbs
+ar -3 1542776601 6
+qts
+ap -3 Willie 175
+qbs
+ar 4 4 95
+qci 7 7
+qts
+ar -4 667520928 2
+qbs
+ap 4 Lenora 127
+ar -3 6 12
+qv 3 6
+ar -8 1 62
+qbs
+ar -9 3 86
+qbs
+qts
+qbs
+ap -4 Darryl 166
+qts
+ap -8 Stephanie 128
+qts
+ar 0 7 98
+qbs
+qci -1 3
+ar 1 -1704246354 51
+ar -8 7 48
+qts
+ar -7 -1 25
+ar -7 -7 83
+ar 2 8 43
+ap -6 Ralph 125
+qbs
+ar 1 -2 48
+qts
+ar -9 1576212763 64
+qv 3 0
+ap -3 Patty 115
+qv 2 8
+qci 0 -9
+qbs
+qci -1 1
+qbs
+qbs
+qv 4 -1303909040
+qbs
+qts
+ar -9 -8 97
+ap -9 Robert 18
+ap 3 Bernardina 125
+qbs
+qbs
+qts
+qts
+qbs
+qv 4 0
+ap 1 Kim 195
+qci -4 0
+ar -7 -7 75
+ap 2 Brandy 141
+qts
+qts
+qv -1 -7
+qci 8 0
+qbs
+qbs
+qci -9 -4
+qci -8 7
+qts
+qbs
+ap 7 Aaron 178
+qbs
+ap 6 Lynette 191
+ar -3 -6 94
+qts
+qv 2 2
+ap 1 Amy 50
+ar 3 -9 84
+ap -5 Bill 36
+qbs
+qts
+qbs
+qv 2 6
+qv -1 -7
+ap 8 Darwin 26
+ap 5 Angel 151
+qts
+ar -7 5 90
+qbs
+qts
+qts
+qci 0 6
+ar 6 -3 49
+qts
+qci -9 6
+qv 5 -7
+qts
+qci 4 2083687518
+ar 8 1483327846 44
+qci -7 8
+qv 8 1
+qci 2 0
+qts
+ar -6 1615006845 91
+qts
+qv -7 -7
+qts
+ap 2 Eunice 129
+qci -9 -7
+ap 2 Richard 197
+qbs
+ar 2 -3 96
+ap -9 Joe 82
+ar -6 -3 20
+qts
+qts
+ap 8 Shawnna 107
+qts
+qts
+ap -4 Alberta 17
+qv -3 -6
+qts
+ap 7 Pedro 32
+ar 0 2 34
+qts
+ap -1 Horace 160
+qci -2 -2
+ap -6 Dale 175
+qci -2 -1521563321
+ap 5 Willie 129
+qv 7 1
+ar -5 -8 4
+qbs
+qts
+ar 0 3 30
+qci 6 -8
+qci 2 200722864
+ar 8 -3 15
+qts
+qci -7 2
+qts
+qts
+qbs
+qv 8 -3
+qci -9 332136584
+ap 8 Phillip 127
+qbs
+ar 7 4 22
+ar -8 2 5
+qts
+qv -4 6
+ap 6 Lisbeth 30
+ar 5 -7 33
+qbs
+qbs
+qci 7 -1
+qbs
+ap -1 Patricia 169
+qv -1 -9
+qbs
+ap 6 Christine 16
+qv 5 -1
+ar -9 -9 93
+qci -4 -9
+ar -7 1500694987 38
+qv -8 3
+ap -4 Paul 142
+qts
+qv 3 0
+qts
+qci 1 -169460856
+qv -7 -7
+qv -5 559986375
+qci -5 0
+qbs
+qci -2 -8
+qv -8 -1772333144
+ar 5 2 45
+qci -8 -7
+qv 0 -1114092495
+qts
+qci 3 500363843
+qts
+qv 1 1
+qbs
+ar -8 -8 28
+qts
+qts
+qv 8 -3
+ar 1 -4 7
+ap 3 Paul 126
+qts
+qts
+qv 8 -3
+qts
+ap -5 James 87
+ar 1 1 29
+qv -1 -6
+qbs
+ar 0 -1895493239 29
+qbs
+qci -2 -3
+qts
+qbs
+qts
+ar -8 3 28
+qv -7 3
+qts
+ar 7 -6 52
+ap 2 Bruce 36
+qts
+qv 7 4
+ar 2 2 37
+qbs
+qbs
+qci 4 1593307209
+qv 7 906156882
+qci 7 -4
+ar 5 0 34
+ar 3 -5 90
+qbs
+qv -9 -9
+ar 6 3 54
+ap -4 Mary 171
+qv -4 -5
+qbs
+ar 0 1 92
+qbs
+qv 3 -5
+qci 2 4
+ap 0 Ronald 67
+qv 1 0
+ar -3 -6 54
+ar -5 1843457081 17
+ar -2 7 4
+qv -6 -4
+qv 0 0
+ar -7 -5 61
+qv 3 -8
+ap 5 Alissa 72
+qci -5 -2
+ar 5 -7 63
+qci -3 -423932017
+qv -4 -4
+qv 6 2
+qts
+qci 1 6
+qts
+ar 5 -1 75
+qbs
+qci 2 -1495631825
+ar 8 8 23
+qbs
+qv -5 3
+qts
+ap 6 Tony 6
+ap -9 Janice 3
+ap -7 Susan 193
+ap 5 Linda 197
+qv 4 4
+ar -7 -3 97
+qci 1 8
+qbs
+qbs
+qci 2 -2
+ap 3 Winifred 189
+qci -5 -3
+qbs
+qbs
+qbs
+ap -9 Elizabeth 176
+ar -2 5 26
+ar 0 1 91
+qv -1 1363528283
+qv -7 0
+qbs
+ap 2 Michael 68
+qts
+qci 2 5
+ap -2 James 169
+ap -2 Ralph 31
+qts
+qci -3 8
+qv -7 1657499347
+qts
+qci 0 8
+qci -7 -339064404
+qv -1 -9
+qci -3 3
+qbs
+qts
+ar -1 5 9
+ar 2 -7 16
+qts
+ar -7 3 25
+qts
+qts
+ar 6 6 29
+qbs
+ap 1 Irene 71
+ar -6 -8 80
+qbs
+ar 1 -2 8
+ap -3 Noemi 116
+qbs
+qci -6 -678308016
+qts
+qts
+ap -7 Ronald 128
+qts
+qci -1 -5
+qbs
+ar 7 6 22
+ar -2 -6 73
+qbs
+ap 1 Linda 66
+ar -2 -9 77
+qci 8 -777673417
+ar -1 -5 84
+qci 3 -4
+qts
+ar -7 2 25
+qts
+qts
+ap 1 Autumn 141
+ap 0 Robert 80
+qci -4 -1011431698
+qbs
+qv 7 -6
+ap 3 Stephanie 178
+qci -1 8
+qts
+ap 5 Leslie 161
+qv -7 2
+ar -1 8 95
+qci 4 8
+qv 0 0
+qv -5 301509852
+qci -1 8
+ap -4 Charlie 9
+ap -8 Jessie 71
+ar 4 0 51
+qci -4 -9
+ar -3 -6 59
+ar -5 1 78
+qts
+qv 5 -2
+ap 3 Linda 195
+qbs
+qbs
+qci 1 -213803016
+qts
+qv 1 -556644970
+qv -6 0
+qbs
+qv 7 2
+qci -7 7
+qbs
+qbs
+qts
+qv -2 1
+qci -5 4
+ap 2 Lyndon 144
+qv -1 -6
+qbs
+qts
+qts
+qv -9 -2
+qbs
+qci -2 7
+ar 2 -5 67
+ap -7 Victor 110
+ar 1 -1 89
+qts
+qts
+qci -3 -4
+ar 8 0 4
+qbs
+qv -7 3
+ap -8 Colleen 188
+qci -6 8
+qts
+qci -6 8
+qci 3 6
+qci -4 -7
+qci -4 853736425
+ar -9 1 55
+qts
+qts
+ar -5 -5 73
+ar -9 1282696268 87
+qbs
+ap 2 George 53
+qv -5 -5
+qbs
+qts
+ap -5 Sharon 17
+qv 0 -7
+ap -2 Alice 151
+ar 1 5 56
+qv 6 -4
+qbs
+qci 3 8
+qv -9 -7
+ap 4 Myra 139
+qv 3 -1417400651
+qts
+qts
+qbs
+ar -9 -4 36
+qci -1 541364296
+ar 6 6 20
+qts
+ap -9 Geraldine 86
+qbs
+qts
+ap -4 Greg 132
+qts
+qts
+qci 7 -2
+qbs
+ar 5 -8 90
+qbs
+qci -5 282093215
+qv -6 -7
+ap -4 Michael 194
+ap -8 Whitney 94
+qbs
+qv 5 -2
+qbs
+ap -3 Maria 194
+ap 2 Matthew 160
+qbs
+qci -9 -9
+ar -4 380196155 30
+ar -8 0 21
+qts
+qbs
+qts
+qbs
+ap 4 Irma 126
+qci 0 -9
+ar -5 6 64
+qv -5 6
+qbs
+ap 1 Roger 175
+qci -7 3
+ap -7 Patrick 175
+qts
+qci 7 366945465
+qci -4 1913804952
+qbs
+qbs
+qci 5 6
+qts
+qci -6 -5
+qbs
+qts
+qts
+qci 1 -221751034
+ap -3 Charles 171
+qv 2 -1
+ar 6 -6 89
+qts
+qv 3 3
+ar 8 -8 35
+qts
+qbs
+qci 3 2
+ap 3 Phyllis 104
+ap 2 Daniel 155
+qci 6 2085402534
+qts
+qci 3 -1667973930
+qts
+qv 0 1
+qci -9 8
+qbs
+ar -7 -7 31
+qci -5 1546520130
+qv 6 1
+qv -1 720385512
+qts
+qts
+qv 5 -2
+qv 8 -6
+qts
+qci 6 -2
+qv 5 -2
+qbs
+qts
+qts
+ap -6 Darnell 130
+qv 0 8
+qv -5 -875137017
+qci 5 0
+qv -9 -4
+qci -5 6
+ap -7 Lillian 186
+qbs
+ap 1 Mattie 121
+qv 7 -6
+qv -2 -488830239
+ap -2 Mildred 103
+ar -1 8 23
+ap 7 Russell 89
+ar 3 5 94
+qci -6 6
+qbs
+qts
+ar -9 6 92
+qv 5 3
+qv 6 -6
+qci -9 -9
+qbs
+qbs
+qci 3 -5
+qts
+qv 0 4
+qci -8 -659720110
+qts
+qts
+qv 6 -6
+qts
+qv -2 729079046
+ap -6 Hettie 89
+qv -6 -7
+ar -5 -7 13
+ap -9 Enid 165
+ap 1 Daryl 45
+qbs
+ar -3 -7 3
+qci -9 2
+qts
+qts
+qci 8 -5
+qts
+qts
+qbs
+ar 1 2 48
+ap -2 James 122
+qbs
+qts
+qts
+qci -1 362232694
+ar 1 -3 86
+qts
+qv -7 1510226765
+ar -7 5 29
+ar -4 -4 19
+ap -6 Heidi 89
+ap 8 Joann 94
+qts
+qbs
+qv -8 -3
+qv 0 -2
+qts
+qci -8 1302452716
+ap 6 Latonya 83
+qbs
+qts
+ar -6 -6 70
+qci 4 1
+qts
+qci -8 7
+qci -7 5
+ap -5 Roy 21
+qv -3 1
+qbs
+qci -7 -4
+qbs
+ap -8 Denise 15
+ar 4 2 38
+ar 7 -2 24
+ap 0 David 87
+qci 6 -356597264
+qts
+ap 1 Kenneth 41
+qbs
+qbs
+ap 5 Silvia 48
+ar -3 1 56
+qci 7 -4
+qts
+ar -7 -922167213 73
+qts
+qbs
+qv 0 0
+qbs
+qts
+qbs
+ap 1 Jeanne 15
+qci 6 1
+qci 6 -9
+qv 4 8
+qci -3 5
+qts
+qci 8 -5
+qbs
+qv -2 -2
+qci -9 0
+qv -9 -1496972637
+ap 5 Kelley 24
+qbs
+qts
+qci 1 1207316804
+ap -7 Rodrigo 155
+ar -4 360439009 13
+ap -6 John 35
+qci -8 -9
+qbs
+qts
+ar -8 -2 51
+ar -1 -4 98
+qci 0 7
+ap -9 Bradly 74
+qv -8 -1
+qts
+qts
+qci -2 0
+qbs
+qci -2 4
+qts
+qbs
+ap 2 Doyle 51
+qci 4 1
+qv 4 2
+qbs
+qci 8 -8
+ar 8 -9 50
+qci -9 8
+qbs
+qbs
+ap -1 Philip 135
+ap 7 Bertha 186
+ar -7 4 100
+ap -8 Chad 196
+qbs
+qts
+qts
+qbs
+ap 3 Monique 187
+qv 1 1
+ap 6 Robert 3
+qv -1 -1172948441
+ar 4 7 16
+qci 3 8
+qv -7 -2133956878
+ar -3 6 34
+qci -4 -5
+qv -9 8
+ap -1 Christine 57
+qv -8 7
+qts
+qts
+ar -8 3 90
+qts
+ap 6 Judith 84
+ar -3 -5 66
+ap -7 Tony 7
+ap 5 Troy 77
+qbs
+qts
+qv -3 -4
+qts
+ar 7 0 87
+ar 5 -2080698293 56
+ar 2 1190105300 38
+ap -7 Linda 90
+qts
+ap 0 Brian 167
+qci -5 178728596
+qv -6 2
+ar -9 -1 46
+qbs
+qts
+qci -5 -3
+qv 0 3
+qts
+qci 6 -2
+qbs
+qbs
+qbs
+qci 8 -6
+ap 6 Jose 63
+qci -6 4
+qbs
+qbs
+qbs
+qv -9 -1
+ap 6 Michael 12
+ap -9 Migdalia 31
+ar 1 1 37
+ap 5 Pauline 102
+ap 0 Beverly 61
+ar -7 1187341162 45
+ar -4 -1 18
+qci -7 -6
+ar -6 1207271471 24
+qv -8 94497265
+ap -8 Charles 110
+qbs
+qbs
+ap -1 Mildred 77
+qts
+qv 1 1
+ar 1 1 28
+qbs
+ar -5 -1396276869 38
+ap 4 Staci 162
+ap -6 Alan 123
+ap -6 Hugh 69
+qts
+ar 7 3 94
+qbs
+qts
+ar 4 2 68
+ar -1 -9 49
+qbs
+qts
+ar 5 -7 25
+ap 7 Doug 182
+qv -7 3
+qv 5 -5
+qci -6 0
+ar -3 -9 69
+qci 4 -3
+qbs
+ar 6 -335781705 58
+ar -1 4 69
+ar 8 -4 71
+qci -9 -9
+ap -8 Rebecca 41
+ap 0 Paul 132
+qv 4 -846368132
+qts
+qci 2 5
+qbs
+qbs
+ar -6 -6 29
+ar -4 6 57
+qbs
+qts
+qts
+ar -6 2 11
+qci 8 0
+qts
+ar -5 -3 92
+qbs
+ar -9 -993645865 65
+ar -6 -7 65
+qts
+qbs
+qv 1 -2
+qci 8 -3
+qts
+qci 7 -1530262363
+qci -5 8
+qv -6 2
+qbs
+ar -7 5 93
+qts
+ap -8 Julio 124
+ap -4 Charlene 168
+qci 0 668153408
+qts
+qbs
+qci -6 -9
+ar -3 -8 29
+ap -6 Lisa 91
+qv 1 2
+ap -1 Barbara 61
+ap -3 Maynard 85
+qv -3 -5
+qts
+qbs
+ap -2 Ryan 21
+qci 6 -2
+qv 4 -1
+ap -5 James 83
+qv 4 3
+qv 4 35626848
+ap 7 Tom 197
+ar -3 -2 31
+qv 8 -4
+ap 1 Zaida 139
+qci 5 -4
+qts
+qts
+qci 2 1
+ap 6 Micheal 46
+qci -8 6
+qci 6 3
+ap 0 Rachel 143
+qv 4 174596842
+ap -6 Patricia 159
+qts
+qbs
+ap 3 Patricia 143
+qv 3 3
+qbs
+qv 4 -9
+qbs
+qts
+qv 5 2
+qbs
+qci -4 1425187277
+qbs
+qts
+qci 8 1
+qci -4 1
+qbs
+qci 3 -3
+qbs
+qv -6 -6
+qci 2 7
+qbs
+ar 3 8 46
+qts
+qv -1 -479154512
+qv 6 -4
+qv 7 7
+qts
+qci -8 -8
+qv -2 -3
+ap 0 John 193
+qts
+ap 8 Nancy 170
+qbs
+qv -5 -3
+qts
+qci 2 -1
+qts
+ap -9 Brad 98
+qv 5 -3
+qv -5 -3
+qv 3 -5
+ap 2 Charles 45
+qv -3 6
+ar 3 -1 56
+ap -7 Jackie 77
+qts
+qci -6 -1
+qv -2 -3
+qv 3 8
+qv 4 -1
+qbs
+ar 5 -2 51
+ap -9 Elvira 98
+qv 8 0
+ap -7 Sandra 195
+ap -6 Steve 71
+qts
+qts
+qv 5 -8
+ar -1 -2080170946 58
+ap 0 Angela 130
+qv -3 7
+qbs
+qci -2 4
+qts
+qts
+qts
+qbs
+ar 3 -9 84
+qv 7 7
+qv -6 -6
+ap 3 Sandra 94
+qbs
+qv 2 7
+qci 0 8
+ar -8 -8 96
+qci -9 -9
+qts
+qts
+qbs
+ap 1 Brandon 150
+qci 4 204496990
+qbs
+qbs
+qts
+qbs
+qbs
+qv -1 1099524917
+ap -2 Arthur 168
+qci 7 -2
+qbs
+ap 7 Allison 72
+qci -4 -4
+ar -4 -8 33
+qv -7 -6
+ar -1 2044741079 88
+ap -9 Marva 101
+qci -6 -650758333
+ap 8 Patrick 60
+qv -7 -5
+ar 4 1975089852 83
+qci -8 1745792307
+qci -3 -1471328631
+qts
+ar 7 -1 22
+qbs
+ap -7 Monica 157
+qts
+ar -8 0 61
+qbs
+ap -4 Dina 156
+qci 3 2
+qci 2 2
+qv 6 6
+qv -8 -8
+qv -8 1016878861
+qv 4 -1
+qbs
+qci -2 -7
+qbs
+qbs
+ar -7 -6 86
+qv -8 -8
+ap 3 Robert 54
+qv 6 1
+ar -1 -464991400 21
+ap -8 Gregory 179
+qv -9 -9
+qv -7 3
+qci -8 7
+qv -8 1
+qci -4 194514777
+ap 7 Calvin 100
+qbs
+qv 2 -1887207416
+qci -2 2
+ap -4 Eva 48
+qbs
+qci 3 -428324507
+ap -2 Michael 68
+ap -6 Eugene 29
+qbs
+qci 4 2
+qts
+qts
+qts
+qbs
+ap -4 Clifton 24
+qbs
+ap 2 Howard 23
+ap 8 Suzette 170
+qv 8 -1407562303
+qbs
+qci -9 -7
+ar 5 -2 101
+qv -6 -6
+ar 3 1 6
+qci 7 -6
+qv -8 -8
+qts
+qts
+qci 7 -8
+qbs
+qts
+ap -1 Brandi 101
+qci 7 -3
+qv -9 -7
+ar 8 2 38
+ar 7 -4 3
+ap -8 Robert 108
+ar -5 4 93
+ar 1 1 11
+qci 3 4
+qts
+ar 7 8 5
+qci 6 -7
+qv 4 -3
+qci -9 -4
+ap 7 Carolina 90
+qbs
+ar -3 -9 24
+qts
+qv 3 3
+qbs
+qci -5 1792278882
+qbs
+ap 0 Leeann 122
+qbs
+qv 2 8
+ap 3 Vickie 58
+ap 6 Robert 124
+ar -7 1 25
+qts
+qbs
+qbs
+qts
+qts
+ap -7 Erika 117
+qci 2 -3
+qts
+qci 2 -1980287916
+ar 6 6 47
+qv -2 419442108
+qv -3 -1914090877
+ar -6 -8 100
+qts
+qci -7 -5
+qv -2 -4
+ap 1 Joseph 200
+qv -4 -1810836940
+ar 4 -7 63
+qv -7 -869987972
+qbs
+qci -3 -4
+qci -4 0
+qci 2 7
+ar 0 0 74
+qci -1 4
+ar 5 4 68
+qts
+qci 7 -5
+ap 7 Rosemary 146
+qbs
+qci -6 -6
+qbs
+qv 2 8
+qbs
+qci -8 4
+qbs
+ar -8 -9 85
+qts
+qbs
+qbs
+qv 6 6
+qbs
+ar -7 3 19
+qci -9 -7
+ap -2 Paul 110
+qbs
+qbs
+ar -3 5 51
+qv -7 2
+ar 5 -6 42
+qbs
+qci 8 3
+qbs
+ap -9 Gary 125
+ap 7 Cassie 107
+qci 3 -3
+qbs
+qci 0 535082159
+qts
+qbs
+qts
+qbs
+ap 3 Burton 105
+ap 6 Harry 68
+ar -6 3 41
+qci -5 1
+ap -4 Mary 45
+qci 6 3
+qci 0 -1
+qci -3 3
+qbs
+ap -5 Tammy 81
+qv -3 -9
+ar -3 -8 92
+ar -4 1306927460 43
+qv -8 -9
+qv -7 5
+ar 2 6 2
+qbs
+qv -8 0
+ap -5 Carol 60
+qv 3 -1
+qv 4 2
+qv 2 8
+ap 8 Marie 181
+qts
+qts
+qv -9 -3
+qv -2 -2
+ap -9 Sandra 85
+ap -9 Craig 184
+qci -7 -4
+qbs
+qci -7 -1441501331
+qv 7 8
+ar 5 -4 25
+qts
+ap 8 Joseph 147
+ar -9 -9 45
+qbs
+ar -9 1 79
+qbs
+qbs
+ar 2 1 82
+qbs
+qci -1 1
+qbs
+qv 4 8
+qts
+qbs
+qts
+ar -4 -5 41
+qbs
+qv 7 -1
+ar -6 3 41
+qci -8 8
+qci 1 6
+ap 7 Tomas 167
+ap 7 Katherine 59
+qbs
+qbs
+qci 4 7
+qbs
+ar -6 7 43
+qci 8 8
+qv -4 -3
+qbs
+ar 5 4 67
+qts
+qbs
+qci 2 1216454893
+qts
+qci -4 5
+qts
+qbs
+qbs
+qci -7 -3
+qv -8 -9
+qts
+qv 0 -8
+qts
+qts
+qci -4 2
+ap 3 Carlos 145
+qv -7 3
+qv 2 -6
+qts
+qts
+qts
+qts
+ap -6 Derek 144
+qv 5 -3
+qts
+qv -8 -9
+ar 2 5 99
+ar -9 -5 100
+qci -8 1
+qv -6 -6
+ap -5 Marian 56
+qv -7 944297256
+qts
+qts
+qv 1 -9
+qv -7 3
+qts
+qts
+qci -9 -624022369
+ar -1 -9 100
+ap 8 William 13
+qv -1 1
+ar 4 3 29
+qci -7 1
+ap -2 Ryan 57
+qci 1 -2
+qbs
+qbs
+qbs
+qts
+qci 6 -8
+qci 0 0
+ar 4 0 90
+qts
+qbs
+qts
+ar -1 4 50
+qbs
+ar 6 2 80
+qci 3 8
+qts
+qbs
+ap -7 Tiffany 97
+qv -9 -5
+qv -9 -5
+qts
+qts
+qbs
+qts
+qv -6 4
+qci -7 6
+qci 5 -1
+qv 6 2
+ar -5 0 72
+qts
+qts
+qbs
+qbs
+qci 6 -5
+qci -4 4
+qts
+qv -1 -1
+qci -3 5
+ap 1 Peggy 156
+qts
+qts
+ar -5 7 96
+ap 6 Jimmy 37
+ap 4 Jean 55
+qts
+qbs
+ap 0 Leticia 10
+qci 0 -6
+qv -8 -720342056
+qts
+qv 7 126208723
+qts
+qbs
+qts
+qbs
+qbs
+qv -9 1359025790
+qv 0 0
+qci -8 -1549657762
+qv -9 7
+ap -5 Anita 74
+qv -8 6
+qci -1 604998219
+qbs
+qci 7 2
+ar -8 2 54
+qts
+qts
+qv -7 5
+ap -4 Tim 121
+qts
+qts
+ap -6 Barbara 10
+ap 0 Mark 15
+qv -6 1982712743
+ar 3 1009002930 12
+qv -1 -1
+ar 0 -6 83
+qbs
+qv -1 -1
+qv -4 5
+qbs
+ap 1 Earl 45
+qbs
+ar 6 -9 24
+ap 5 Michael 154
+qv -1 -47666158
+qbs
+ap -1 James 102
+ar -6 -1199258033 22
+qts
+qci -2 5
+ap 5 Stephen 178
+ap -3 Anne 167
+qts
+qbs
+qv -1 -1
+ap 6 Maria 121
+qbs
+qts
+qts
+qbs
+qv 8 8
+qci 5 -3
+qts
+qbs
+qts
+qci 2 -7
+qts
+qbs
+ap -7 Sarah 156
+ap 4 Tammy 122
+qts
+qci 5 1284265576
+ap -9 Jose 131
+qts
+qbs
+qts
+ap -2 Woodrow 69
+qbs
+qci -5 -1586937846
+qv -3 -7
+qbs
+qci 5 4
+qci 6 -1
+qci -2 -7
+qv 3 4
+qbs
+ar 2 -259032117 48
+qci -1 -9
+qci 6 -560916402
+qci -2 0
+ar 2 -8 99
+ap -1 Tammy 58
+ap 2 Lillian 175
+ar 4 8 97
+qts
+qv 1 -4
+qts
+qbs
+qv 2 -5
+ar 5 3 69
+qts
+ap 0 Jeff 173
+qbs
+qts
+ar 5 7 91
+ar -1 -5 42
+ar 3 5 27
+qts
+qci 1 -3
+ar -4 5 43
+qv 5 1855121592
+qci -7 -4
+qv -4 -1712997634
+qv 8 4
+qv -7 1505434108
+qts
+qbs
+qts
+qci 2 2
+qbs
+ap 5 Mary 46
+qts
+ar -4 3 22
+qv 2 2
+ar 0 -7 64
+qbs
+ar 6 -5 100
+ar 1 704721735 82
+qci -4 -1
+ap 3 Jerry 186
+qci -9 -7
+qv 5 -2
+ap 8 Aaron 199
+qci 0 2
+ap -2 James 46
+qbs
+qci 6 0
+qbs
+ap 6 Crystal 12
+qbs
+ap 7 Julie 95
+qts
+qci -8 -1
+qv -2 -2
+qci 1 3
+qts
+qv 4 577541369
+qbs
+qts
+qts
+ap -4 Jerry 56
+qv 1 2
+qts
+qbs
+qbs
+qts
+qci 1 4
+qbs
+qts
+ar 1 -3 45
+qts
+ap -7 Thomas 97
+qv 2 5
+ar 8 4 94
+qbs
+qts
+qci 4 384910121
+ar -5 -1 57
+qbs
+qv 7 7
+qv 5 5
+qci 2 -2
+qbs
+qbs
+qbs
+ar 4 8 60
+ap -2 Violet 36
+ar 8 0 30
+qci 4 -1
+ap -5 Jacob 84
+qts
+qbs
+qci -8 2
+ap -3 John 30
+qbs
+qci 3 1
+qbs
+ap 6 Lois 65
+ar -9 2111239836 43
+qbs
+ap -2 Agatha 195
+qv 2 2
+qts
+qci -7 -9
+qci 1 -7
+ap -1 James 91
+qv -6 8
+qts
+qci -8 6
+qci -8 -7
+ap -8 Gustavo 22
+qts
+ar 3 3 55
+qbs
+qv 0 813750369
+ap -9 Teresa 126
+ar 5 -3 62
+qv -8 -1
+qv -5 -1
+qbs
+ar -7 3 95
+qci -2 8
+qci 0 3
+qbs
+qts
+qts
+qts
+ar -6 8 10
+qbs
+qci -1 -5
+qv 1 7
+qts
+qci 8 -7
+ar -1 -1 62
+qbs
+qts
+qv -4 1240112508
+qv -5 1953132782
+ar 4 2 44
+qci -4 -9
+ar 7 -7 32
+qv -5 -6
+qci -3 -7
+ap 2 Jennifer 4
+ar 1 5 40
+qv -4 -7
+ar 5 7 57
+ap 8 Christine 4
+qbs
+ap -8 Suzanna 27
+qts
+ar 4 -9 2
+qv -6 -327343670
+qbs
+ar -8 0 78
+qts
+ap 8 James 153
+qv 0 -7
+ar 5 1 55
+qci -2 5
+ap 1 William 158
+ap -8 Lynn 80
+qbs
+qts
+qbs
+qci 8 -9
+ar -4 -4 34
+qci 4 -3
+ap 4 Gina 174
+qv 4 4
+qv 2 1
+ar -9 4 46
+qci -9 -7
+qbs
+qts
+qv 4 -9
+qv 1 -3
+qv -1 1890397598
+qv 6 6
+qv -4 369260755
+qci 7 -4
+ap 4 Michael 34
+qbs
+qts
+ar -2 0 89
+qbs
+ar -3 -2 28
+qci 5 -1
+qts
+qbs
+qci -8 7
+qts
+qci 6 2
+qbs
+qci -3 0
+qv 3 7
+ar -1 857290473 57
+qts
+ap -4 Gary 125
+qbs
+ar -6 3 69
+ap -6 Patricia 30
+qbs
+qv -2 -635290537
+qv -9 4
+qts
+qts
+ap -2 Leanna 189
+qci 7 -1796492659
+qci -4 -27963579
+ar 1 0 58
+qci -9 -1149071546
+qts
+ap -3 Micheal 64
+ap -1 Barbara 132
+ar 2 1 35
+ar 3 2 28
+ap -1 Anthony 34
+ar 4 5 17
+qts
+qbs
+qv -9 4
+qci -4 -30526549
+qts
+qci -7 -5
+ar 0 -1383938196 5
+qbs
+qci 5 5
+qbs
+qts
+ar -4 509545804 8
+qci 4 8
+qv -7 -2
+qts
+ar 8 -8 73
+qbs
+qts
+ap -1 Theresa 10
+qv 5 7
+qbs
+qci -6 -4
+ap -3 Jonathan 31
+qts
+qbs
+qci -6 -1555908915
+qv 1 -195251053
+qbs
+qv 5 475165085
+ap -6 Sharon 67
+qts
+qbs
+ar -8 6 15
+qbs
+qts
+qbs
+qv -2 -2
+qts
+qv -5 -1
+qv -9 -5
+qbs
+ap -4 Daisy 115
+qbs
+qts
+qv -8 6
+qts
+ar -3 -3 24
+ar 2 8 29
+qci 4 -1
+qci 6 1313793376
+qv -8 6
+ar 4 6 79
+qbs
+qts
+qci 1 1
+qv 8 -8
+qv -6 -6
+qv -6 -6
+ar 5 -1 29
+qbs
+qv 8 -5
+qts
+qbs
+qts
+qci -1 -9
+ap -5 Terry 81
+qts
+qci -3 7
+qts
+qbs
+qts
+qts
+ap -7 Leroy 133
+qv 3 209433463
+qbs
+qbs
+qv 5 -3
+qv 4 6
+qts
+qbs
+qv -4 -4
+qts
+qv 8 -8
+ar -8 3 32
+qv -2 5
+ar 8 3 89
+qv 7 -3
+qci -1 2
+qbs
+qbs
+qv 8 -2
+ap 0 Brenda 43
+qci -9 1228190638
+ar 5 -7 92
+qci -1 0
+ar -9 -1096043671 13
+qci 0 0
+qbs
+ap -9 Shelia 57
+qbs
+qbs
+qbs
+qbs
+ar -9 1646492246 38
+ap 5 Catherine 27
+ap -7 Dot 127
+ar 2 -2 29
+ar 0 -7 46
+ar 7 5 59
+qv 0 0
+qv 0 -730202818
+qts
+qbs
+ap -7 Roland 65
+ap -4 Bryan 146
+qci 7 -5
+ap -7 Robert 44
+qci -7 2
+ar 5 5 80
+qv -3 1
+qci -4 591737203
+qbs
+qts
+qts
+ap -5 Paul 125
+qbs
+qci -5 -3
+ar 0 -7 10
+qts
+qv 0 -7
+qts
+qci 0 6
+qci -9 1
+ap -8 Robert 189
+qv 0 -8
+qv 7 1
+qbs
+ar 0 -851024166 69
+qts
+qbs
+ar 6 6 43
+qci 7 -8
+qbs
+ap 4 Dawn 187
+qbs
+qci -9 -5
+ap 8 Frederick 94
+qbs
+qv 4 -6
+ap -4 Josefa 73
+qv -6 -6
+ar -8 -9 38
+qci -5 -1
+ap 1 Kimberly 20
+qci -4 4
+ap -5 Bernadine 191
+qv 8 2
+qci -6 -1
+ar 8 -3 12
+qv 3 -3
+qbs
+qv 4 -7
+qci -9 -2
+qbs
+qci 8 3
+qci 4 4
+qts
+ap -8 Leigh 1
+qts
+qbs
+ar 6 -9 16
+ap -3 Timothy 96
+qv 1 -2
+ar -9 4 5
+ap 1 Hugh 121
+qts
+qts
+ar -8 -7 88
+ap 1 Joseph 84
+qts
+qbs
+qci -4 3
+ar 3 8 19
+qts
+ar -1 7 59
+qci -6 -3
+qts
+qts
+qts
+qts
+qv -2 2
+qbs
+qv -7 -3
+qv -9 1906367979
+qbs
+ap -9 Frederick 182
+qbs
+qv -6 3
+qts
+qci -5 7
+qbs
+qv 1 1
+qci 2 6
+qts
+ar -7 -7 89
+qci -5 1
+qts
+qci -2 4
+ap -8 Benjamin 34
+ar -8 -1 67
+ap -8 Horace 160
+qbs
+qts
+ap -7 Carol 118
+ap 6 Tommy 4
+ar -8 -261716744 61
+ar 7 -6 78
+ar 5 3 42
+qts
+ar 7 -9 46
+qci -5 6
+ar 5 -6 36
+qv 5 5
+ap -4 Vera 27
+qci 3 4
+ap 0 Ladonna 2
+qbs
+qts
+qv 8 1
+qci 7 6
+ap -9 John 14
+qts
+qci -2 4
+qv -5 -5
+ar 5 5 83
+qts
+ar 8 8 69
+qbs
+qbs
+ap 6 Christie 151
+ar -1 1557481273 27
+qbs
+qv 3 -2
+ar -5 -2 98
+ar 0 4 16
+qts
+qbs
+ar 6 -2 2
+qts
+ap -7 John 30
+ar 2 4 42
+qbs
+qv 0 0
+ap -7 Michael 11
+qts
+qts
+qv 3 -9
+qci -3 -1528737862
+qv -4 -4
+qbs
+qbs
+qbs
+ap 1 Roberta 49
+qv -5 -2
+ar -7 -4 44
+qbs
+qts
+qbs
+qci 6 -1936752697
+ar 8 8 75
+qbs
+qts
+qv -2 -5
+ap -7 Sarah 172
+qts
+qbs
+qbs
+qv -1 -1314059895
+qv -3 -6
+qv -4 -4
+ap 8 James 123
+qbs
+qv -2 -230815477
+ar -6 7 77
+ar 6 3 2
+qbs
+ar 4 3 92
+qci 4 988587145
+qci -6 -2
+qts
+ar 5 -1 44
+ar 5 6 82
+ar -5 -1678146243 49
+qci -9 -3
+qts
+qbs
+qci 3 -3
+qbs
+qci -4 -969972367
+ar -7 -4 46
+qv 8 3
+ar -9 5 10
+qbs
+qbs
+qbs
+qbs
+ar -6 770950959 30
+qbs
+qci -8 -9
+qbs
+qts
+ar 3 -1882771244 92
+qts
+qts
+qts
+qts
+qci -5 -517088800
+qts
+qbs
+ar -5 -987762118 99
+ar -2 -4 4
+qv 8 -3
+qbs
+qci 8 -6
+qv 0 3
+qts
+ap 2 Michel 140
+ap -1 Timothy 141
+qci -4 -997021730
+qv -1 3
+ar 6 -6 94
+qbs
+qci 3 5
+ar 3 -4 60
+qv -3 -9
+ap -4 Agnes 143
+qts
+qv -6 7
+qts
+qts
+qv -5 -2
+qbs
+ap 8 Rosanna 96
+ar 6 1 82
+ap 2 George 155
+qv 0 0
+ap -2 Eric 32
+qts
+qv -4 -7
+qts
+ar -4 7 101
+qci 8 6
+qts
+qci 2 1599027218
+ar 0 -5 96
+qts
+ap -9 Lawrence 146
+ap 5 Michael 29
+qbs
+ap 0 Ann 169
+ar 5 -1 45
+qci -6 4
+qv -8 43350429
+ap -8 Audrey 15
+ap -3 Vernon 160
+ap -3 Patrick 130
+ar -3 8 49
+qts
+qci 5 6
+ap -1 Albert 1
+qci -7 1
+ar 0 1923707264 45
+qci -9 -6
+qts
+qv -3 8
+qbs
+ap -5 Maureen 197
+qbs
+ar -8 -6 58
+qts
+qv 8 -3
+qts
+ap -2 Betty 89
+ar -9 -1 63
+qci 4 -4
+ap -4 Lois 89
+qts
+qbs
+qv 6 1
+qts
+qts
+qbs
+qbs
+ar -8 -6 95
+qv 0 0
+qci 3 823899466
+qci 6 -9
+qts
+ap 5 Jean 201
+qbs
+qci 1 -6
+ap 7 Morgan 192
+ap -9 Patricia 22
+ar -5 -2 42
+qv 2 2
+qbs
+qts
+qbs
+qbs
+qts
+qbs
+qts
+qts
+qbs
+qts
+ap 7 Bernice 42
+ar -2 5 57
+ar -1 -1129264384 67
+qv 7 -4
+qv 8 -104217965
+qv -5 3
+qci 3 -2
+ar -1 -9 35
+qbs
+qci 4 5
+ap -6 Jackson 79
+qci -7 8
+ap -6 Patricia 27
+ar -5 -2 44
+qts
+qts
+qv -4 -7
+qbs
+qv -8 5
+qts
+qbs
+qts
+qv -6 -2
+ap -9 Alan 20
+qbs
+qbs
+ap 2 Georgia 159
+qv -6 0
+ap -6 Estelle 37
+qv 2 2
+qv 2 2
+qts
+qv 2 292973427
+qts
+qv 0 0
+qbs
+qci -3 1387652382
+ar -1 5 50
+qts
+qts
+ap -1 John 171
+ap 5 Rose 24
+qv 8 -3
+qbs
+qv 1 1
+qbs
+ap -1 Ashley 140
+ar -4 636811432 66
+ap -7 Dorothy 78
+ar -2 5 20
+ar 7 -9 98
+qts
+ap 2 Joyce 123
+ar 7 -4 2
+ap -5 Drew 25
+qci 3 -3
+qts
+ap -6 Drew 88
+qts
+qci 3 2
+qci -6 7
+qbs
+qts
+qts
+qbs
+ap 6 Karen 52
+ar -6 5 6
+qci 4 3
+qci 5 1
+ar -5 1892517632 77
+ap 1 Edith 58
+qts
+qv -2 5
+qbs
+qbs
+ar 6 -1772660352 80
+qv -6 3
+ar -6 -1453859713 53
+qci 3 -440137656
+qts
+qci -3 1531471626
+ap 8 Jeffery 84
+ap -5 Craig 110
+qts
+ar 8 -4 86
+ap -5 Kevin 29
+qts
+qbs
+ap -9 Phyllis 39
+ap 4 Dante 74
+qts
+ar -7 -4 67
+ar 5 7 2
+qbs
+ar -4 5 23
+ar -6 7 54
+qts
+qts
+ar 1 1 97
+ap -8 David 119
+qbs
+qv 5 2138959800
+ar -6 -1569587839 31
+ar 6 -1 82
+ar -3 8 85
+ap -7 David 125
+qts
+ap 6 Pedro 136
+qci -8 -9
+qci -5 3
+qbs
+qci -9 1434627904
+qci 7 -5
+ar 8 -5 36
+ar 6 6 1
+qci -8 7
+ar -1 8 63
+qbs
+ar 3 2 34
+qbs
+qci -8 1539441436
+qv -2 -146616861
+qv -3 8
+ar 0 0 76
+qbs
+qv 8 -812952525
+ap -6 Ruby 38
+ap 5 Linda 145
+qci -4 -4
+qbs
+ap -4 Melissa 171
+qci 3 6
+qci -8 4
+qv -9 2
+qbs
+ar -4 -1482928055 6
+ar 3 -7 26
+ap -8 Stephanie 135
+ar 1 1 83
+qbs
+ap 1 Carissa 167
+qv -2 5
+qts
+ar 6 -9 33
+qbs
+qbs
+ap 7 Anthony 169
+qv 1 1
+qbs
+ap 8 James 81
+qts
+qci -9 8
+qv -5 -1488987525
+qts
+ap -7 Donna 32
+qts
+ar -1 1019567508 60
+qts
+qts
+qv -4 -1
+ar 2 8 72
+qv 5 8
+qts
+ap -1 Paul 50
+qci 8 -747416801
+ar 6 8 93
+ar -8 -9 15
+qv -7 6
+ap 6 Jacqui 172
+ar 4 8 9
+ar -3 -1490566960 97
+qbs
+ar 2 8 18
+qbs
+qv -2 -4
+qts
+ap 0 Mickey 60
+qci -7 1
+ap 2 James 27
+qci -6 1919240133
+qci -7 -4
+qv 4 -178636075
+qbs
+qv 1 -4
+ar 7 4 98
+qbs
+qci 3 -8
+qv 8 2
+qci -7 -4
+ar -4 -4 16
+qts
+qts
+ar 0 0 101
+qts
+qbs
+qv 4 -4
+qts
+qbs
+ap -5 Ronald 45
+ap 7 Allison 81
+qci -2 -8
+ar -2 5 24
+qbs
+qbs
+ap -7 William 103
+qts
+qbs
+qbs
+qv 2 4
+qci -8 -1967020500
+qv -4 2016637156
+qci -6 -4
+qci -3 -8
+qci -4 0
+qbs
+ar -8 -9 2
+qv -5 -5
+qv -2 5
+ap -6 Doris 106
+ap 6 Robert 6
+ap -8 Lori 3
+qv -2 -3
+qci 8 -4
+qv 3 4
+qci 7 -8
+qts
+qts
+qbs
+ap 8 Michael 144
+qv 6 6
+qv -4 -4
+qv 6 -5
+qci -7 2
+qts
+qts
+qts
+qts
+ap -1 Robert 75
+ap 3 Elsie 103
+ar -5 -8 76
+qv 6 -1362027468
+qbs
+ap 5 Carol 30
+ap -1 Sean 192
+ap -1 Danny 83
+qv 8 0
+qbs
+ar -5 -8 51
+qv 5 5
+qbs
+qci 8 -7
+ap 8 William 56
+qts
+ap -6 William 21
+qci -9 0
+qv 1 1
+ar -2 3 20
+qbs
+qci 4 -5
+qts
+qbs
+ar 6 -9 47
+qbs
+qbs
+qts
+qbs
+qv 1 1
+ap 7 Lee 147
+qbs
+qbs
+qci 1 -8
+qts
+qv -8 -5
+ar 1 -7 56
+ar 7 4 1
+qv -8 -5
+qts
+qbs
+ap 0 Brent 72
+qci 1 5
+ap -1 Joseph 153
+qv -3 -345984178
+qbs
+ap 4 Alfredo 189
+qbs
+ar -5 -8 8
+qts
+qbs
+qbs
+qv 5 5
+ar -5 1 30
+ap 3 Felix 6
+qts
+ar 6 8 33
+qv -8 0
+qci 3 8
+qv -2 161263774
+ap 6 Bob 95
+ap -3 Sean 184
+qci 4 -2
+qbs
+qts
+qci 6 457666806
+ar 5 5 43
+ap -4 Kevin 16
+ar -2 -217675858 74
+ap -8 Sue 45
+qci -6 5
+qv -5 -8
+qts
+qv 6 6
+qbs
+qbs
+qci -7 -4
+qci 2 0
+qbs
+ar 1 -1 75
+ar 7 -4 22
+qbs
+qts
+qbs
+qci 0 1916155527
+qbs
+ar -1 -3 35
+qv 8 -9
+ar -5 -1 41
+qv -7 -7
+qts
+ap 2 Harold 100
+ar -1 -466048748 39
+qci 6 -1
+ap 8 Candace 164
+ap -9 Louis 25
+qbs
+ar 2 3 4
+ar 4 4 16
+qv 8 7
+qts
+qci 0 -6
+qbs
+ar -5 -8 42
+qts
+qv -2 927945184
+qci 8 7
+qv 7 4
+qts
+qci 4 8
+ar 1 -3 87
+qbs
+qts
+qts
+qv -2 5
+qv 5 7
+ap -4 Wanda 50
+qbs
+qts
+qts
+qbs
+qci -1 8
+ar 5 7 98
+qts
+ar 0 7 90
+qts
+ap -4 Doris 2
+ap -8 Zachariah 188
+qv -9 -1
+qci 0 1
+ar -7 0 38
+ap -1 James 153
+qbs
+ar 4 -644864404 101
+qv 5 5
+qci 8 1174823074
+qts
+qbs
+qci -3 252264990
+qts
+ap 3 Dennis 82
+ap -8 Grant 57
+ap -9 Lessie 68
+qts
+ap 4 James 83
+qv -8 -9
+qv -9 -899956615
+qbs
+ar 1 -6 45
+qbs
+ap -1 Kenneth 86
+ap -1 Robert 193
+ar 7 6 78
+qci -3 -6
+qbs
+ap -9 Cynthia 138
+ar -6 -1 89
+qbs
+qci -7 8
+qci 7 -1
+qv -2 3
+qts
+ap 2 Frances 38
+ap -5 Sarah 138
+qci 3 -2
+ar -3 -1 82
+qv 6 -350864461
+ar 7 -3 14
+ap 5 Anabel 29
+qbs
+ar -2 -8 77
+ar -7 -1972893265 71
+qv 1 1
+qts
+qv -6 -4
+qts
+qci -1 -9
+qv 4 1955391668
+ap 0 Lee 23
+qts
+qts
+ap 8 Simon 200
+ap -7 Beatrice 79
+qbs
+qts
+ap -2 Leonard 111
+qts
+qts
+ap -9 Marco 66
+qv 3 861458355
+qci 7 8
+qci 7 -4
+qv -2 -8
+qbs
+qbs
+qts
+qci 3 -6
+qbs
+qv 0 -7
+ap 2 Barbra 193
+ar -8 -2 78
+qts
+qts
+ap 8 Bonnie 192
+qci -6 -1519762650
+qbs
+ar 5 780386182 69
+ap -7 Lynnette 74
+qts
+qci -2 1
+ar -6 639052254 48
+qv -5 2
+qbs
+qv -1 1
+qv 3 -735018066
+qv 0 3
+ar -6 -9 17
+ap 7 Glenda 45
+qbs
+qbs
+ar -8 -7 75
+qci -1 -9
+ap -5 Sarah 64
+qci -2 -1935934167
+qbs
+qci 4 1639729882
+qv -8 8
+qv -8 -2
+ap 7 Margaret 129
+qci 5 469022597
+qci 0 -2
+qv 6 6
+ap 4 Sheila 196
+qts
+qci -7 -7
+ar 2 2 78
+ap -8 Tameka 170
+ar 8 -7 47
+ar 3 -2014646346 53
+qv 6 5
+qci 4 -1
+ap 0 Jimmy 44
+qci 3 1187451518
+qv 1 -2
+qv 4 -489148709
+qv 1 -1
+qv -8 762580191
+qts
+ar 6 204888726 60
+qbs
+qv -7 -8
+ap 3 Nathaniel 192
+qv 0 0
+qts
+ar 2 1091216559 47
+ar -3 2 1
+ar 7 7 73
+qci 0 -6
+qci 8 -1
+qv 5 5
+ap 3 Curtis 200
+qbs
+qci -8 2005772600
+ap -3 Matthew 191
+ar -9 -5 48
+qts
+qv -4 -4
+qci -8 -6
+qci 5 -9
+qts
+qbs
+ar 0 0 75
+qbs
+ap -2 Gloria 131
+qts
+qv 7 7
+ar 1 1365673628 81
+qci 6 8
+qci -1 -6
+qbs
+qts
+qts
+qv -7 8
+qci 0 1
+ap -8 Frank 10
+qci -7 -841739317
+qv -4 -4
+qci 5 1616065597
+qbs
+ar -3 -6 68
+qts
+qbs
+ar -1 -5 32
+ap -6 Willie 63
+qv 2 -68008027
+qv -5 1257106953
+ar -3 0 24
+ar 2 1312506458 91
+qts
+ar -9 -3 23
+qci -5 -1254900381
+qv -2 8
+qbs
+qv -5 6
+qts
+ap 2 Porter 66
+qts
+qci 6 -3
+qv 8 -7
+qts
+qbs
+ap 8 Marion 61
+qbs
+qv -6 1440602691
+qv 3 2
+qv 7 -1974022275
+ap -2 Justin 199
+qv 0 -3
+qts
+qci 5 5
+qbs
+qci -1 6
+qv -6 -5
+ap -2 Craig 84
+qv 1 1
+qv 0 -3
+qci 7 4
+qts
+ap 8 James 139
+qbs
+qbs
+ar 5 5 7
+qts
+qbs
+qci 0 -4
+qts
+qts
+qbs
+qts
+qts
+qts
+ap 7 Tiffany 201
+ap -1 Larry 150
+qv -2 -8
+qts
+qci -4 1639196943
+qv -2 8
+ap 8 Anita 9
+qv -5 -3
+qts
+qci -2 26152383
+qv -8 6
+ap 7 Carl 156
+ar -1 0 65
+ap -3 John 123
+qci -5 4
+qts
+qci -9 -3
+ap 1 James 142
+qts
+qts
+qbs
+qbs
+qbs
+ap -6 William 183
+ar 8 -8 42
+qts
+ap -1 Victor 58
+qci 2 186208275
+qv 5 -1
+qbs
+qbs
+qts
+qci 7 8
+ar 1 -9 86
+ar -6 -3 76
+ap 1 Eileen 44
+ar 4 992673870 38
+ar -1 -951251714 26
+qci -3 -2
+ap 7 Sharon 24
+qts
+ap -8 Dawn 98
+qci 4 -3
+qts
+qts
+ar 8 6 43
+qts
+ap 5 Dale 201
+qv 8 -1
+qbs
+qbs
+ap 0 Elizabeth 67
+qbs
+qts
+qv -6 -3
+ar 3 7 70
+qts
+qbs
+qbs
+qts
+ap -5 Andrew 72
+qts
+qts
+qci 3 -2
+qbs
+qv 7 3
+qts
+qci 1 8
+ar -1 -2 95
+ar -4 -4 3
+ar 8 5 50
+ap -1 Samantha 103
+qci -8 1
+qts
+qci -9 5
+qci 4 1
+ar 6 -9 83
+qci 7 8
+ar -8 8 56
+qci 5 2
+qts
+ar -7 8 87
+qv -9 2
+ap -9 Louis 163
+ar -4 8 36
+ar 5 5 87
+qci 4 8
+ar -9 2 15
+ar -1 7 72
+qv 8 -665580146
+qci 1 6
+qv 6 -8
+qts
+qts
+qci 5 8
+ap -1 Andrea 176
+qv -6 907369635
+qbs
+qbs
+qci -2 -1527876115
+qci 1 6
+qts
+ap 6 Selma 185
+qbs
+qci -3 2
+qv 1 -7
+qts
+qts
+ar -4 -9 63
+qci -9 1123294515
+ap 1 Eugene 64
+ap -4 Richard 103
+ar -3 -1530734086 67
+ar -2 4 61
+qv 6 3
+qv 8 -8
+ap -9 Rose 62
+qv 0 -1
+qts
+qci 1 8
+qv 4 1129687598
+qci -1 5
+ar -3 8 52
+qv -7 8

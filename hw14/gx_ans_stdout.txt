@@ -1,0 +1,152 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] PKE-45427730 queried C-4064 from self-service machine
+[2023-01-01] self-service machine provided information of C-4064
+[2023-01-01] PKE-64347138 queried C-3750 from self-service machine
+[2023-01-01] self-service machine provided information of C-3750
+[2023-01-01] PKE-64347138 ordered PKE-C-3750 from ordering librarian
+[2023-01-01] ordering librarian recorded PKE-64347138's order of PKE-C-3750
+[2023-01-01] BUAA-C-4064 got transported by purchasing department in BUAA
+[2023-01-02] BUAA-C-4064 got received by purchasing department in PKE
+[2023-01-02] purchasing department lent BUAA-C-4064 to PKE-45427730
+[2023-01-02] PKE-45427730 borrowed BUAA-C-4064 from purchasing department
+[2023-01-02] PKE-45427730 queried C-2894 from self-service machine
+[2023-01-02] self-service machine provided information of C-2894
+[2023-01-02] PKE-45427730 ordered PKE-C-2894 from ordering librarian
+[2023-01-02] ordering librarian recorded PKE-45427730's order of PKE-C-2894
+[2023-01-03] THE-64327876 queried C-4064 from self-service machine
+[2023-01-03] self-service machine provided information of C-4064
+[2023-01-03] THE-64327876 ordered THE-C-4064 from ordering librarian
+[2023-01-03] ordering librarian recorded THE-64327876's order of THE-C-4064
+[2023-01-04] PKE-C-3750 got purchased by purchasing department in PKE
+[2023-01-04] PKE-C-2894 got purchased by purchasing department in PKE
+[2023-01-04] THE-C-4064 got purchased by purchasing department in THE
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-04] ordering librarian lent PKE-C-3750 to PKE-64347138
+[2023-01-04] PKE-64347138 borrowed PKE-C-3750 from ordering librarian
+[2023-01-04] ordering librarian lent PKE-C-2894 to PKE-45427730
+[2023-01-04] PKE-45427730 borrowed PKE-C-2894 from ordering librarian
+[2023-01-04] ordering librarian lent THE-C-4064 to THE-64327876
+[2023-01-04] THE-64327876 borrowed THE-C-4064 from ordering librarian
+[2023-01-04] PKE-45427730 queried B-9137 from self-service machine
+[2023-01-04] self-service machine provided information of B-9137
+[2023-01-04] PKE-45427730 queried B-1857 from self-service machine
+[2023-01-04] self-service machine provided information of B-1857
+[2023-01-04] BUAA-B-9137 got transported by purchasing department in BUAA
+[2023-01-05] BUAA-B-9137 got received by purchasing department in PKE
+[2023-01-05] purchasing department lent BUAA-B-9137 to PKE-45427730
+[2023-01-05] PKE-45427730 borrowed BUAA-B-9137 from purchasing department
+[2023-01-06] THE-64327876 got punished by borrowing and returning librarian
+[2023-01-06] borrowing and returning librarian received THE-64327876's fine
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-07] PKE-64347138 queried B-1857 from self-service machine
+[2023-01-07] self-service machine provided information of B-1857
+[2023-01-07] PKE-64347138 queried C-2894 from self-service machine
+[2023-01-07] self-service machine provided information of C-2894
+[2023-01-07] self-service machine lent PKE-C-2894 to PKE-64347138
+[2023-01-07] PKE-64347138 borrowed PKE-C-2894 from self-service machine
+[2023-01-07] BUAA-B-1857 got transported by purchasing department in BUAA
+[2023-01-08] BUAA-B-1857 got received by purchasing department in PKE
+[2023-01-08] purchasing department lent BUAA-B-1857 to PKE-64347138
+[2023-01-08] PKE-64347138 borrowed BUAA-B-1857 from purchasing department
+[2023-01-08] PKE-45427730 queried B-9137 from self-service machine
+[2023-01-08] self-service machine provided information of B-9137
+[2023-01-09] THE-64327876 queried B-1857 from self-service machine
+[2023-01-09] self-service machine provided information of B-1857
+[2023-01-09] PKE-64347138 returned PKE-C-2894 to self-service machine
+[2023-01-09] self-service machine collected PKE-C-2894 from PKE-64347138
+[2023-01-09] PKE-64347138 queried C-0717 from self-service machine
+[2023-01-09] self-service machine provided information of C-0717
+[2023-01-09] THE-64327876 queried B-1857 from self-service machine
+[2023-01-09] self-service machine provided information of B-1857
+[2023-01-09] BUAA-B-1857 got transported by purchasing department in BUAA
+[2023-01-09] BUAA-C-0717 got transported by purchasing department in BUAA
+[2023-01-10] BUAA-B-1857 got received by purchasing department in THE
+[2023-01-10] BUAA-C-0717 got received by purchasing department in PKE
+[2023-01-10] purchasing department lent BUAA-B-1857 to THE-64327876
+[2023-01-10] THE-64327876 borrowed BUAA-B-1857 from purchasing department
+[2023-01-10] purchasing department lent BUAA-C-0717 to PKE-64347138
+[2023-01-10] PKE-64347138 borrowed BUAA-C-0717 from purchasing department
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-10] THE-64327876 queried C-4064 from self-service machine
+[2023-01-10] self-service machine provided information of C-4064
+[2023-01-10] self-service machine lent THE-C-4064 to THE-64327876
+[2023-01-10] THE-64327876 borrowed THE-C-4064 from self-service machine
+[2023-01-12] PKE-45427730 queried C-1082 from self-service machine
+[2023-01-12] self-service machine provided information of C-1082
+[2023-01-12] THE-64327876 queried C-0717 from self-service machine
+[2023-01-12] self-service machine provided information of C-0717
+[2023-01-12] BUAA-C-1082 got transported by purchasing department in BUAA
+[2023-01-12] BUAA-C-0717 got transported by purchasing department in BUAA
+[2023-01-13] BUAA-C-1082 got received by purchasing department in PKE
+[2023-01-13] BUAA-C-0717 got received by purchasing department in THE
+[2023-01-13] purchasing department lent BUAA-C-1082 to PKE-45427730
+[2023-01-13] PKE-45427730 borrowed BUAA-C-1082 from purchasing department
+[2023-01-13] purchasing department lent BUAA-C-0717 to THE-64327876
+[2023-01-13] THE-64327876 borrowed BUAA-C-0717 from purchasing department
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-13] PKE-45427730 got punished by borrowing and returning librarian
+[2023-01-13] borrowing and returning librarian received PKE-45427730's fine
+[2023-01-14] PKE-45427730 queried C-1082 from self-service machine
+[2023-01-14] self-service machine provided information of C-1082
+[2023-01-14] BUAA-C-1082 got transported by purchasing department in BUAA
+[2023-01-15] BUAA-C-1082 got received by purchasing department in PKE
+[2023-01-15] purchasing department lent BUAA-C-1082 to PKE-45427730
+[2023-01-15] PKE-45427730 borrowed BUAA-C-1082 from purchasing department
+[2023-01-15] THE-64327876 got punished by borrowing and returning librarian
+[2023-01-15] borrowing and returning librarian received THE-64327876's fine
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-17] THE-64327876 queried C-3750 from self-service machine
+[2023-01-17] self-service machine provided information of C-3750
+[2023-01-17] PKE-64347138 got punished by borrowing and returning librarian
+[2023-01-17] borrowing and returning librarian received PKE-64347138's fine
+[2023-01-17] PKE-64347138 returned BUAA-C-0717 to self-service machine
+[2023-01-17] self-service machine collected BUAA-C-0717 from PKE-64347138
+[2023-01-17] BUAA-C-0717 got repaired by logistics division in PKE
+[2023-01-17] PKE-C-3750 got transported by purchasing department in PKE
+[2023-01-17] BUAA-C-0717 got transported by purchasing department in PKE
+[2023-01-18] BUAA-C-0717 got received by purchasing department in BUAA
+[2023-01-18] PKE-C-3750 got received by purchasing department in THE
+[2023-01-18] purchasing department lent PKE-C-3750 to THE-64327876
+[2023-01-18] THE-64327876 borrowed PKE-C-3750 from purchasing department
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-19] PKE-64347138 queried C-4064 from self-service machine
+[2023-01-19] self-service machine provided information of C-4064
+[2023-01-19] THE-C-4064 got transported by purchasing department in THE
+[2023-01-20] THE-C-4064 got received by purchasing department in PKE
+[2023-01-20] purchasing department lent THE-C-4064 to PKE-64347138
+[2023-01-20] PKE-64347138 borrowed THE-C-4064 from purchasing department
+[2023-01-20] PKE-45427730 got punished by borrowing and returning librarian
+[2023-01-20] borrowing and returning librarian received PKE-45427730's fine
+[2023-01-20] PKE-45427730 returned BUAA-C-1082 to self-service machine
+[2023-01-20] self-service machine collected BUAA-C-1082 from PKE-45427730
+[2023-01-20] BUAA-C-1082 got repaired by logistics division in PKE
+[2023-01-20] BUAA-C-1082 got transported by purchasing department in PKE
+[2023-01-21] BUAA-C-1082 got received by purchasing department in BUAA
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-22] PKE-45427730 queried C-1082 from self-service machine
+[2023-01-22] self-service machine provided information of C-1082
+[2023-01-22] PKE-64347138 queried C-4064 from self-service machine
+[2023-01-22] self-service machine provided information of C-4064
+[2023-01-22] PKE-64347138 queried C-3750 from self-service machine
+[2023-01-22] self-service machine provided information of C-3750
+[2023-01-22] self-service machine refused lending PKE-C-3750 to PKE-64347138
+[2023-01-22] BUAA-C-1082 got transported by purchasing department in BUAA
+[2023-01-23] BUAA-C-1082 got received by purchasing department in PKE
+[2023-01-23] purchasing department lent BUAA-C-1082 to PKE-45427730
+[2023-01-23] PKE-45427730 borrowed BUAA-C-1082 from purchasing department
+[2023-01-23] THE-64327876 returned PKE-C-3750 to self-service machine
+[2023-01-23] self-service machine collected PKE-C-3750 from THE-64327876
+[2023-01-23] THE-64327876 queried C-8859 from self-service machine
+[2023-01-23] self-service machine provided information of C-8859
+[2023-01-23] PKE-45427730 got punished by borrowing and returning librarian
+[2023-01-23] borrowing and returning librarian received PKE-45427730's fine
+[2023-01-23] THE-64327876 ordered THE-C-8859 from ordering librarian
+[2023-01-23] ordering librarian recorded THE-64327876's order of THE-C-8859
+[2023-01-23] PKE-C-3750 got transported by purchasing department in THE
+[2023-01-24] PKE-C-3750 got received by purchasing department in PKE
+[2023-01-25] THE-C-8859 got purchased by purchasing department in THE
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-25] ordering librarian lent THE-C-8859 to THE-64327876
+[2023-01-25] THE-64327876 borrowed THE-C-8859 from ordering librarian
+[2023-01-25] PKE-45427730 queried B-9137 from self-service machine
+[2023-01-25] self-service machine provided information of B-9137

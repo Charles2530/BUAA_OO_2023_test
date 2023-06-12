@@ -1,0 +1,17 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-05] THE-53452741 queried C-5697 from self-service machine
+[2023-01-05] self-service machine provided information of C-5697
+[2023-01-05] THE-53452741 queried C-5697 from self-service machine
+[2023-01-05] self-service machine provided information of C-5697
+[2023-01-05] BUAA-C-5697 got transported by purchasing department in BUAA
+[2023-01-05] THE-53452741 ordered THE-C-5697 from ordering librarian
+[2023-01-05] ordering librarian recorded THE-53452741's order of THE-C-5697
+[2023-01-06] BUAA-C-5697 got received by purchasing department in THE
+[2023-01-06] purchasing department lent BUAA-C-5697 to THE-53452741
+[2023-01-06] THE-53452741 borrowed BUAA-C-5697 from purchasing department
+[2023-01-06] THE-53452741 got punished by borrowing and returning librarian
+[2023-01-06] borrowing and returning librarian received THE-53452741's fine
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-07] THE-53452741 queried C-5697 from self-service machine
+[2023-01-07] self-service machine provided information of C-5697

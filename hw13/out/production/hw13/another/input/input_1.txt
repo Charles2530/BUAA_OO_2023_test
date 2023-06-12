@@ -1,0 +1,202 @@
+100
+B-7936 4
+C-9975 3
+C-7568 9
+C-6940 8
+C-4505 5
+B-2088 1
+A-4635 7
+B-9952 3
+B-4576 3
+C-1835 1
+C-1325 2
+A-0264 1
+B-3931 8
+B-1205 7
+A-3610 3
+C-5125 9
+C-2832 7
+A-2230 1
+B-9699 9
+B-9803 8
+A-0891 6
+B-3416 5
+B-5961 1
+C-9508 10
+A-4529 10
+A-9173 3
+C-4534 7
+B-8357 7
+A-1557 4
+C-4522 9
+C-7045 7
+A-3766 7
+A-5326 10
+A-0610 6
+A-2298 1
+A-9221 9
+A-9592 3
+A-2025 2
+B-2423 3
+B-1196 1
+B-2833 1
+A-5063 5
+A-5597 2
+B-8182 4
+B-2239 6
+B-3660 5
+A-9053 9
+C-7307 5
+C-5082 10
+A-9653 1
+A-0771 7
+A-0081 3
+B-5397 6
+A-2220 7
+A-7900 8
+B-0194 1
+C-8813 4
+A-7274 10
+C-4381 9
+C-5566 10
+B-4054 7
+C-7843 2
+C-0516 6
+C-6728 2
+B-5162 4
+A-7507 9
+A-4259 4
+A-0459 9
+A-7826 4
+A-7905 2
+C-3927 8
+B-3428 5
+C-7917 9
+B-0886 10
+C-8374 1
+A-4630 7
+A-6642 1
+B-1504 3
+C-2340 6
+C-8077 7
+B-4474 8
+B-3124 6
+B-6824 1
+B-1364 9
+A-8656 6
+C-0989 6
+A-0127 9
+B-2410 8
+A-2427 5
+A-9894 4
+A-4537 8
+B-5524 9
+B-0118 4
+C-1626 2
+C-6649 3
+C-5325 6
+B-7065 4
+B-7141 7
+C-1742 2
+C-3016 4
+100
+[2023-01-28] kam:e#>l borrowed A-7900
+[2023-02-20] ?P*t|fSV borrowed B-1205
+[2023-02-23] ?P*t|fSV smeared B-1205
+[2023-02-23] ?P*t|fSV returned B-1205
+[2023-02-28] z:aL!/%* borrowed B-2833
+[2023-02-28] ;%%pd$W" borrowed A-2025
+[2023-02-28] gTZFzlsc borrowed A-0127
+[2023-02-28] z:aL!/%* borrowed B-2833
+[2023-03-02] z:aL!/%* returned B-2833
+[2023-03-05] Q*RD/cG# borrowed A-9653
+[2023-03-06] ImVJ3!AQ borrowed B-9803
+[2023-03-06] ImVJ3!AQ lost B-9803
+[2023-03-15] Q*RD/cG# borrowed B-0886
+[2023-03-18] Q*RD/cG# smeared B-0886
+[2023-03-18] Q*RD/cG# returned B-0886
+[2023-04-17] 9gvU%rvH borrowed C-1626
+[2023-04-17] 9gvU%rvH borrowed C-1626
+[2023-04-17] 9gvU%rvH smeared C-1626
+[2023-04-17] 9gvU%rvH returned C-1626
+[2023-04-30] !K;Nz0:z borrowed C-7045
+[2023-05-04] !K;Nz0:z returned C-7045
+[2023-05-04] kam:e#>l borrowed C-7307
+[2023-05-07] kam:e#>l smeared C-7307
+[2023-05-07] kam:e#>l returned C-7307
+[2023-05-29] z:aL!/%* borrowed A-4259
+[2023-06-06] !K;Nz0:z borrowed B-7141
+[2023-06-08] !K;Nz0:z smeared B-7141
+[2023-06-08] !K;Nz0:z returned B-7141
+[2023-06-12] }K$bT:[@ borrowed C-4505
+[2023-06-13] }K$bT:[@ smeared C-4505
+[2023-06-13] }K$bT:[@ returned C-4505
+[2023-06-16] 8HfiO3PW borrowed B-1205
+[2023-06-16] 8HfiO3PW borrowed B-1205
+[2023-06-16] 8HfiO3PW returned B-1205
+[2023-06-25] y8]E5#jV borrowed B-7936
+[2023-06-25] rh{?M@4d borrowed C-4381
+[2023-06-28] rh{?M@4d smeared C-4381
+[2023-06-28] rh{?M@4d returned C-4381
+[2023-07-03] y8]E5#jV returned B-7936
+[2023-07-06] PiA+o%l? borrowed B-0194
+[2023-07-15] PiA+o%l? lost B-0194
+[2023-07-17] ImVJ3!AQ borrowed A-9592
+[2023-07-17] ~rg1jiYI borrowed C-7917
+[2023-07-22] }K$bT:[@ borrowed B-9803
+[2023-07-22] }K$bT:[@ lost B-9803
+[2023-07-22] ~rg1jiYI lost C-7917
+[2023-07-24] !K;Nz0:z borrowed C-5566
+[2023-07-30] !K;Nz0:z returned C-5566
+[2023-07-30] R'+d'%A\ borrowed B-1205
+[2023-07-30] ?P*t|fSV borrowed A-9053
+[2023-07-30] s4\"5e.F borrowed C-1325
+[2023-07-30] R'+d'%A\ smeared B-1205
+[2023-07-30] R'+d'%A\ returned B-1205
+[2023-08-03] s4\"5e.F smeared C-1325
+[2023-08-03] s4\"5e.F returned C-1325
+[2023-08-10] uu]"Z{cu borrowed B-1196
+[2023-08-10] dap/}24i borrowed B-9699
+[2023-08-11] uu]"Z{cu returned B-1196
+[2023-08-11] dap/}24i returned B-9699
+[2023-08-11] &z>B`s(/ borrowed C-2832
+[2023-08-11] &z>B`s(/ lost C-2832
+[2023-08-13] }K$bT:[@ borrowed C-6940
+[2023-08-13] }K$bT:[@ borrowed C-6940
+[2023-08-13] }K$bT:[@ returned C-6940
+[2023-08-13] '2TefK-B borrowed B-3416
+[2023-08-13] '2TefK-B borrowed B-3416
+[2023-08-17] f0H!T?tO borrowed C-2832
+[2023-08-17] f0H!T?tO lost C-2832
+[2023-08-23] y8]E5#jV borrowed A-7900
+[2023-08-23] '2TefK-B smeared B-3416
+[2023-08-23] '2TefK-B returned B-3416
+[2023-08-29] %!n#(D(] borrowed B-4054
+[2023-08-31] %!n#(D(] lost B-4054
+[2023-10-30] 4@1hmwqZ borrowed B-9699
+[2023-10-31] y8]E5#jV borrowed C-8077
+[2023-10-31] 4@1hmwqZ lost B-9699
+[2023-11-04] y8]E5#jV returned C-8077
+[2023-11-08] &z>B`s(/ borrowed B-0194
+[2023-11-10] jo:ZfEq] borrowed B-2410
+[2023-11-10] jo:ZfEq] returned B-2410
+[2023-11-23] y8]E5#jV borrowed C-0989
+[2023-11-23] B|A^x8b0 borrowed A-9221
+[2023-11-23] y8]E5#jV smeared C-0989
+[2023-11-23] y8]E5#jV returned C-0989
+[2023-12-11] 8HfiO3PW borrowed B-7141
+[2023-12-11] R'+d'%A\ borrowed A-7274
+[2023-12-19] @^2v)3C! borrowed B-8357
+[2023-12-21] B|A^x8b0 borrowed B-7936
+[2023-12-26] @^2v)3C! smeared B-8357
+[2023-12-26] @^2v)3C! returned B-8357
+[2023-12-29] B|A^x8b0 returned B-7936
+[2023-12-29] 8HfiO3PW borrowed A-2427
+[2023-12-29] 8HfiO3PW lost B-7141
+[2023-12-29] 4@1hmwqZ borrowed B-0118
+[2023-12-31] 4@1hmwqZ lost B-0118
+[2023-12-31] 8HfiO3PW borrowed C-1325
+[2023-12-31] 8HfiO3PW borrowed C-1325
+[2023-12-31] zacCg+Y_ borrowed B-3931
+[2023-12-31] zacCg+Y_ borrowed B-3931
+[2023-12-31] zacCg+Y_ lost B-3931

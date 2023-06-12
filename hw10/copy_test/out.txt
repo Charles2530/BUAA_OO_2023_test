@@ -1,0 +1,999 @@
+0
+ginf-1, 5575-1
+Ok
+0
+pinf-1, 4621-1
+0
+0
+0
+0
+anf-1, 6953-1
+1
+pinf-2, 4621-2
+0
+Ok
+pinf-3, 4621-3
+minf-1, 874-1
+pinf-4, 4621-4
+minf-2, 874-2
+1
+Ok
+0
+pinf-5, 4621-5
+0
+pinf-6, 4621-6
+1
+pinf-7, 4621-7
+anf-2, 6953-2
+pinf-8, 4621-8
+Ok
+Ok
+1
+0
+0
+Ok
+0
+The person with this number does not exist
+Ok
+0
+pinf-9, 4621-9
+0
+Ok
+1
+pinf-10, 8536-1
+pinf-11, 8536-2
+pinf-12, 4621-10
+pinf-13, 8536-3
+epi-1, 6953-1
+Ok
+pinf-14, 9249-1
+pinf-15, 6953-1
+0
+rnf-1, 1192-1, 6953-1
+The person with this number does not exist
+pinf-16, 9249-2
+rnf-2, 1192-2, 6953-2
+0
+0
+pinf-17, 4621-11
+0
+0
+pinf-18, 8536-4
+2
+pinf-19, 3230-1
+0
+pinf-20, 9249-3
+Ok
+Ok
+0
+Ok
+Ok
+0
+minf-3, 1247-1
+pinf-21, 4621-12
+pinf-22, 3230-2
+Ok
+0
+Ok
+pinf-23, 9249-4
+rnf-3, 1192-3, 4580-1
+0
+rnf-4, 6953-3, 9675-1
+pinf-24, 3568-1
+Ok
+pinf-25, 8111-1
+pinf-26, 3568-2
+Ok
+Ok
+pinf-27, 8536-5
+pinf-28, 3230-3
+0
+pinf-29, 9249-5
+rnf-5, 1192-4, 4580-2
+Ok
+pinf-30, 4621-13
+Ok
+minf-4, 874-3
+0
+The person with this number does not exist
+The person with this number does not exist
+pinf-31, 3568-3
+0
+Ok
+pinf-32, 8536-6
+pinf-33, 3230-4
+pinf-34, 9249-6
+Ok
+pinf-35, 958-1
+0
+5
+0
+0
+0
+0
+pinf-36, 6853-1
+Ok
+6
+0
+pinf-37, 4621-14
+Ok
+pinf-38, 8111-2
+1
+0
+The person with this number does not exist
+Ok
+The person with this number does not exist
+pinf-39, 5796-1
+1
+0
+minf-5, 399-1
+Ok
+None
+9675
+pinf-40, 8111-3
+pinf-41, 958-2
+0
+pinf-42, 6853-2
+rnf-6, 4047-1, 9675-2
+anf-3, 1616-1
+0
+None
+Ok
+0
+The person with this number does not exist
+Ok
+pinf-43, 8161-1
+None
+The person with this number does not exist
+Ok
+pinf-44, 7538-1
+Ok
+1
+pinf-45, 4621-15
+0
+pinf-46, 3230-5
+pinf-47, 9249-7
+pinf-48, 5796-2
+ginf-2, 713-1
+ginf-3, 3810-1
+0
+0
+pinf-49, 7041-1
+Ok
+Ok
+Ok
+minf-6, 114-1
+pinf-50, 8111-4
+ginf-4, 1826-1
+0
+pinf-51, 958-3
+pinf-52, 7234-1
+minf-7, 5618-1
+Ok
+ginf-5, 1826-2
+11
+pinf-53, 6853-3
+11
+1
+Ok
+rnf-7, 4047-2, 9675-3
+0
+0
+0
+0
+rnf-8, 1616-1, 4052-1
+Ok
+minf-8, 8725-1
+12
+1
+pinf-54, 8536-7
+0
+1
+0
+rnf-9, 1192-5, 6953-4
+ginf-6, 7661-1
+false
+0
+12
+The person with this number does not exist
+minf-9, 1247-2
+pinf-55, 3568-4
+The person with this number does not exist
+pinf-56, 7041-2
+ginf-7, 713-2
+pinf-57, 1038-1
+Ok
+Ok
+The person with this number does not exist
+pinf-58, 9249-8
+pinf-59, 5796-3
+1
+ginf-8, 2123-1
+pinf-60, 8176-1
+Ok
+2090
+rnf-10, 2090-1, 4395-1
+pinf-61, 8111-5
+1
+1
+None
+The person with this number does not exist
+pinf-62, 7234-2
+ginf-9, 3810-2
+pinf-63, 4448-1
+epi-2, 4047-1
+Ok
+Ok
+Ok
+0
+Ok
+ginf-10, 7661-2
+pinf-64, 8536-8
+13
+0
+anf-4, 4314-1
+13
+0
+0
+0
+2
+The person with this number does not exist
+pinf-65, 8161-2
+0
+pinf-66, 3568-5
+0
+pinf-67, 8176-2
+anf-5, 7417-1
+Ok
+minf-10, 870-1
+minf-11, 874-4
+0
+Ok
+pinf-68, 7041-3
+epi-3, 9593-1
+minf-12, 8871-1
+pinf-69, 4621-16
+pinf-70, 3230-6
+pinf-71, 8927-1
+pinf-72, 6953-2
+Ok
+2
+rnf-11, 1192-6, 4260-1
+2
+0
+96
+0
+pinf-73, 8111-6
+pinf-74, 958-4
+pinf-75, 7234-3
+pinf-76, 6853-4
+2
+0
+0
+minf-13, 875-1
+None
+2
+Ok
+2
+0
+minf-14, 399-2
+4052
+pinf-77, 8536-9
+Ok
+pinf-78, 8927-2
+minf-15, 7663-1
+Ok
+minf-16, 114-2
+pinf-79, 4448-2
+ginf-11, 1826-3
+pinf-80, 3568-6
+pinf-81, 8176-3
+pinf-82, 7538-2
+Ok
+rnf-12, 7417-1, 9586-1
+Group does not exist
+pinf-83, 3756-1
+15
+anf-6, 9593-1
+pinf-84, 4621-17
+pinf-85, 3230-7
+0
+0
+epi-4, 5796-1
+Ok
+Ok
+minf-17, 5618-2
+ginf-12, 4282-1
+Ok
+96
+anf-7, 4395-1
+0
+pinf-86, 3756-2
+minf-18, 8725-2
+0
+3
+ginf-13, 4282-2
+Ok
+Ok
+pinf-87, 958-5
+pinf-88, 271-1
+0
+0
+pinf-89, 6720-1
+pinf-90, 6853-5
+Ok
+0
+0
+Ok
+0
+pinf-91, 8536-10
+minf-19, 6556-1
+Ok
+Ok
+rnf-13, 1192-7, 6953-5
+anf-8, 9818-1
+0
+pinf-92, 8927-3
+ginf-14, 713-3
+pinf-93, 8161-3
+rnf-14, 1902-1, 4580-3
+pinf-94, 3568-7
+3
+Group does not exist
+Ok
+0
+3
+pinf-95, 7538-3
+minf-20, 4542-1
+Ok
+anf-9, 7417-2
+3
+Ok
+17
+pinf-96, 7041-4
+pinf-97, 4621-18
+pinf-98, 271-2
+pinf-99, 3230-8
+pinf-100, 9249-9
+ginf-15, 3810-3
+0
+Ok
+ginf-16, 2877-1
+3
+The person with this number does not exist
+0
+17
+true
+None
+The person with this number does not exist
+pinf-101, 7427-1
+0
+The person with this number does not exist
+Ok
+ginf-17, 7661-3
+0
+pinf-102, 6720-2
+pinf-103, 7907-1
+pinf-104, 6853-6
+0
+pinf-105, 6592-1
+pinf-106, 6199-1
+Ok
+3
+ginf-18, 7924-1
+rnf-15, 9289-1, 9675-4
+er-1, 1616-1, 4047-1
+17
+minf-21, 5667-1
+3
+Ok
+0
+18
+18
+er-2, 4052-1, 5589-1
+3
+The person with this number does not exist
+Ok
+anf-10, 4314-2
+Ok
+Ok
+pinf-107, 8927-4
+pinf-108, 4448-3
+pinf-109, 7907-2
+Ok
+3
+0
+pinf-110, 6114-1
+pinf-111, 3568-8
+pinf-112, 8176-4
+0
+pinf-113, 1015-1
+epi-5, 7417-1
+pinf-114, 7041-5
+ginf-19, 1826-4
+pinf-115, 7427-2
+19
+pinf-116, 4621-19
+pinf-117, 271-3
+0
+pinf-118, 3230-9
+false
+0
+true
+pinf-119, 3756-3
+pinf-120, 8111-7
+pinf-121, 6199-2
+Ok
+Ok
+0
+0
+minf-22, 8871-2
+pinf-122, 958-6
+pinf-123, 6592-2
+pinf-124, 7234-4
+pinf-125, 6853-7
+ginf-20, 4282-3
+rnf-16, 9289-2, 9675-5
+Ok
+false
+0
+ginf-21, 2877-2
+None
+ginf-22, 5630-1
+pinf-126, 8536-11
+0
+anf-11, 4314-3
+Ok
+pinf-127, 5682-1
+pinf-128, 8927-5
+0
+pinf-129, 8161-4
+The person with this number does not exist
+Ok
+pinf-130, 6114-2
+Ok
+pinf-131, 3568-9
+pinf-132, 8176-5
+pinf-133, 1015-2
+rnf-17, 7417-2, 7675-1
+pinf-134, 7041-6
+23
+pinf-135, 356-1
+pinf-136, 4621-20
+pinf-137, 271-4
+0
+Ok
+pinf-138, 3230-10
+0
+3
+ginf-23, 8845-1
+ginf-24, 2409-1
+anf-12, 5796-1
+Ok
+2090
+6953
+None
+pinf-139, 3756-4
+pinf-140, 9935-1
+0
+minf-23, 5563-1
+Ok
+ginf-25, 9020-1
+Ok
+pinf-141, 5682-2
+pinf-142, 6199-3
+Ok
+pinf-143, 958-7
+4
+ginf-26, 713-4
+24
+ginf-27, 2123-2
+pinf-144, 7234-5
+pinf-145, 6853-8
+Ok
+None
+Ok
+4
+None
+minf-24, 4542-2
+Ok
+4
+4
+Ok
+true
+pinf-146, 9935-2
+Ok
+0
+The person with this number does not exist
+Ok
+24
+pinf-147, 8927-6
+pinf-148, 4448-4
+pinf-149, 8161-5
+0
+The person with this number does not exist
+pinf-150, 6114-3
+ginf-28, 3810-4
+pinf-151, 1592-1
+pinf-152, 3568-10
+Ok
+pinf-153, 7538-4
+pinf-154, 1015-3
+ginf-29, 8025-1
+Ok
+ginf-30, 1711-1
+Ok
+pinf-155, 7427-3
+0
+pinf-156, 4260-1
+pinf-157, 8492-1
+6
+pinf-158, 2476-1
+pinf-159, 4621-21
+pinf-160, 1038-2
+Ok
+The person with this number does not exist
+Ok
+0
+0
+ginf-31, 5467-1
+pinf-161, 5672-1
+Ok
+0
+6
+minf-25, 8009-1
+The person with this number does not exist
+None
+1192
+4260
+2090
+ginf-32, 2409-2
+25
+Ok
+0
+0
+pinf-162, 3756-5
+24
+pinf-163, 2476-2
+Ok
+6
+pinf-164, 8111-8
+Ok
+ginf-33, 7661-4
+pinf-165, 5682-3
+pinf-166, 5561-1
+0
+ginf-34, 7924-2
+0
+pinf-167, 1592-2
+pinf-168, 958-8
+25
+pinf-169, 6720-3
+pinf-170, 2674-1
+pinf-171, 7234-6
+anf-13, 3011-1
+ginf-35, 3715-1
+pinf-172, 6853-9
+minf-26, 1247-3
+rnf-18, 9289-3, 9675-6
+Ok
+0
+Ok
+0
+0
+er-3, 1616-2, 4047-2
+pinf-173, 9935-3
+ginf-36, 5630-2
+0
+Ok
+The person with this number does not exist
+6
+minf-27, 870-2
+pinf-174, 1629-1
+Ok
+6
+pinf-175, 1629-2
+6
+6
+Ok
+6
+pinf-176, 8927-7
+Ok
+pinf-177, 8161-6
+pinf-178, 6393-1
+Ok
+Ok
+30
+anf-14, 1123-1
+pinf-179, 9334-1
+pinf-180, 5340-1
+ginf-37, 3715-2
+30
+pinf-181, 2878-1
+0
+pinf-182, 3726-1
+pinf-183, 3230-11
+Ok
+0
+ginf-38, 8845-2
+Ok
+er-4, 1192-1, 4260-1
+0
+Ok
+6
+pinf-184, 3756-6
+6
+The person with this number does not exist
+The person with this number does not exist
+0
+pinf-185, 6853-10
+pinf-186, 5340-2
+0
+pinf-187, 8927-8
+pinf-188, 7907-3
+pinf-189, 6393-2
+pinf-190, 5252-1
+pinf-191, 4358-1
+Ok
+0
+pinf-192, 271-5
+minf-28, 874-5
+0
+6
+Ok
+pinf-193, 6953-3
+pinf-194, 4845-1
+pinf-195, 8492-2
+0
+pinf-196, 2878-2
+ginf-39, 1826-5
+None
+0
+pinf-197, 8536-12
+pinf-198, 5590-1
+pinf-199, 4189-1
+0
+anf-15, 9567-1
+Ok
+Ok
+0
+pinf-200, 4448-5
+pinf-201, 356-2
+pinf-202, 7538-5
+0
+epi-6, 9586-1
+6
+6
+pinf-203, 1917-1
+Ok
+ginf-40, 1711-2
+minf-29, 875-2
+pinf-204, 7041-7
+rnf-19, 4485-1, 9608-1
+pinf-205, 9409-1
+34
+pinf-206, 9095-1
+pinf-207, 4580-1
+0
+epi-7, 408-1
+0
+Ok
+None
+minf-30, 7663-2
+pinf-208, 2476-3
+ginf-41, 8669-1
+rnf-20, 5561-1, 6575-1
+33
+33
+Ok
+pinf-209, 958-9
+Ok
+33
+0
+0
+pinf-210, 6592-3
+0
+0
+1616
+7
+Ok
+minf-31, 8944-1
+minf-32, 114-3
+pinf-211, 5590-2
+pinf-212, 8161-7
+pinf-213, 4452-1
+Ok
+The person with this number does not exist
+Group does not exist
+pinf-214, 3570-1
+pinf-215, 8066-1
+pinf-216, 1015-4
+pinf-217, 4621-22
+pinf-218, 9249-10
+Ok
+Ok
+pinf-219, 5682-4
+minf-33, 5618-3
+Ok
+ginf-42, 2877-3
+0
+35
+ginf-43, 9020-2
+7
+pinf-220, 6720-4
+35
+0
+7
+The person with this number does not exist
+pinf-221, 2165-1
+Ok
+0
+0
+rnf-21, 8779-1, 9289-4
+None
+pinf-222, 7675-1
+rnf-22, 1192-8, 6953-6
+36
+7
+7
+Ok
+0
+pinf-223, 1629-3
+pinf-224, 4189-2
+The person with this number does not exist
+pinf-225, 8137-1
+ginf-44, 713-5
+pinf-226, 2165-2
+ginf-45, 3370-1
+pinf-227, 9334-2
+anf-16, 3190-1
+pinf-228, 5252-2
+Ok
+pinf-229, 3726-2
+Ok
+anf-17, 7824-1
+Ok
+pinf-230, 3230-12
+0
+ginf-46, 2123-3
+Ok
+Ok
+39
+39
+pinf-231, 3756-7
+epi-8, 5303-1
+39
+pinf-232, 3769-1
+pinf-233, 7812-1
+pinf-234, 9935-4
+ginf-47, 8025-2
+pinf-235, 8414-1
+7
+ginf-48, 5467-2
+Ok
+pinf-236, 8927-9
+pinf-237, 7907-4
+The person with this number does not exist
+pinf-238, 6393-3
+pinf-239, 3836-1
+pinf-240, 7427-4
+ginf-49, 8669-2
+The person with this number does not exist
+pinf-241, 4502-1
+pinf-242, 271-6
+0
+7
+pinf-243, 8492-3
+The person with this number does not exist
+Ok
+ginf-50, 3810-5
+pinf-244, 2878-3
+epi-9, 4428-1
+7
+minf-34, 3453-1
+Ok
+The person with this number does not exist
+7
+pinf-245, 8536-13
+0
+Ok
+pinf-246, 4448-6
+0
+pinf-247, 4452-2
+0
+0
+ginf-51, 2409-3
+The person with this number does not exist
+40
+None
+0
+pinf-248, 1917-2
+0
+0
+Ok
+pinf-249, 8066-2
+ginf-52, 7661-5
+Ok
+pinf-250, 1999-1
+7
+0
+7
+pinf-251, 9095-2
+pinf-252, 8038-1
+Ok
+minf-35, 4991-1
+Ok
+pinf-253, 4502-2
+Group does not exist
+8
+Ok
+Group does not exist
+pinf-254, 8111-9
+8
+pinf-255, 506-1
+8
+true
+pinf-256, 958-10
+40
+ginf-53, 5630-3
+pinf-257, 1166-1
+40
+pinf-258, 8137-2
+40
+0
+pinf-259, 8252-1
+8
+ginf-54, 3715-3
+1616
+0
+pinf-260, 6095-1
+ginf-55, 6022-1
+Ok
+8
+Ok
+Ok
+pinf-261, 5590-3
+Ok
+pinf-262, 4542-1
+pinf-263, 6114-4
+Ok
+egi-1, 6154-1
+Ok
+pinf-264, 3568-11
+0
+pinf-265, 5409-1
+pinf-266, 3570-2
+Ok
+pinf-267, 1015-5
+Ok
+9
+pinf-268, 4621-23
+pinf-269, 1038-3
+Ok
+Ok
+pinf-270, 5145-1
+Ok
+42
+ginf-56, 8845-3
+pinf-271, 5672-2
+pinf-272, 5682-5
+pinf-273, 6199-4
+The person with this number does not exist
+pinf-274, 7234-7
+minf-36, 8701-1
+pinf-275, 4167-1
+Ok
+0
+Ok
+pinf-276, 9275-1
+ginf-57, 6817-1
+0
+Ok
+Ok
+0
+Ok
+0
+pinf-277, 1629-4
+pinf-278, 4189-3
+ginf-58, 4671-1
+minf-37, 2305-1
+minf-38, 8072-1
+Ok
+ginf-59, 4558-1
+pinf-279, 2674-2
+Ok
+pinf-280, 2165-3
+pinf-281, 9334-3
+epi-10, 1143-1
+0
+minf-39, 4877-1
+pinf-282, 5252-3
+pinf-283, 7388-1
+9
+9
+The person with this number does not exist
+Ok
+Ok
+anf-18, 7824-2
+Ok
+pinf-284, 5779-1
+pinf-285, 3230-13
+0
+Ok
+0
+0
+None
+44
+0
+pinf-286, 3756-8
+minf-40, 1551-1
+Ok
+pinf-287, 3769-2
+pinf-288, 9409-2
+0
+The person with this number does not exist
+ginf-60, 4671-2
+pinf-289, 4301-1
+pinf-290, 9935-5
+9
+rnf-23, 4314-1, 9818-1
+The person with this number does not exist
+0
+Ok
+The person with this number does not exist
+ginf-61, 2123-4
+pinf-291, 8414-2
+pinf-292, 4314-1
+Group does not exist
+pinf-293, 7907-5
+The person with this number does not exist
+minf-41, 8725-3
+0
+pinf-294, 4324-1
+9
+Group does not exist
+0
+9
+44
+pinf-295, 6393-4
+pinf-296, 3836-2
+pinf-297, 7427-5
+pinf-298, 4358-2
+pinf-299, 271-7
+44
+pinf-300, 5409-2
+true
+pinf-301, 8492-4
+9
+Ok
+minf-42, 8647-1
+ginf-62, 8845-4
+pinf-302, 2878-4
+Ok
+pinf-303, 2534-1
+Ok
+0
+Ok
+43
+10
+pinf-304, 8536-14
+rnf-24, 5469-1, 9567-1
+pinf-305, 4448-7
+pinf-306, 4452-3
+pinf-307, 7538-6
+pinf-308, 270-1
+Ok
+10
+10
+Ok
+pinf-309, 1917-3
+pinf-310, 7041-8
+44
+pinf-311, 8066-3
+None
+Ok
+ginf-63, 6817-2
+ginf-64, 1711-3
+minf-43, 6556-2
+Ok
+The person with this number does not exist

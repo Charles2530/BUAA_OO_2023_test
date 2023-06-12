@@ -1,0 +1,76 @@
+[2023-02-20]: ?P*t|fSV tried to borrow B-1205 
+[2023-02-28]: arranging librarian shelved 1 B-1205 
+[2023-02-28]: z:aL!/%* tried to borrow B-2833 
+[2023-02-28]: z:aL!/%* tried to borrow B-2833 
+[2023-02-28]: z:aL!/%* failed to borrow B-2833 - already had same type/book
+[2023-03-05]: arranging librarian shelved 1 B-2833 
+[2023-03-06]: ImVJ3!AQ tried to borrow B-9803 
+[2023-03-15]: Q*RD/cG# tried to borrow B-0886 
+[2023-04-17]: arranging librarian shelved 1 B-0886 
+[2023-04-17]: 9gvU%rvH tried to borrow C-1626 
+[2023-04-17]: 9gvU%rvH tried to borrow C-1626 
+[2023-04-17]: 9gvU%rvH failed to borrow C-1626 - already had same type/book
+[2023-04-30]: arranging librarian shelved 2 C-1626 
+[2023-04-30]: !K;Nz0:z tried to borrow C-7045 
+[2023-05-04]: kam:e#>l tried to borrow C-7307 
+[2023-05-07]: arranging librarian shelved 1 C-7045 
+[2023-05-29]: arranging librarian shelved 1 C-7307 
+[2023-06-06]: !K;Nz0:z tried to borrow B-7141 
+[2023-06-12]: arranging librarian shelved 1 B-7141 
+[2023-06-12]: }K$bT:[@ tried to borrow C-4505 
+[2023-06-16]: arranging librarian shelved 1 C-4505 
+[2023-06-16]: 8HfiO3PW tried to borrow B-1205 
+[2023-06-16]: 8HfiO3PW tried to borrow B-1205 
+[2023-06-16]: 8HfiO3PW failed to borrow B-1205 - already had same type/book
+[2023-06-25]: arranging librarian shelved 2 B-1205 
+[2023-06-25]: y8]E5#jV tried to borrow B-7936 
+[2023-06-25]: rh{?M@4d tried to borrow C-4381 
+[2023-07-03]: arranging librarian shelved 1 C-4381 
+[2023-07-06]: arranging librarian shelved 1 B-7936 
+[2023-07-06]: PiA+o%l? tried to borrow B-0194 
+[2023-07-17]: ~rg1jiYI tried to borrow C-7917 
+[2023-07-22]: }K$bT:[@ tried to borrow B-9803 
+[2023-07-24]: !K;Nz0:z tried to borrow C-5566 
+[2023-07-30]: R'+d'%A\ tried to borrow B-1205 
+[2023-07-30]: s4\"5e.F tried to borrow C-1325 
+[2023-08-03]: arranging librarian shelved 1 C-5566 
+[2023-08-03]: arranging librarian shelved 1 B-1205 
+[2023-08-10]: arranging librarian shelved 1 C-1325 
+[2023-08-10]: uu]"Z{cu tried to borrow B-1196 
+[2023-08-10]: dap/}24i tried to borrow B-9699 
+[2023-08-11]: &z>B`s(/ tried to borrow C-2832 
+[2023-08-13]: }K$bT:[@ tried to borrow C-6940 
+[2023-08-13]: }K$bT:[@ tried to borrow C-6940 
+[2023-08-13]: }K$bT:[@ failed to borrow C-6940 - already had same type/book
+[2023-08-13]: '2TefK-B tried to borrow B-3416 
+[2023-08-13]: '2TefK-B tried to borrow B-3416 
+[2023-08-13]: '2TefK-B failed to borrow B-3416 - already had same type/book
+[2023-08-17]: arranging librarian shelved 1 B-1196 
+[2023-08-17]: arranging librarian shelved 1 B-9699 
+[2023-08-17]: arranging librarian shelved 2 C-6940 
+[2023-08-17]: arranging librarian shelved 1 B-3416 
+[2023-08-17]: f0H!T?tO tried to borrow C-2832 
+[2023-08-29]: arranging librarian shelved 1 B-3416 
+[2023-08-29]: %!n#(D(] tried to borrow B-4054 
+[2023-10-30]: 4@1hmwqZ tried to borrow B-9699 
+[2023-10-31]: y8]E5#jV tried to borrow C-8077 
+[2023-11-08]: arranging librarian shelved 1 C-8077 
+[2023-11-08]: &z>B`s(/ tried to borrow B-0194 
+[2023-11-08]: &z>B`s(/ failed to borrow B-0194 - stock <= 0
+[2023-11-08]: &z>B`s(/ tried to order B-0194 
+[2023-11-10]: jo:ZfEq] tried to borrow B-2410 
+[2023-11-23]: arranging librarian shelved 1 B-2410 
+[2023-11-23]: y8]E5#jV tried to borrow C-0989 
+[2023-12-11]: arranging librarian shelved 1 C-0989 
+[2023-12-11]: 8HfiO3PW tried to borrow B-7141 
+[2023-12-19]: @^2v)3C! tried to borrow B-8357 
+[2023-12-21]: B|A^x8b0 tried to borrow B-7936 
+[2023-12-29]: arranging librarian shelved 1 B-8357 
+[2023-12-29]: 4@1hmwqZ tried to borrow B-0118 
+[2023-12-31]: arranging librarian shelved 1 B-7936 
+[2023-12-31]: 8HfiO3PW tried to borrow C-1325 
+[2023-12-31]: 8HfiO3PW tried to borrow C-1325 
+[2023-12-31]: 8HfiO3PW failed to borrow C-1325 - already had same type/book
+[2023-12-31]: zacCg+Y_ tried to borrow B-3931 
+[2023-12-31]: zacCg+Y_ tried to borrow B-3931 
+[2023-12-31]: zacCg+Y_ failed to borrow B-3931 - already had same type/book

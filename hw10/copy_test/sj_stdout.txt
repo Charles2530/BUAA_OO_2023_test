@@ -1,0 +1,89 @@
+pinf-1, 3470-1
+pinf-2, 6965-1
+pinf-3, 1079-1
+0
+ginf-1, 416-1
+minf-1, 6924-1
+pinf-4, 2193-1
+ginf-2, 7758-1
+pinf-5, 4371-1
+pinf-6, 8394-1
+pinf-7, 5795-1
+pinf-8, 5974-1
+pinf-9, 8773-1
+Group does not exist
+minf-2, 7727-1
+ginf-3, 8886-1
+pinf-10, 4401-1
+ginf-4, 3317-1
+ginf-5, 3497-1
+0
+0
+pinf-11, 3170-1
+0
+pinf-12, 6240-1
+ginf-6, 7308-1
+The person with this number does not exist
+Ok
+pinf-13, 5751-1
+ginf-7, 561-1
+0
+0
+pinf-14, 6290-1
+Group does not exist
+0
+pinf-15, 3395-1
+Ok
+pinf-16, 2244-1
+1
+egi-1, 2847-1
+epi-1, 6018-1
+0
+Group does not exist
+epi-2, 6018-2
+1
+egi-2, 2847-2
+None
+ginf-8, 2245-1
+ginf-9, 4344-1
+None
+ginf-10, 2149-1
+0
+true
+0
+pinf-17, 6227-1
+0
+1
+Ok
+minf-3, 1330-1
+0
+2
+minf-4, 6158-1
+ginf-11, 3385-1
+2
+None
+0
+0
+pinf-18, 1337-1
+true
+0
+0
+minf-5, 8732-1
+epi-3, 7177-1
+0
+pinf-19, 5785-1
+2
+ginf-12, 4463-1
+0
+Ok
+anf-1, 7177-1
+er-1, 6018-1, 6018-1
+0
+0
+pinf-20, 7539-1
+epi-4, 6018-3
+2
+0
+None
+Ok
+2
